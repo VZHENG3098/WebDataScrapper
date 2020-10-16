@@ -1,0 +1,592 @@
+XigN
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+BTRG,Lynn Vision, 13, 16,inf,21,20,+1,1.11,Lost
+BTRG,Lynn Vision, 13, 16,trn,17,19,-2,0.94,Lost
+BTRG,Lynn Vision, 22, 19,d2,24,26,-2,0.94,Lost
+BTRG,ViCi, 10, 16,inf,12,20,-8,0.79,Lost
+BTRG,ViCi, 11, 16,nuke,23,16,+7,1.16,Lost
+BTRG,D13, 16, 14,d2,20,17,+3,1.15,Won
+BTRG,D13, 11, 16,nuke,13,22,-9,0.66,Won
+BTRG,D13, 16, 6,trn,27,9,+18,1.90,Won
+BTRG,D13, 16, 7,nuke,14,11,+3,1.05,Won
+BTRG,D13, 5, 16,trn,18,17,+1,1.07,Won
+BTRG,D13, 16, 12,inf,28,14,+14,1.56,Won
+BTRG,Beyond, 17, 19,nuke,35,26,+9,1.40,Lost
+BTRG,Beyond, 5, 16,mrg,19,17,+2,1.11,Lost
+BTRG,Invictus, 17, 19,inf,26,26,0,1.13,Lost
+BTRG,Invictus, 7, 16,trn,12,18,-6,0.80,Lost
+BTRG,D13, 16, 11,mrg,19,16,+3,1.03,Won
+BTRG,D13, 16, 7,trn,23,15,+8,1.44,Won
+BTRG,TIGER, 12, 16,ovp,18,19,-1,0.97,Lost
+BTRG,TIGER, 14, 16,nuke,22,21,+1,1.05,Lost
+BTRG,TYLOO, 16, 10,mrg,28,15,+13,1.63,Won
+BTRG,TYLOO, 16, 9,trn,23,11,+12,1.50,Won
+BTRG,TYLOO, 12, 16,d2,16,15,+1,1.02,Won
+BTRG,Invictus, 4, 16,d2,11,16,-5,0.86,Lost
+BTRG,Invictus, 8, 16,trn,9,22,-13,0.67,Lost
+BTRG,ZIGMA, 12, 16,trn,19,21,-2,1.00,Lost
+BTRG,ZIGMA, 16, 7,mrg,12,14,-2,0.96,Lost
+BTRG,ZIGMA, 20, 22,inf,32,27,+5,1.21,Lost
+BTRG,Beyond, 10, 16,trn,23,22,+1,1.38,Lost
+BTRG,Beyond, 4, 16,inf,11,16,-5,0.74,Lost
+BTRG,Beyond, 16, 6,ovp,22,11,+11,1.71,Lost
+BTRG,HZ, 16, 14,nuke,30,20,+10,1.40,Won
+BTRG,HZ, 16, 10,trn,24,21,+3,1.26,Won
+BTRG,Maple, 16, 5,ovp,23,13,+10,1.86,Won
+BTRG,Maple, 25, 22,mrg,53,26,+27,1.71,Won
+BTRG,Maple, 6, 16,nuke,15,18,-3,0.98,Won
+BTRG,Beyond, 9, 16,trn,14,20,-6,1.03,Lost
+BTRG,Beyond, 13, 16,ovp,24,21,+3,1.17,Lost
+BTRG,Blank, 16, 10,inf,20,9,+11,1.39,Won
+BTRG,Blank, 19, 17,ovp,28,22,+6,1.14,Won
+MVP PK,INTZ, 13, 16,trn,12,24,-12,0.63,Lost
+MVP PK,INTZ, 12, 16,vtg,18,17,+1,1.00,Lost
+MVP PK,North, 10, 16,inf,21,22,-1,1.17,Lost
+MVP PK,North, 10, 16,nuke,18,19,-1,1.00,Lost
+MVP PK,TYLOO, 6, 16,inf,11,17,-6,0.74,Lost
+MVP PK,TYLOO, 4, 16,d2,5,16,-11,0.40,Lost
+MVP PK,AVANT, 16, 9,inf,23,13,+10,1.48,Won
+MVP PK,AVANT, 16, 11,d2,24,15,+9,1.37,Won
+MVP PK,Grayhound, 4, 16,d2,11,18,-7,0.66,Lost
+MVP PK,Grayhound, 10, 16,mrg,22,20,+2,1.12,Lost
+MVP PK,Alpha Red, 16, 8,mrg,25,12,+13,1.66,Won
+MVP PK,Alpha Red, 16, 7,inf,17,9,+8,1.44,Won
+MVP PK,Alpha Red, 13, 16,vtg,28,18,+10,1.39,Won
+MVP PK,FFAmix, 16, 9,nuke,23,11,+12,1.51,Won
+MVP PK,FFAmix, 16, 13,inf,23,20,+3,1.24,Won
+MVP PK,Alpha Red, 10, 16,trn,11,21,-10,0.62,Lost
+MVP PK,mousesports, 6, 16,inf,14,17,-3,0.79,Lost
+MVP PK,mousesports, 8, 16,vtg,17,22,-5,0.98,Lost
+MVP PK,Liquid, 14, 16,nuke,24,23,+1,1.12,Lost
+MVP PK,Mazaalai, 16, 9,d2,22,11,+11,1.53,Won
+MVP PK,Mazaalai, 16, 6,nuke,22,15,+7,1.27,Won
+MVP PK,Mazaalai, 16, 13,d2,21,16,+5,1.05,Won
+MVP PK,Mazaalai, 16, 2,mrg,27,2,+25,2.39,Won
+MVP PK,Ignis, 16, 7,ovp,12,16,-4,0.91,Won
+MVP PK,Ignis, 16, 8,mrg,26,11,+15,1.76,Won
+MVP PK,Updraft, 16, 6,d2,12,12,0,1.07,Won
+MVP PK,Updraft, 16, 9,mrg,17,14,+3,1.06,Won
+MVP PK,Alpha Red, 19, 16,mrg,21,27,-6,0.96,Won
+MVP PK,Alpha Red, 16, 1,d2,8,7,+1,1.12,Won
+MVP PK,TYLOO, 10, 16,trn,14,21,-7,0.77,Lost
+MVP PK,TYLOO, 19, 16,mrg,26,27,-1,0.95,Lost
+MVP PK,TYLOO, 14, 16,d2,29,21,+8,1.27,Lost
+MVP PK,Lucid Dream, 16, 2,trn,16,5,+11,1.61,Won
+MVP PK,Lucid Dream, 16, 10,d2,16,16,0,1.09,Won
+MVP PK,TYLOO, 16, 11,ovp,24,13,+11,1.49,Won
+MVP PK,TYLOO, 9, 16,inf,16,20,-4,0.99,Won
+MVP PK,TYLOO, 19, 17,mrg,24,23,+1,0.98,Won
+MVP PK,BOOT, 16, 10,inf,25,14,+11,1.53,Won
+MVP PK,BOOT, 16, 9,d2,16,16,0,1.05,Won
+MVP PK,TYLOO, 16, 7,inf,19,14,+5,1.28,Won
+MVP PK,TYLOO, 16, 11,mrg,16,16,0,1.05,Won
+MVP PK,TYLOO, 13, 16,trn,27,20,+7,1.46,Won
+MVP PK,Recca, 16, 10,ovp,25,13,+12,1.45,Won
+MVP PK,Recca, 16, 4,mrg,23,14,+9,1.73,Won
+MVP PK,BIG, 5, 16,ovp,10,17,-7,0.59,Lost
+MVP PK,BIG, 16, 8,d2,11,18,-7,0.80,Lost
+MVP PK,BIG, 7, 16,inf,15,18,-3,0.91,Lost
+MVP PK,eUnited, 19, 17,ovp,21,23,-2,0.89,Won
+MVP PK,eUnited, 16, 9,trn,13,17,-4,0.87,Won
+MVP PK,Renegades, 13, 16,inf,26,21,+5,1.21,Lost
+MVP PK,5POWER, 16, 7,trn,25,15,+10,1.71,Won
+MVP PK,5POWER, 16, 7,d2,19,13,+6,1.33,Won
+MVP PK,TYLOO, 20, 22,mrg,28,30,-2,0.97,Lost
+MVP PK,TYLOO, 7, 16,inf,12,16,-4,0.87,Lost
+MVP PK,ViCi, 16, 14,ovp,24,18,+6,1.37,Won
+MVP PK,ViCi, 16, 11,inf,20,19,+1,1.20,Won
+MVP PK,Lucid Dream, 5, 16,nuke,16,18,-2,1.01,Lost
+MVP PK,Lucid Dream, 10, 16,mrg,18,16,+2,1.09,Lost
+MVP PK,ex-Storm Riders, 16, 5,inf,18,9,+9,1.51,Won
+MVP PK,ex-Storm Riders, 16, 2,ovp,20,9,+11,1.85,Won
+MVP PK,Alpha Red, 19, 17,mrg,21,24,-3,0.94,Won
+MVP PK,Alpha Red, 16, 3,inf,19,9,+10,1.54,Won
+MVP PK,BOOT-d[S], 16, 5,nuke,22,12,+10,1.59,Won
+MVP PK,BOOT-d[S], 16, 4,d2,24,10,+14,1.79,Won
+MVP PK,Signify, 16, 11,trn,25,17,+8,1.44,Won
+MVP PK,Alpha Red, 16, 9,trn,24,13,+11,1.64,Won
+MVP PK,5POWER, 16, 6,inf,22,13,+9,1.42,Won
+MVP PK,5POWER, 12, 16,ovp,20,22,-2,1.17,Won
+MVP PK,5POWER, 16, 14,mrg,21,20,+1,1.09,Won
+MVP PK,Ignis, 16, 2,inf,19,8,+11,1.77,Won
+MVP PK,Aster, 16, 13,inf,20,18,+2,1.13,Won
+MVP PK,Absolute, 16, 5,inf,18,8,+10,1.48,Won
+MVP PK,Absolute, 16, 8,ovp,23,12,+11,1.59,Won
+MVP PK,Storm Rider, 16, 6,trn,11,11,0,1.05,Won
+MVP PK,2990, 16, 3,nuke,19,8,+11,1.79,Won
+MVP PK,2990, 16, 10,mrg,27,13,+14,1.60,Won
+MVP PK,IM11, 16, 3,inf,22,7,+15,1.95,Won
+MVP PK,IM11, 16, 5,mrg,15,11,+4,1.21,Won
+MVP PK,BOOT-d[S], 13, 16,mrg,27,21,+6,1.28,Lost
+MVP PK,BOOT-d[S], 14, 16,inf,28,20,+8,1.35,Lost
+MVP PK,ViCi, 8, 16,trn,17,19,-2,1.07,Lost
+MVP PK,ViCi, 12, 16,mrg,19,23,-4,0.75,Lost
+MVP PK,Grayhound, 8, 16,d2,16,19,-3,0.79,Lost
+MVP PK,Grayhound, 8, 16,cch,12,19,-7,0.72,Lost
+MVP PK,Grayhound, 16, 9,nuke,18,15,+3,1.17,Lost
+MVP PK,GOSU, 16, 5,nuke,23,14,+9,1.85,Won
+MVP PK,GOSU, 16, 14,mrg,32,22,+10,1.44,Won
+MVP PK,Beyond, 16, 8,mrg,24,15,+9,1.47,Won
+MVP PK,CyberZen, 10, 16,mrg,20,18,+2,1.10,Lost
+MVP PK,CyberZen, 6, 16,inf,15,17,-2,0.84,Lost
+MVP PK,CyberZen, 16, 14,d2,30,23,+7,1.34,Lost
+MVP PK,EHOME, 11, 16,nuke,14,20,-6,0.74,Lost
+MVP PK,EHOME, 17, 19,d2,22,22,0,1.12,Lost
+MVP PK,EHOME, 16, 3,inf,23,12,+11,1.83,Lost
+MVP PK,Flash, 16, 6,inf,20,14,+6,1.38,Won
+MVP PK,Flash, 16, 10,cch,17,15,+2,1.02,Won
+MVP PK,TNC, 16, 5,trn,22,10,+12,1.68,Won
+MVP PK,TNC, 16, 9,nuke,23,14,+9,1.45,Won
+MVP PK,BOOT-d[S], 16, 7,inf,26,14,+12,1.59,Won
+MVP PK,BTRG.IMBA, 16, 8,d2,13,16,-3,0.90,Won
+All Star A,All Star B, 16, 14,cch,23,21,+2,1.09,Won
+MVP PK,5POWER, 16, 14,inf,17,20,-3,0.91,Won
+MVP PK,5POWER, 16, 10,mrg,19,18,+1,1.17,Won
+MVP PK,pro100, 16, 4,inf,22,12,+10,Nil,Nil
+MVP PK,pro100, 6, 16,cch,16,19,-3,Nil,Nil
+MVP PK,Heroic, 4, 16,d2,11,15,-4,0.66,Lost
+MVP PK,Kinguin, 10, 16,trn,15,19,-4,0.96,Lost
+MVP PK,Kinguin, 12, 16,nuke,21,21,0,1.07,Lost
+MVP PK,GOSU, 16, 8,nuke,14,15,-1,0.96,Won
+MVP PK,GOSU, 16, 13,inf,16,16,0,0.89,Won
+MVP PK,GOSU, 16, 4,d2,21,8,+13,1.77,Won
+MVP PK,GOSU, 16, 5,trn,17,14,+3,1.16,Won
+MVP PK,Storm Rider, 16, 8,trn,26,13,+13,1.79,Won
+MVP PK,Storm Rider, 10, 16,inf,14,20,-6,0.84,Won
+MVP PK,Storm Rider, 16, 6,mrg,22,11,+11,1.40,Won
+MVP PK,YoungPower, 16, 6,mrg,21,9,+12,1.67,Won
+MVP PK,YoungPower, 16, 5,cch,15,6,+9,1.48,Won
+MVP PK,NRG, 8, 16,inf,17,21,-4,0.96,Lost
+MVP PK,NRG, 9, 16,trn,11,19,-8,0.74,Lost
+MVP PK,NRG, 16, 11,d2,19,18,+1,1.15,Lost
+MVP PK,Astralis, 8, 16,nuke,15,20,-5,0.91,Lost
+MVP PK,5POWER, 16, 4,inf,18,9,+9,1.49,Won
+MVP PK,5POWER, 16, 9,cch,26,14,+12,1.62,Won
+MVP PK,CyberZen, 8, 16,d2,9,21,-12,0.59,Lost
+MVP PK,CyberZen, 16, 14,inf,32,20,+12,1.51,Lost
+MVP PK,CyberZen, 14, 16,cch,22,20,+2,1.02,Lost
+MVP PK,NASR, 16, 10,trn,18,17,+1,1.08,Won
+MVP PK,NASR, 16, 1,nuke,14,9,+5,1.20,Won
+MVP PK,Flash, 16, 8,cch,25,16,+9,1.62,Won
+MVP PK,Flash, 16, 9,mrg,20,18,+2,1.29,Won
+MVP PK,Flash, 14, 16,d2,22,17,+5,1.10,Won
+MVP PK,TNC, 16, 0,inf,16,3,+13,1.72,Won
+MVP PK,TNC, 16, 8,d2,19,13,+6,1.32,Won
+MVP PK,FrostFire, 16, 10,mrg,25,15,+10,1.54,Won
+MVP PK,Revolution, 16, 3,nuke,27,11,+16,2.13,Won
+MVP PK,ViCi, 16, 19,cch,24,24,0,1.05,Lost
+MVP PK,ViCi, 8, 16,inf,21,14,+7,1.15,Lost
+MVP PK,ViCi, 16, 8,d2,28,9,+19,2.01,Lost
+MVP PK,BOOT-d[S], 16, 7,nuke,32,17,+15,2.00,Won
+MVP PK,BOOT-d[S], 16, 7,mrg,15,15,0,1.05,Won
+MVP PK,OpTic India, 22, 20,inf,33,27,+6,1.20,Won
+MVP PK,OpTic India, 16, 7,nuke,17,13,+4,1.14,Won
+MVP PK,Ignis, 16, 5,d2,20,10,+10,1.42,Won
+MVP PK,GOSU, 16, 2,nuke,11,10,+1,1.26,Won
+MVP PK,GOSU, 11, 16,inf,22,17,+5,1.38,Won
+MVP PK,GOSU, 16, 11,mrg,16,14,+2,1.14,Won
+MVP PK,EHOME, 16, 5,nuke,17,12,+5,1.26,Won
+MVP PK,EHOME, 16, 12,d2,17,17,0,0.90,Won
+MVP PK,EHOME, 16, 9,inf,16,17,-1,0.97,Won
+MVP PK,ikarus, 16, 12,cch,22,21,+1,1.18,Won
+MVP PK,ikarus, 16, 3,inf,24,9,+15,2.04,Won
+MVP PK,GOSU, 16, 13,nuke,20,21,-1,1.18,Won
+MVP PK,MIBR, 10, 16,d2,22,17,+5,1.26,Lost
+MVP PK,MIBR, 9, 16,inf,23,18,+5,1.05,Lost
+MVP PK,Virtus.pro, 16, 11,mrg,28,14,+14,1.65,Won
+MVP PK,Virtus.pro, 5, 16,d2,17,17,0,1.19,Won
+MVP PK,Virtus.pro, 16, 13,inf,17,21,-4,0.75,Won
+MVP PK,Flash, 16, 13,mrg,24,16,+8,1.32,Won
+MVP PK,Flash, 16, 7,cch,18,14,+4,1.16,Won
+MVP PK,Flash, 16, 6,inf,28,9,+19,1.87,Won
+MVP PK,SCARZ Absolute, 16, 5,inf,18,11,+7,1.59,Won
+MVP PK,SCARZ Absolute, 16, 9,cch,13,13,0,1.02,Won
+MVP PK,CyberZen, 13, 16,mrg,17,21,-4,0.88,Lost
+MVP PK,CyberZen, 16, 19,nuke,27,26,+1,1.09,Lost
+MVP PK,CyberZen, 16, 14,inf,27,18,+9,1.41,Lost
+MVP PK,SCARZ Absolute, 16, 6,nuke,18,11,+7,1.42,Won
+MVP PK,SCARZ Absolute, 16, 14,mrg,30,17,+13,1.50,Won
+MVP PK,TNC, 19, 15,inf,34,17,+17,1.56,Won
+MVP PK,TYLOO, 8, 16,trn,22,18,+4,1.28,Lost
+MVP PK,TYLOO, 16, 3,inf,16,4,+12,1.71,Lost
+MVP PK,TYLOO, 2, 16,mrg,10,16,-6,0.99,Lost
+MVP PK,BOOT-d[S], 16, 4,mrg,20,11,+9,1.55,Won
+MVP PK,BOOT-d[S], 16, 12,nuke,37,14,+23,1.91,Won
+MVP PK,Flash, 16, 12,cch,24,19,+5,1.27,Won
+MVP PK,Flash, 7, 16,trn,8,21,-13,0.68,Won
+MVP PK,Flash, 16, 12,mrg,27,20,+7,1.33,Won
+MVP PK,Lucid Dream, 19, 16,mrg,24,20,+4,1.27,Won
+MVP PK,Lucid Dream, 12, 16,cch,13,19,-6,0.89,Won
+MVP PK,Lucid Dream, 16, 8,trn,30,14,+16,1.85,Won
+MVP PK,CyberZen, 8, 16,inf,11,20,-9,0.67,Lost
+MVP PK,New4, 16, 1,inf,25,5,+20,2.24,Won
+MVP PK,SCARZ Absolute, 10, 16,cch,31,19,+12,1.69,Lost
+MVP PK,SCARZ Absolute, 9, 16,d2,20,19,+1,1.06,Lost
+MVP PK,2990, 16, 3,trn,21,4,+17,1.91,Won
+MVP PK,BOOT-d[S], 17, 19,inf,31,24,+7,1.18,Lost
+MVP PK,BOOT-d[S], 8, 16,cch,9,19,-10,0.61,Lost
+MVP PK,Lucid Dream, 9, 16,inf,28,17,+11,1.45,Lost
+MVP PK,Lucid Dream, 12, 16,cch,26,13,+13,1.49,Lost
+MVP PK,Beyond, 16, 14,mrg,26,18,+8,1.23,Won
+MVP PK,Beyond, 16, 10,nuke,30,12,+18,1.71,Won
+MVP PK,Beyond, 6, 16,cch,10,18,-8,0.63,Won
+MVP PK,TYLOO, 14, 16,inf,21,15,+6,1.18,Lost
+MVP PK,TYLOO, 14, 16,mrg,21,18,+3,1.17,Lost
+MVP PK,Heroic, 5, 16,trn,9,16,-7,0.51,Lost
+MVP PK,Heroic, 16, 6,cch,19,10,+9,1.64,Lost
+MVP PK,Heroic, 6, 16,mrg,9,19,-10,0.58,Lost
+MVP PK,Signature, 16, 10,trn,26,15,+11,1.63,Won
+MVP PK,Signature, 16, 12,inf,19,15,+4,1.19,Won
+MVP PK,ORDER, 16, 11,mrg,28,18,+10,1.25,Won
+MVP PK,ORDER, 16, 14,ovp,18,22,-4,1.02,Won
+MVP PK,ORDER, 13, 16,inf,8,20,-12,0.55,Won
+MVP PK,SCARZ Absolute, 16, 4,inf,19,13,+6,1.27,Won
+MVP PK,BOOT-d[S], 10, 16,trn,23,19,+4,1.44,Lost
+MVP PK,BOOT-d[S], 13, 16,cch,19,25,-6,0.91,Lost
+MVP PK,BOOT-d[S], 16, 6,inf,11,12,-1,0.94,Lost
+MVP PK,Ignis, 8, 16,mrg,14,17,-3,0.83,Lost
+MVP PK,NRG, 2, 16,mrg,6,16,-10,0.64,Lost
+MVP PK,NRG, 8, 16,trn,16,16,0,0.94,Lost
+MVP PK,NRG, 16, 10,cch,26,17,+9,1.53,Lost
+MVP PK,Natus Vincere, 7, 16,mrg,6,18,-12,0.57,Lost
+MVP PK,5POWER, 8, 16,mrg,20,18,+2,1.09,Lost
+MVP PK,5POWER, 16, 10,inf,22,11,+11,1.33,Lost
+MVP PK,5POWER, 10, 16,d2,18,16,+2,0.97,Lost
+MVP PK,TheMongolz, 16, 6,mrg,19,12,+7,1.28,Won
+MVP PK,TheMongolz, 16, 7,inf,19,12,+7,1.39,Won
+MVP PK,Recca, 12, 16,nuke,17,25,-8,0.86,Lost
+MVP PK,Recca, 9, 16,trn,18,21,-3,1.07,Lost
+MVP PK,mousesports, 4, 16,mrg,10,19,-9,0.60,Lost
+MVP PK,mousesports, 12, 16,inf,19,21,-2,0.98,Lost
+MVP PK,Chiefs, 16, 8,inf,21,15,+6,1.47,Won
+MVP PK,Chiefs, 16, 14,nuke,27,21,+6,1.35,Won
+MVP PK,G2, 5, 16,inf,11,14,-3,0.73,Lost
+MVP PK,Grayhound, 16, 10,cbl,25,15,+10,1.51,Won
+MVP PK,Grayhound, 3, 16,nuke,15,17,-2,0.85,Won
+MVP PK,Grayhound, 19, 17,cch,30,25,+5,1.21,Won
+MVP PK,Tainted Minds, 16, 8,trn,28,15,+13,1.69,Won
+MVP PK,Tainted Minds, 16, 10,inf,19,16,+3,1.13,Won
+MVP PK,Signature, 16, 11,trn,26,17,+9,1.38,Won
+MVP PK,Signature, 16, 12,inf,19,19,0,0.93,Won
+MVP PK,ORDER, 13, 16,mrg,33,20,+13,1.52,Lost
+MVP PK,ORDER, 16, 6,inf,26,10,+16,1.78,Lost
+MVP PK,ORDER, 13, 16,trn,15,21,-6,0.87,Lost
+MVP PK,SCARZ Absolute, 16, 14,cbl,29,21,+8,1.32,Won
+MVP PK,GOSU, 16, 4,cbl,15,10,+5,1.49,Won
+MVP PK,GOSU, 16, 5,inf,14,15,-1,1.07,Won
+MVP PK,TYLOO, 19, 16,inf,32,27,+5,1.41,Won
+MVP PK,TYLOO, 7, 16,mrg,18,18,0,0.93,Won
+MVP PK,TYLOO, 19, 15,trn,27,22,+5,1.14,Won
+MVP PK,Flash, 16, 8,cbl,29,16,+13,1.92,Won
+MVP PK,Flash, 16, 7,inf,20,13,+7,1.44,Won
+MVP PK,Signature, 16, 9,inf,22,16,+6,1.27,Won
+MVP PK,Signature, 16, 14,cbl,19,20,-1,1.16,Won
+MVP PK,Grayhound, 19, 17,nuke,28,22,+6,1.22,Won
+MVP PK,Grayhound, 16, 9,inf,22,9,+13,1.53,Won
+MVP PK,BOOT-d[S], 16, 13,mrg,12,16,-4,0.79,Won
+MVP PK,BOOT-d[S], 16, 14,inf,22,17,+5,1.21,Won
+CAS Howl,CAS Lore, 7, 16,d2,16,19,-3,0.84,Lost
+MVP PK,Flash, 16, 13,mrg,23,17,+6,1.23,Won
+MVP PK,Flash, 16, 1,inf,27,3,+24,2.53,Won
+MVP PK,Eclipse, 16, 10,mrg,28,18,+10,1.59,Won
+MVP PK,Eclipse, 13, 16,inf,26,18,+8,1.24,Won
+MVP PK,Eclipse, 16, 13,cbl,25,21,+4,1.29,Won
+MVP PK,AGO, 7, 16,inf,11,19,-8,0.73,Lost
+MVP PK,AGO, 8, 16,ovp,19,18,+1,0.88,Lost
+MVP PK,Spirit, 8, 16,nuke,9,20,-11,0.56,Lost
+MVP PK,Spirit, 14, 16,mrg,12,27,-15,0.64,Lost
+MVP PK,Vega Squadron, 16, 11,inf,24,14,+10,1.38,Won
+MVP PK,TYLOO, 16, 9,cbl,23,15,+8,1.45,Won
+MVP PK,fnatic, 2, 16,inf,8,18,-10,0.41,Lost
+MVP PK,fnatic, 20, 22,mrg,37,27,+10,1.25,Lost
+MVP PK,Envy, 7, 16,cbl,15,19,-4,Nil,Nil
+MVP PK,Envy, 16, 7,inf,23,11,+12,Nil,Nil
+MVP PK,Russia, 16, 12,cch,20,16,+4,Nil,Nil
+MVP PK,Russia, 11, 16,cbl,23,20,+3,Nil,Nil
+MVP PK,Recca, 16, 7,cbl,28,10,+18,2.08,Won
+MVP PK,Recca, 16, 14,mrg,22,20,+2,1.17,Won
+MVP PK,subtLe, 16, 8,cbl,26,14,+12,1.65,Won
+MVP PK,TeamOne, 16, 10,mrg,21,19,+2,1.14,Won
+MVP PK,Alpha Red, 16, 7,cbl,17,16,+1,1.23,Won
+MVP PK,Eclipse, 13, 16,inf,17,21,-4,0.89,Lost
+MVP PK,Eclipse, 5, 16,nuke,16,17,-1,1.07,Lost
+MVP PK,Born in Mongolia, 16, 14,mrg,20,19,+1,1.09,Won
+MVP PK,Born in Mongolia, 16, 6,inf,17,12,+5,1.02,Won
+MVP PK,Izrgod, 16, 10,mrg,20,13,+7,1.40,Won
+MVP PK,Izrgod, 16, 2,cbl,18,8,+10,1.63,Won
+MVP PK,Aim4R Hasteka, 16, 9,nuke,25,10,+15,1.67,Won
+MVP PK,HellRaisers, 10, 16,cch,20,16,+4,1.22,Lost
+MVP PK,HellRaisers, 7, 16,inf,7,19,-12,0.48,Lost
+MVP PK,Virtus.pro, 19, 22,nuke,22,32,-10,0.81,Lost
+MVP PK,Virtus.pro, 19, 16,inf,22,22,0,0.98,Lost
+MVP PK,Virtus.pro, 5, 16,trn,13,19,-6,0.73,Lost
+MVP PK,SK, 10, 16,cbl,14,20,-6,0.85,Lost
+MVP PK,SK, 5, 16,inf,14,18,-4,0.98,Lost
+MVP PK,TYLOO, 11, 16,inf,23,23,0,1.25,Lost
+MVP PK,TYLOO, 4, 16,cbl,8,17,-9,0.48,Lost
+MVP PK,Signature, 16, 3,mrg,18,11,+7,1.54,Won
+MVP PK,Signature, 16, 13,inf,26,17,+9,1.37,Won
+MVP PK,Signature, 7, 16,cbl,11,17,-6,0.66,Won
+MVP PK,Flash, 16, 5,inf,33,9,+24,2.41,Won
+MVP PK,Flash, 16, 11,mrg,28,16,+12,1.64,Won
+MVP PK,BOOT-d[S], 16, 7,nuke,24,17,+7,1.52,Won
+MVP PK,BOOT-d[S], 5, 16,mrg,13,18,-5,0.71,Won
+MVP PK,BOOT-d[S], 16, 8,cbl,27,13,+14,1.64,Won
+MVP PK,TYLOO, 11, 16,cbl,32,19,+13,1.80,Lost
+MVP PK,TYLOO, 16, 19,mrg,40,27,+13,1.44,Lost
+MVP PK,TYLOO, 16, 8,inf,20,14,+6,1.52,Lost
+MVP PK,Flash, 16, 8,inf,20,14,+6,1.32,Won
+MVP PK,Flash, 16, 10,mrg,25,18,+7,1.46,Won
+MVP PK,ORDER, 10, 16,nuke,21,20,+1,1.26,Lost
+MVP PK,ORDER, 17, 19,trn,34,25,+9,1.33,Lost
+MVP PK,BOOT-d[S], 16, 14,nuke,29,21,+8,1.43,Won
+MVP PK,BOOT-d[S], 16, 3,cbl,19,14,+5,1.39,Won
+MVP PK,New4, 16, 14,mrg,23,20,+3,1.32,Won
+MVP PK,New4, 14, 16,trn,27,20,+7,1.23,Won
+MVP PK,New4, 16, 8,inf,28,13,+15,1.86,Won
+MVP PK,ORDER, 16, 13,mrg,21,17,+4,1.12,Won
+MVP PK,Portal, 16, 3,trn,24,7,+17,1.99,Won
+MVP PK,Chosen5, 16, 10,inf,16,19,-3,0.92,Won
+MVP PK,Fire Dragoon, 16, 7,trn,17,14,+3,1.27,Won
+MVP PK,ViCi, 16, 11,mrg,16,16,0,1.11,Won
+MVP PK,ViCi, 16, 10,inf,22,13,+9,1.42,Won
+MVP PK,Ardeont, 16, 12,nuke,15,19,-4,0.96,Won
+MVP PK,Ardeont, 16, 2,inf,21,8,+13,1.92,Won
+MVP PK,XCN, 16, 2,nuke,23,3,+20,2.14,Won
+MVP PK,ViCi, 16, 9,trn,21,16,+5,1.37,Won
+MVP PK,ViCi, 6, 16,inf,17,17,0,0.89,Won
+MVP PK,ViCi, 16, 12,ovp,19,17,+2,1.12,Won
+MVP PK,ROAR, 16, 13,trn,27,17,+10,1.44,Won
+MVP PK,ROAR, 16, 13,ovp,17,21,-4,0.80,Won
+MVP PK,ex-T.O.T, 12, 16,ovp,20,23,-3,0.93,Lost
+MVP PK,TYLOO, 7, 16,ovp,17,19,-2,1.11,Lost
+MVP PK,TYLOO, 15, 19,mrg,29,22,+7,1.18,Lost
+MVP PK,Flash, 16, 8,mrg,18,18,0,1.17,Won
+MVP PK,Flash, 16, 14,inf,27,14,+13,1.54,Won
+MVP PK,Eclipse, 16, 9,mrg,20,13,+7,1.22,Won
+MVP PK,Eclipse, 16, 6,inf,27,10,+17,2.01,Won
+MVP PK,Eclipse, 13, 16,nuke,20,25,-5,1.02,Won
+MVP PK,TYLOO, 6, 16,trn,17,21,-4,1.11,Lost
+MVP PK,TYLOO, 8, 16,mrg,19,19,0,1.17,Lost
+MVP PK,MAX, 16, 5,inf,23,11,+12,1.67,Won
+MVP PK,MAX, 19, 15,trn,22,22,0,1.04,Won
+MVP PK,Flash, 12, 16,ovp,23,21,+2,1.29,Lost
+MVP PK,MAX, 16, 1,trn,20,6,+14,1.76,Won
+MVP PK,Flash, 13, 16,inf,22,21,+1,1.11,Lost
+MVP PK,Red Wolf, 12, 16,inf,23,18,+5,1.30,Lost
+MVP PK,Flash, 16, 14,inf,29,19,+10,1.55,Won
+MVP PK,Flash, 16, 10,mrg,21,14,+7,1.19,Won
+MVP PK,Eclipse, 5, 16,cbl,20,16,+4,1.14,Lost
+MVP PK,Just, 16, 2,nuke,22,8,+14,1.89,Won
+MVP PK,Just, 16, 9,mrg,17,14,+3,1.03,Won
+MVP PK,Ardeont, 16, 9,cbl,16,14,+2,1.39,Won
+MVP PK,Ardeont, 16, 5,mrg,17,9,+8,1.43,Won
+MVP PK,BOOT-d[S], 16, 6,mrg,32,14,+18,2.22,Won
+MVP PK,LGD, 16, 5,trn,30,15,+15,2.15,Won
+MVP Project,Recca, 16, 8,inf,16,13,+3,1.10,Won
+MVP Project,NSPR, 16, 9,trn,18,14,+4,1.34,Won
+MVP Project,Signature, 13, 16,inf,25,19,+6,1.29,Lost
+MVP Project,Chiefs, 8, 16,trn,16,19,-3,0.96,Lost
+MVP Project,NSPR, 7, 16,cch,13,17,-4,0.84,Lost
+MVP Project,NSPR, 10, 16,ovp,21,19,+2,1.08,Lost
+MVP Project,NSPR, 16, 12,inf,26,23,+3,1.33,Lost
+MVP Project,SCARZ Absolute, 16, 9,inf,20,12,+8,1.31,Won
+MVP Project,SCARZ Absolute, 16, 2,trn,21,5,+16,1.91,Won
+MVP Project,Candy Camel, 16, 11,trn,28,18,+10,1.63,Won
+MVP Project,YETTI, 10, 16,inf,14,22,-8,0.64,Lost
+MVP Project,YETTI, 19, 22,mrg,22,26,-4,0.81,Lost
+MVP Project,ZEN, 16, 2,mrg,30,4,+26,2.45,Won
+MVP Project,ViCi, 12, 16,cbl,18,21,-3,0.91,Lost
+MVP Project,ViCi, 10, 16,ovp,19,20,-1,1.03,Lost
+MVP Project,BOOT-d[S], 16, 7,inf,21,13,+8,1.47,Won
+MVP Project,BOOT-d[S], 25, 21,trn,48,29,+19,1.44,Won
+MVP Project,Wings.Blue, 16, 6,inf,21,13,+8,1.48,Won
+MVP Project,Wings.Blue, 16, 3,mrg,12,8,+4,1.23,Won
+MVP Project,TYLOO, 14, 16,cch,22,25,-3,0.97,Lost
+MVP Project,TYLOO, 2, 16,mrg,4,17,-13,0.21,Lost
+MVP Project,TYLOO, 16, 14,inf,32,20,+12,1.51,Lost
+MVP Project,MVP PK, 4, 16,nuke,10,19,-9,0.58,Lost
+MVP Project,MVP PK, 13, 16,inf,25,22,+3,1.22,Lost
+MVP Project,MVP PK, 16, 13,cch,32,18,+14,1.70,Lost
+MVP Project,Signature, 16, 9,inf,23,17,+6,1.36,Won
+MVP Project,TYLOO, 10, 16,mrg,17,18,-1,0.84,Lost
+MVP Project,TheMongolz, 10, 16,trn,15,20,-5,0.85,Lost
+MVP Project,TheMongolz, 14, 16,mrg,19,24,-5,0.99,Lost
+MVP Project,TheMongolz, 16, 14,inf,20,21,-1,0.98,Lost
+MVP Project,MVP PK, 16, 13,cbl,20,20,0,1.26,Won
+MVP Project,MVP PK, 16, 4,nuke,16,11,+5,1.50,Won
+MVP Project,Taiwan Z, 16, 6,trn,25,9,+16,1.85,Won
+MVP Project,KhARUM, 16, 9,ovp,18,18,0,1.11,Won
+MVP Project,Immortals, 9, 16,inf,18,17,+1,1.08,Lost
+MVP Project,TYLOO, 19, 16,mrg,30,22,+8,1.40,Won
+MVP Project,NiP, 9, 16,cbl,15,19,-4,0.89,Lost
+MVP Project,Virtus.pro, 4, 16,mrg,13,15,-2,0.89,Lost
+MVP Project,ViCi, 16, 10,cch,23,17,+6,1.33,Won
+MVP Project,ViCi, 16, 6,mrg,25,10,+15,1.85,Won
+MVP Project,New4, 16, 9,ovp,18,14,+4,1.30,Won
+MVP Project,New4, 16, 3,mrg,15,8,+7,1.44,Won
+MVP Project,New4, 9, 16,trn,13,19,-6,0.70,Won
+MVP Project,BOF.Gaming, 16, 7,cbl,13,12,+1,1.16,Won
+MVP Project,LGD, 16, 10,trn,21,14,+7,1.30,Won
+MVP Project,fnatic Academy, 18, 22,trn,31,32,-1,1.09,Lost
+MVP Project,fnatic Academy, 12, 16,mrg,29,19,+10,1.39,Lost
+MVP Project,FIVE, 16, 12,ovp,31,15,+16,1.77,Won
+MVP Project,FIVE, 16, 8,cch,23,13,+10,1.54,Won
+MVP Project,v0rtex 5	, 16, 8,cbl,25,12,+13,1.71,Won
+MVP Project,v0rtex 5	, 16, 12,d2,19,17,+2,1.09,Won
+MVP Project,Athletico, 12, 16,cbl,16,18,-2,0.84,Lost
+MVP Project,Athletico, 9, 16,cch,10,22,-12,0.52,Lost
+MVP Project,ENZO, 11, 16,cch,11,24,-13,Nil,Nil
+MVP Project,ENZO, 16, 7,cbl,17,9,+8,Nil,Nil
+MVP Project,Shukufuku Sunshine, 16, 11,mrg,18,15,+3,1.15,Won
+MVP Project,Shukufuku Sunshine, 16, 1,cbl,23,7,+16,2.24,Won
+MVP Project,m0nster, 16, 10,nuke,25,17,+8,1.34,Won
+MVP Project,m0nster, 16, 6,cbl,18,13,+5,1.51,Won
+MVP Project,TYLOO, 7, 16,ovp,19,19,0,1.10,Lost
+MVP Project,TYLOO, 16, 21,d2,28,26,+2,0.97,Lost
+MVP Project,Renegades, 5, 16,cbl,17,17,0,0.98,Lost
+MVP Project,Renegades, 18, 21,nuke,35,31,+4,1.21,Lost
+MVP Project,Athletico, 16, 9,mrg,13,16,-3,0.90,Won
+MVP Project,Athletico, 16, 13,ovp,21,17,+4,1.08,Won
+MVP Project,Athletico, 14, 16,nuke,13,24,-11,0.74,Won
+MVP Project,TYLOO, 8, 16,d2,8,19,-11,0.54,Lost
+MVP Project,Athletico, 21, 19,trn,33,28,+5,1.22,Won
+MVP Project,iNTRO, 16, 6,ovp,21,14,+7,1.55,Won
+MVP Project,iNTRO, 16, 5,d2,20,17,+3,1.49,Won
+MVP Project,Bulldozer, 19, 17,mrg,26,28,-2,1.22,Won
+MVP Project,Bulldozer, 16, 4,ovp,18,10,+8,1.53,Won
+MVP Project,apexfrag, 16, 3,ovp,19,8,+11,1.54,Won
+MVP Project,TheMongolz, 16, 12,cbl,21,17,+4,1.12,Won
+MVP Project,TheMongolz, 16, 9,mrg,15,16,-1,1.14,Won
+MVP Project,m0nster, 16, 11,d2,18,19,-1,1.12,Won
+MVP Project,m0nster, 16, 9,ovp,19,15,+4,1.34,Won
+MVP Project,YETTI, 16, 4,d2,16,10,+6,1.39,Won
+MVP Project,YETTI, 16, 6,ovp,27,11,+16,2.15,Won
+MVP Project,v0rtex 5	, 16, 2,cbl,20,7,+13,1.84,Won
+MVP Project,Signature, 16, 7,trn,17,11,+6,1.41,Won
+MVP Project,Signature, 16, 10,cbl,27,18,+9,1.60,Won
+MVP Project,Signature, 13, 16,cch,21,19,+2,1.14,Won
+MVP Project,TYLOO, 14, 16,ovp,29,23,+6,1.38,Lost
+MVP Project,TYLOO, 16, 6,cbl,19,15,+4,1.45,Lost
+MVP Project,TYLOO, 7, 16,trn,19,20,-1,1.08,Lost
+MVP Project,nxl, 16, 12,cbl,23,19,+4,1.28,Won
+MVP Project,nxl, 14, 16,mrg,16,20,-4,0.92,Won
+MVP Project,nxl, 16, 13,ovp,28,21,+7,1.25,Won
+MVP Project,Maaischguet, 16, 6,ovp,21,14,+7,1.39,Won
+MVP Project,Dank Deaglez, 16, 1,ovp,19,7,+12,1.73,Won
+MVP Project,eSportsLab Black, 16, 5,mrg,23,10,+13,1.63,Won
+MVP Project,Signature, 16, 7,ovp,21,14,+7,1.40,Won
+MVP Project,BE INFAMOUS, 16, 1,mrg,18,4,+14,1.84,Won
+MVP Project,BE INFAMOUS, 16, 11,d2,32,15,+17,1.63,Won
+MVP Project,TheMongolz, 12, 16,ovp,29,20,+9,1.41,Lost
+MVP Project,TheMongolz, 5, 16,cch,18,17,+1,1.23,Lost
+MVP Project,New4, 16, 10,mrg,23,16,+7,1.39,Won
+MVP Project,New4, 16, 3,trn,22,7,+15,1.83,Won
+MVP Project,Invictus, 16, 12,cbl,26,15,+11,1.42,Won
+MVP Project,New4, 10, 16,mrg,24,16,+8,1.37,Lost
+MVP Project,Savor the Fear, 9, 16,mrg,16,20,-4,1.03,Lost
+MVP Project,4dimensioN, 16, 9,cbl,27,14,+13,1.60,Won
+MVP Project,FlipSid3, 9, 16,mrg,19,18,+1,1.05,Lost
+MVP Project,G2, 3, 16,trn,6,18,-12,0.34,Lost
+MVP Project,autocracy, 16, 9,mrg,18,13,+5,1.32,Won
+MVP Project,autocracy, 16, 10,trn,21,18,+3,1.27,Won
+MVP Project,TamuluS, 16, 7,d2,18,12,+6,1.29,Won
+MVP Project,TamuluS, 16, 4,mrg,16,10,+6,1.52,Won
+MVP Project,autocracy, 13, 16,ovp,24,21,+3,1.16,Lost
+MVP Project,autocracy, 11, 16,nuke,24,23,+1,1.24,Lost
+MVP Project,VG.CyberZen, 6, 16,mrg,13,20,-7,0.66,Lost
+MVP Project,VG.CyberZen, 7, 16,d2,14,15,-1,0.95,Lost
+MVP Project,TamuluS, 16, 11,cbl,14,18,-4,0.87,Won
+MVP Project,TamuluS, 16, 10,trn,22,19,+3,1.49,Won
+MVP Project,Athletico, 16, 11,cbl,25,15,+10,1.59,Won
+MVP Project,Athletico, 16, 14,trn,25,19,+6,1.31,Won
+MVP Project,Athletico, 11, 16,nuke,18,20,-2,0.91,Won
+MVP Project,VG.CyberZen, 2, 16,cch,6,17,-11,0.40,Lost
+MVP Project,VG.CyberZen, 10, 16,trn,22,22,0,1.14,Lost
+MVP Project,VG.CyberZen, 16, 9,mrg,19,16,+3,1.18,Lost
+MVP Project,Born Of Fire, 16, 7,ovp,19,17,+2,1.23,Won
+MVP Project,Born Of Fire, 16, 10,mrg,37,12,+25,2.00,Won
+MVP Project,Born Of Fire, 3, 16,trn,6,18,-12,0.43,Won
+MVP Project,Risky, 16, 13,ovp,22,21,+1,1.15,Won
+MVP Project,Risky, 19, 22,trn,33,27,+6,1.30,Won
+MVP Project,Risky, 16, 8,nuke,21,15,+6,1.38,Won
+MVP Project,BOOT, 16, 5,trn,20,10,+10,1.70,Won
+MVP Project,BOOT, 16, 7,ovp,17,9,+8,1.49,Won
+MVP Project,ZZCY, 22, 19,mrg,30,32,-2,1.12,Won
+MVP Project,ZZCY, 16, 4,trn,19,7,+12,1.65,Won
+MVP Project,autocracy, 16, 14,cbl,19,22,-3,0.94,Won
+MVP Project,Furious, 16, 9,cch,28,18,+10,1.68,Won
+MVP Project,m0nster, 16, 14,ovp,20,22,-2,1.12,Won
+MVP Project,v0rtex 5	, 16, 8,cbl,16,14,+2,1.27,Won
+MVP Project,TYLOO, 14, 16,mrg,28,21,+7,1.29,Lost
+MVP Project,TYLOO, 13, 16,cch,20,19,+1,1.08,Lost
+MVP Project,Born Of Fire, 16, 13,cch,24,20,+4,1.15,Won
+MVP Project,Born Of Fire, 16, 4,cbl,20,10,+10,1.61,Won
+MVP Project,LGD, 16, 13,mrg,27,18,+9,1.46,Won
+MVP Project,LGD, 16, 7,cch,19,10,+9,1.37,Won
+MVP Project,TheMongolz, 16, 3,mrg,14,11,+3,1.22,Won
+MVP Project,TheMongolz, 14, 16,cbl,20,22,-2,0.95,Won
+MVP Project,TheMongolz, 16, 10,cch,22,14,+8,1.25,Won
+MVP Project,Risky, 12, 16,mrg,24,24,0,1.06,Lost
+MVP Project,Renegades, 7, 16,cbl,17,18,-1,0.99,Lost
+MVP Project,Born Of Fire, 13, 16,mrg,24,20,+4,1.30,Lost
+MVP Project,Born Of Fire, 8, 16,inf,13,19,-6,0.81,Lost
+MVP Project,Born Of Fire, 16, 10,cbl,22,16,+6,1.29,Lost
+MVP Project,EDG, 16, 6,cbl,26,12,+14,1.78,Won
+MVP Project,EDG, 16, 8,mrg,18,16,+2,1.08,Won
+MVP Project,EDG, 10, 16,cch,18,23,-5,0.88,Won
+MVP Project,TYLOO, 9, 16,cch,17,17,0,1.08,Lost
+MVP Project,TYLOO, 3, 16,mrg,10,15,-5,0.77,Lost
+MVP Project,Signature, 14, 16,trn,26,19,+7,1.27,Lost
+MVP Project,Signature, 17, 19,mrg,24,26,-2,1.08,Lost
+MVP Project,AllGamers, 16, 5,cch,16,12,+4,Nil,Nil
+MVP Project,AllGamers, 13, 16,inf,23,21,+2,Nil,Nil
+MVP Project,BOOT, 16, 5,cch,14,13,+1,0.98,Won
+MVP Project,BOOT, 16, 6,mrg,29,8,+21,1.88,Won
+MVP Project,HG, 16, 6,cbl,21,10,+11,1.57,Won
+MVP Project,HG, 16, 8,cch,15,11,+4,1.30,Won
+MVP Project,LGD, 16, 2,cbl,14,7,+7,Nil,Nil
+MVP Project,LGD, 13, 16,cch,17,23,-6,Nil,Nil
+MVP Project,VG.CyberZen, 14, 16,inf,16,19,-3,0.89,Lost
+MVP Project,VG.CyberZen, 13, 16,mrg,19,22,-3,0.99,Lost
+MVP Project,MVP.karnal, 10, 16,mrg,21,19,+2,1.15,Lost
+MVP Project,MVP.karnal, 16, 19,cbl,19,27,-8,0.85,Lost
+MVP Project,T5, 16, 10,mrg,19,19,0,1.27,Won
+MVP Project,DeToNator, 16, 8,cch,26,15,+11,1.57,Won
+MVP Project,DeToNator, 16, 14,mrg,23,18,+5,1.28,Won
+MVP Project,T5, 16, 4,cch,28,8,+20,2.20,Won
+MVP Project,T5, 13, 16,inf,18,21,-3,1.04,Won
+MVP Project,T5, 16, 9,mrg,25,12,+13,1.49,Won
+MVP Project,Far East Boys, 16, 6,cch,27,8,+19,1.92,Won
+MVP Project,Far East Boys, 12, 16,inf,16,22,-6,0.84,Won
+MVP Project,Far East Boys, 16, 13,mrg,23,20,+3,1.19,Won
+MVP Project,Devcat, 17, 19,cch,26,26,0,0.96,Lost
+MVP Project,Far East Boys, 16, 13,mrg,29,17,+12,1.60,Won
+MVP Project,inchk1ng, 6, 16,cch,12,18,-6,0.71 *,Lost
+MVP Project,inchk1ng, 17, 19,trn,31,25,+6,1.19 *,Lost
+MVP Project,TheMongolz, 15, 19,inf,17,24,-7,0.67 *,Lost
+MVP Project,TheMongolz, 8, 16,cbl,9,20,-11,0.45 *,Lost
+MVP Project,Skyred, 16, 11,inf,25,17,+8,1.42 *,Won
+MVP Project,nxl, 16, 11,cbl,18,13,+5,1.17 *,Won
+MVP Project,MVP.karnal, 11, 16,d2,20,17,+3,1.05 *,Lost
+MVP Project,MVP.karnal, 14, 16,inf,25,22,+3,1.09 *,Lost
+m0nster,TheMongolz, 10, 16,mrg,18,19,-1,0.95 *,Lost
+m0nster,TheMongolz, 16, 19,cch,21,28,-7,0.83 *,Lost
+m0nster,MiTH, 16, 8,trn,22,13,+9,1.36 *,Won
+m0nster,Expendables, 16, 5,cch,19,12,+7,1.33 *,Won
+m0nster,J2G, 10, 16,d2,11,19,-8,0.66 *,Lost
+m0nster,TheMongolz, 3, 16,inf,5,18,-13,0.26 *,Lost
+m0nster,TYLOO, 1, 16,ovp,13,16,-3,0.93 *,Lost
+m0nster,TYLOO, 13, 16,cbl,27,20,+7,1.25 *,Lost
+m0nster,AbsoluteTerror, 16, 13,cbl,29,18,+11,1.44 *,Won
+m0nster,MOTV, 16, 13,inf,22,24,-2,1.03 *,Won
+m0nster,QeeYou, 7, 16,inf,16,17,-1,0.89 *,Lost
+m0nster,xqR, 12, 16,cbl,14,24,-10,0.62 *,Lost
+m0nster,xqR, 11, 16,cch,20,23,-3,0.85 *,Lost
+myRevenge,Renegades, 2, 16,inf,4,16,-12,0.31 *,Lost
+myRevenge,Renegades, 16, 19,cch,22,26,-4,0.87 *,Lost
+myRevenge,Skyred, 16, 14,d2,22,19,+3,1.11 *,Won
+myRevenge,TheMongolz, 16, 14,inf,26,22,+4,1.19 *,Won
+myRevenge,Skyred, 9, 16,cch,17,20,-3,0.89 *,Lost
+myRevenge,Skyred, 11, 16,inf,24,19,+5,1.31 *,Lost
+

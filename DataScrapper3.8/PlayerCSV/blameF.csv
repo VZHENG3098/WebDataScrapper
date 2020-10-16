@@ -1,0 +1,541 @@
+blameF
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Complexity,SJ, 13, 16,ovp,23,18,+5,1.31,Lost
+Complexity,SJ, 10, 16,mrg,18,17,+1,1.04,Lost
+Complexity,SJ, 16, 9,nuke,13,12,+1,1.10,Lost
+Complexity,sAw, 3, 16,d2,17,17,0,1.14,Lost
+Complexity,sAw, 9, 16,nuke,21,15,+6,1.22,Lost
+Complexity,sAw, 19, 17,vtg,32,19,+13,1.56,Lost
+Complexity,FaZe, 12, 16,d2,14,21,-7,0.80,Lost
+Complexity,FaZe, 8, 16,nuke,12,18,-6,0.84,Lost
+Complexity,FaZe, 16, 10,mrg,24,9,+15,1.48,Lost
+Complexity,Vitality, 16, 11,vtg,19,15,+4,1.29,Won
+Complexity,Vitality, 16, 10,nuke,18,12,+6,1.50,Won
+Complexity,mousesports, 9, 16,mrg,21,19,+2,1.05,Lost
+Complexity,mousesports, 20, 22,nuke,28,19,+9,1.19,Lost
+Complexity,fnatic, 16, 13,vtg,25,15,+10,1.40,Won
+Complexity,fnatic, 18, 22,nuke,25,27,-2,1.00,Won
+Complexity,fnatic, 16, 4,mrg,16,6,+10,1.64,Won
+Complexity,Spirit, 16, 10,mrg,19,14,+5,1.17,Won
+Complexity,Spirit, 14, 16,nuke,34,17,+17,1.76,Won
+Complexity,Spirit, 16, 7,ovp,20,10,+10,1.49,Won
+Complexity,NiP, 16, 13,nuke,23,15,+8,1.38,Won
+Complexity,NiP, 16, 7,trn,24,7,+17,1.70,Won
+Complexity,Astralis, 19, 17,d2,24,23,+1,1.06,Won
+Complexity,Astralis, 19, 17,trn,20,18,+2,1.03,Won
+Complexity,Heroic, 13, 16,nuke,24,15,+9,1.33,Lost
+Complexity,Heroic, 11, 16,inf,13,18,-5,0.84,Lost
+Complexity,Natus Vincere, 16, 8,nuke,13,9,+4,1.23,Won
+Complexity,Natus Vincere, 16, 9,d2,24,12,+12,1.56,Won
+Complexity,MAD Lions, 22, 20,nuke,31,26,+5,1.33,Won
+Complexity,MAD Lions, 16, 3,ovp,15,10,+5,1.34,Won
+Complexity,Heroic, 15, 19,ovp,22,19,+3,1.19,Lost
+Complexity,Heroic, 7, 16,mrg,23,14,+9,1.43,Lost
+Complexity,Heroic, 16, 4,vtg,13,8,+5,1.20,Lost
+Complexity,OG, 16, 13,mrg,23,16,+7,1.30,Won
+Complexity,OG, 16, 14,nuke,16,19,-3,0.90,Won
+Complexity,forZe, 16, 8,nuke,17,13,+4,1.27,Won
+Complexity,forZe, 17, 19,mrg,27,22,+5,1.11,Won
+Complexity,forZe, 16, 11,ovp,20,12,+8,1.44,Won
+Complexity,c0ntact, 19, 22,mrg,33,26,+7,1.28,Lost
+Complexity,c0ntact, 19, 17,nuke,37,18,+19,1.52,Lost
+Complexity,c0ntact, 14, 16,trn,29,20,+9,1.38,Lost
+Complexity,BIG, 14, 16,inf,21,14,+7,1.27,Lost
+Complexity,BIG, 7, 16,mrg,16,20,-4,0.95,Lost
+Complexity,Japaleno, 16, 7,d2,25,11,+14,1.92,Won
+Complexity,Japaleno, 16, 5,mrg,16,9,+7,1.41,Won
+Complexity,Japaleno, 14, 16,inf,29,16,+13,1.63,Won
+Complexity,Vitality, 16, 12,nuke,28,16,+12,1.68,Won
+Complexity,Vitality, 19, 16,mrg,23,22,+1,1.09,Won
+Complexity,Vitality, 2, 16,vtg,11,11,0,1.04,Won
+Complexity,FaZe, 16, 14,d2,23,18,+5,1.12,Won
+Complexity,FaZe, 16, 11,nuke,14,14,0,0.99,Won
+Complexity,Natus Vincere, 16, 3,mrg,15,7,+8,1.63,Won
+Complexity,Natus Vincere, 16, 8,d2,17,14,+3,1.14,Won
+Complexity,Natus Vincere, 5, 16,nuke,16,13,+3,1.24,Won
+Complexity,OG, 16, 12,nuke,25,12,+13,1.67,Won
+Complexity,OG, 10, 16,mrg,21,16,+5,1.24,Won
+Complexity,OG, 16, 7,trn,20,9,+11,1.38,Won
+Complexity,forZe, 7, 16,inf,18,17,+1,1.03,Lost
+Complexity,forZe, 11, 16,nuke,22,16,+6,1.28,Lost
+Complexity,HONORIS, 16, 2,mrg,18,6,+12,1.65,Won
+Complexity,HONORIS, 16, 9,nuke,24,11,+13,1.63,Won
+Complexity,HONORIS, 12, 16,vtg,15,20,-5,0.82,Won
+Complexity,Hard Legion, 16, 5,d2,16,14,+2,1.19,Won
+Complexity,Hard Legion, 16, 13,mrg,32,16,+16,1.64,Won
+Complexity,Hard Legion, 13, 16,inf,26,17,+9,1.46,Won
+Complexity,AGF, 16, 10,d2,13,17,-4,1.08,Won
+Complexity,fnatic, 6, 16,mrg,15,16,-1,0.98,Lost
+Complexity,fnatic, 19, 17,nuke,26,19,+7,1.18,Lost
+Complexity,fnatic, 11, 16,trn,24,18,+6,1.30,Lost
+Complexity,Endpoint, 16, 4,d2,19,6,+13,1.86,Won
+Complexity,Endpoint, 12, 16,vtg,18,19,-1,1.05,Won
+Complexity,Endpoint, 16, 9,mrg,20,13,+7,1.30,Won
+Complexity,c0ntact, 16, 9,nuke,12,13,-1,0.96,Won
+Complexity,c0ntact, 22, 20,mrg,26,25,+1,1.01,Won
+Complexity,Gambit Youngsters, 16, 10,d2,21,11,+10,1.52,Won
+Complexity,Gambit Youngsters, 16, 13,vtg,19,19,0,1.11,Won
+Complexity,Gambit Youngsters, 16, 19,mrg,24,17,+7,1.17,Won
+Complexity,HONORIS, 16, 8,nuke,17,10,+7,1.38,Won
+Complexity,HONORIS, 16, 3,trn,14,8,+6,1.19,Won
+Complexity,Nordavind, 16, 9,nuke,22,10,+12,1.64,Won
+Complexity,Nordavind, 16, 8,mrg,15,13,+2,1.06,Won
+Complexity,HONORIS, 6, 16,mrg,21,17,+4,1.32,Lost
+Complexity,Heroic, 16, 13,trn,24,16,+8,1.40,Won
+Complexity,Heroic, 16, 11,d2,20,14,+6,1.15,Won
+Complexity,Gambit Youngsters, 16, 13,d2,26,13,+13,1.43,Won
+Complexity,Gambit Youngsters, 16, 8,vtg,19,12,+7,1.43,Won
+Complexity,Gambit Youngsters, 12, 16,mrg,26,19,+7,1.22,Won
+Complexity,Endpoint, 16, 7,nuke,17,13,+4,1.18,Won
+Complexity,Endpoint, 16, 11,vtg,24,11,+13,1.64,Won
+Complexity,SKADE, 16, 12,d2,20,14,+6,1.28,Won
+Complexity,SKADE, 17, 19,trn,23,23,0,1.03,Won
+Complexity,SKADE, 16, 10,nuke,23,13,+10,1.57,Won
+Complexity,Apeks, 19, 17,vtg,33,21,+12,1.42,Won
+Complexity,Apeks, 16, 4,mrg,15,7,+8,1.60,Won
+Complexity,SKADE, 14, 16,trn,25,17,+8,1.28,Lost
+Complexity,BIG, 11, 16,d2,12,19,-7,0.75,Lost
+Complexity,BIG, 11, 16,vtg,21,17,+4,1.26,Lost
+Complexity,BIG, 22, 18,mrg,37,21,+16,1.44,Lost
+Complexity,MAD Lions, 16, 9,vtg,29,6,+23,2.03,Won
+Complexity,MAD Lions, 16, 14,mrg,16,13,+3,1.10,Won
+Complexity,mousesports, 16, 8,d2,12,10,+2,1.02,Won
+Complexity,mousesports, 16, 9,inf,18,12,+6,1.34,Won
+Complexity,Secret, 16, 12,nuke,17,14,+3,1.08,Won
+Complexity,Secret, 16, 11,trn,24,13,+11,1.41,Won
+Complexity,Sprout, 16, 4,inf,15,8,+7,1.36,Won
+Complexity,Sprout, 16, 12,nuke,27,14,+13,1.45,Won
+Complexity,Endpoint, 16, 2,mrg,9,9,0,1.17,Won
+Complexity,Endpoint, 16, 9,vtg,23,10,+13,1.60,Won
+Complexity,Sinners, 19, 16,nuke,26,15,+11,1.27,Won
+Complexity,Sinners, 16, 9,vtg,18,9,+9,1.37,Won
+Complexity,Espada, 16, 6,inf,9,14,-5,0.98,Won
+Complexity,Espada, 16, 3,d2,11,8,+3,1.31,Won
+Complexity,Espada, 13, 16,mrg,30,18,+12,1.48,Won
+Complexity,Sinners, 14, 16,mrg,27,18,+9,1.35,Lost
+Complexity,BIG, 16, 10,d2,23,18,+5,1.32,Won
+Complexity,BIG, 17, 19,nuke,27,21,+6,1.19,Won
+Complexity,BIG, 19, 16,inf,23,17,+6,1.25,Won
+Complexity,Endpoint, 16, 9,d2,20,11,+9,1.38,Won
+Complexity,Endpoint, 16, 2,mrg,17,6,+11,1.79,Won
+Complexity,Dignitas, 16, 11,d2,19,11,+8,1.42,Won
+Complexity,Dignitas, 28, 24,trn,54,25,+29,1.59,Won
+Complexity,Salamander, 16, 9,mrg,14,7,+7,1.23,Won
+Complexity,Salamander, 16, 4,nuke,19,11,+8,1.43,Won
+Complexity,Nordavind, 16, 5,mrg,17,9,+8,1.50,Won
+Complexity,Nordavind, 16, 4,trn,31,8,+23,2.27,Won
+Complexity,FATE, 16, 5,mrg,17,9,+8,1.32,Won
+Complexity,FATE, 16, 5,trn,20,9,+11,1.58,Won
+Complexity,SMASH, 13, 16,mrg,28,14,+14,1.51,Lost
+Complexity,fnatic, 16, 19,inf,25,22,+3,1.10,Lost
+Complexity,fnatic, 14, 16,nuke,25,19,+6,1.31,Lost
+Complexity,NiP, 12, 16,trn,19,17,+2,1.24,Lost
+Complexity,NiP, 11, 16,vtg,12,16,-4,0.73,Lost
+Complexity,NiP, 16, 14,mrg,19,17,+2,1.05,Lost
+Complexity,ENCE, 16, 11,mrg,16,15,+1,0.96,Won
+Complexity,ENCE, 10, 16,trn,23,17,+6,1.33,Won
+Complexity,ENCE, 16, 8,nuke,13,14,-1,0.92,Won
+Complexity,Heretics, 18, 22,d2,26,23,+3,1.08,Lost
+Complexity,Heretics, 16, 14,mrg,21,13,+8,1.30,Lost
+Complexity,Heretics, 7, 16,nuke,12,18,-6,0.79,Lost
+Complexity,Vitality, 3, 16,inf,10,15,-5,0.93,Lost
+Complexity,Vitality, 8, 16,d2,8,19,-11,0.58,Lost
+Complexity,Vitality, 19, 16,mrg,16,25,-9,0.76,Lost
+Complexity,Astralis, 11, 16,trn,19,19,0,1.21,Lost
+Complexity,Astralis, 16, 13,nuke,20,15,+5,1.16,Lost
+Complexity,Astralis, 4, 16,vtg,8,17,-9,0.54,Lost
+Complexity,North, 16, 8,nuke,21,10,+11,1.46,Won
+Complexity,North, 16, 10,mrg,31,12,+19,1.86,Won
+Complexity,Natus Vincere, 12, 16,nuke,21,17,+4,1.26,Lost
+Complexity,Natus Vincere, 8, 16,d2,15,16,-1,1.04,Lost
+Complexity,Natus Vincere, 16, 14,inf,17,14,+3,1.17,Lost
+Complexity,BIG, 16, 14,d2,17,22,-5,0.89,Won
+Complexity,BIG, 16, 9,nuke,22,15,+7,1.52,Won
+Complexity,BIG, 9, 16,mrg,15,17,-2,0.94,Won
+Complexity,fnatic, 6, 16,d2,14,16,-2,0.96,Lost
+Complexity,fnatic, 9, 16,mrg,18,21,-3,1.05,Lost
+Complexity,forZe, 17, 19,mrg,30,22,+8,1.32,Lost
+Complexity,forZe, 16, 9,trn,21,18,+3,1.37,Lost
+Complexity,forZe, 9, 16,d2,14,16,-2,0.89,Lost
+Complexity,GODSENT, 16, 11,d2,19,17,+2,1.06,Won
+Complexity,GODSENT, 16, 11,inf,23,17,+6,1.37,Won
+Complexity,Sprout, 16, 6,ovp,15,10,+5,1.44,Won
+Complexity,Sprout, 16, 9,inf,25,11,+14,1.67,Won
+Complexity,FURIA, 14, 16,nuke,19,20,-1,0.95,Lost
+Complexity,FURIA, 11, 16,ovp,11,17,-6,0.85,Lost
+Complexity,FURIA, 16, 11,mrg,23,16,+7,1.50,Lost
+Complexity,MIBR, 16, 9,d2,7,14,-7,0.76,Won
+Complexity,MIBR, 16, 2,nuke,17,3,+14,1.65,Won
+Complexity,Gen.G, 13, 16,inf,22,19,+3,1.39,Lost
+Complexity,MIBR, 16, 11,d2,15,14,+1,1.08,Won
+Complexity,SMASH, 14, 16,inf,17,14,+3,1.06,Lost
+Complexity,SMASH, 16, 14,mrg,20,20,0,1.10,Lost
+Complexity,SMASH, 8, 16,ovp,18,20,-2,1.03,Lost
+Complexity,Sinners, 16, 7,mrg,18,13,+5,1.42,Won
+Complexity,AVEZ, 16, 9,inf,22,10,+12,1.68,Won
+Complexity,Natus Vincere, 9, 16,mrg,14,18,-4,0.77,Lost
+Complexity,Natus Vincere, 10, 16,trn,12,16,-4,0.80,Lost
+Complexity,Vitality, 16, 5,inf,14,8,+6,1.22,Won
+Complexity,Vitality, 16, 10,mrg,19,12,+7,1.37,Won
+Complexity,Astralis, 16, 12,vtg,18,18,0,1.05,Won
+Complexity,Astralis, 16, 11,d2,14,16,-2,1.04,Won
+Complexity,PACT, 10, 16,inf,16,18,-2,0.93,Lost
+Complexity,BIG, 9, 16,d2,22,15,+7,1.31,Lost
+Complexity,BIG, 7, 16,inf,14,13,+1,1.03,Lost
+Complexity,BIG, 16, 10,mrg,16,18,-2,0.98,Lost
+Complexity,SKADE, 16, 12,d2,17,16,+1,1.05,Won
+Complexity,Apologis, 16, 6,d2,25,9,+16,1.74,Won
+Complexity,eUnited, 16, 13,ovp,17,16,+1,1.13,Won
+Complexity,eUnited, 16, 6,mrg,27,10,+17,2.01,Won
+Complexity,INTZ, 16, 10,mrg,22,9,+13,1.52,Won
+Complexity,INTZ, 10, 16,ovp,12,18,-6,0.81,Won
+Complexity,INTZ, 16, 11,trn,17,14,+3,1.17,Won
+Complexity,Cloud9, 14, 16,inf,21,18,+3,1.08,Lost
+Complexity,Cloud9, 14, 16,d2,15,17,-2,0.92,Lost
+Complexity,Singularity, 16, 5,ovp,16,9,+7,1.43,Won
+Complexity,Singularity, 16, 6,mrg,22,9,+13,1.73,Won
+Complexity,MIBR, 25, 28,inf,40,29,+11,1.23,Lost
+Complexity,MIBR, 7, 16,mrg,22,15,+7,1.38,Lost
+Complexity,Cloud9, 3, 16,nuke,11,15,-4,0.82,Lost
+Complexity,Cloud9, 14, 16,inf,17,20,-3,0.97,Lost
+Complexity,Cloud9, 16, 8,d2,27,9,+18,2.00,Lost
+Complexity,Chaos, 16, 11,nuke,17,14,+3,1.23,Won
+Complexity,Chaos, 16, 4,d2,13,8,+5,1.25,Won
+Complexity,Gen.G, 19, 15,mrg,34,21,+13,1.58,Won
+Complexity,Gen.G, 16, 10,trn,15,16,-1,1.00,Won
+Complexity,ATK, 2, 16,inf,10,15,-5,0.74,Lost
+Complexity,ATK, 14, 16,nuke,23,19,+4,1.30,Lost
+Complexity,Riot Squad, 16, 12,inf,21,14,+7,1.36,Won
+Complexity,Riot Squad, 16, 11,mrg,30,13,+17,1.82,Won
+Complexity,Evil Geniuses, 5, 16,inf,15,19,-4,0.85,Lost
+Complexity,Evil Geniuses, 13, 16,ovp,20,20,0,1.00,Lost
+Complexity,ATK, 16, 13,d2,18,20,-2,0.97,Won
+Complexity,ATK, 16, 13,vtg,25,17,+8,1.47,Won
+Complexity,eUnited, 16, 10,inf,17,12,+5,1.20,Won
+Complexity,eUnited, 16, 9,d2,18,12,+6,1.35,Won
+Complexity,eUnited, 10, 16,ovp,18,17,+1,1.24,Won
+Complexity,The Quest, 14, 16,mrg,29,21,+8,1.43,Lost
+Complexity,The Quest, 14, 16,ovp,25,21,+4,1.38,Lost
+Complexity,Evil Geniuses, 11, 16,d2,14,20,-6,0.66,Lost
+Complexity,Evil Geniuses, 16, 10,nuke,22,14,+8,1.43,Lost
+Complexity,Evil Geniuses, 7, 16,mrg,12,18,-6,0.74,Lost
+Complexity,Cloud9, 16, 11,mrg,25,13,+12,1.55,Won
+Complexity,Cloud9, 5, 16,ovp,11,17,-6,0.67,Won
+Complexity,Cloud9, 16, 13,d2,23,18,+5,1.16,Won
+Heroic,SMASH, 16, 14,nuke,17,19,-2,0.93,Won
+Heroic,SMASH, 16, 8,ovp,20,14,+6,1.21,Won
+Heroic,forZe, 22, 18,mrg,26,25,+1,1.02,Won
+Heroic,forZe, 19, 17,nuke,26,28,-2,1.00,Won
+Heroic,mousesports, 10, 16,d2,22,15,+7,1.29,Lost
+Heroic,mousesports, 13, 16,ovp,18,16,+2,1.13,Lost
+Heroic,GamerLegion, 16, 14,mrg,21,20,+1,1.16,Won
+Heroic,GamerLegion, 19, 15,d2,21,17,+4,1.09,Won
+Heroic,GamerLegion, 22, 19,inf,24,25,-1,0.98,Won
+Heroic,GamerLegion, 16, 9,mrg,23,16,+7,1.41,Won
+Heroic,One More Time, 16, 12,d2,26,14,+12,1.55,Won
+Heroic,One More Time, 16, 4,mrg,20,11,+9,1.53,Won
+Heroic,GamerLegion, 0, 16,ovp,9,16,-7,0.74,Lost
+Heroic,Japaleno, 10, 16,ovp,17,17,0,0.95,Lost
+Heroic,Japaleno, 12, 16,inf,23,19,+4,1.22,Lost
+Heroic,Japaleno, 16, 6,mrg,19,11,+8,1.49,Lost
+Heroic,Spirit, 16, 9,mrg,26,13,+13,1.72,Won
+Heroic,Spirit, 16, 5,ovp,18,8,+10,1.44,Won
+Heroic,Spirit, 14, 16,d2,18,18,0,0.93,Won
+Heroic,GamerLegion, 8, 16,inf,15,19,-4,0.86,Lost
+Heroic,GamerLegion, 20, 22,ovp,35,31,+4,1.20,Lost
+Heroic,GamerLegion, 16, 14,mrg,33,17,+16,1.65,Lost
+Heroic,Se7en, 16, 10,inf,20,13,+7,1.14,Won
+Heroic,Se7en, 16, 3,ovp,24,14,+10,1.81,Won
+Heroic,Tricked, 10, 16,nuke,15,21,-6,0.81,Lost
+Heroic,Tricked, 14, 16,mrg,15,20,-5,0.94,Lost
+Heroic,Windigo, 16, 9,nuke,26,12,+14,1.58,Won
+Heroic,Windigo, 16, 11,inf,11,17,-6,0.84,Won
+Heroic,Spirit, 16, 5,mrg,27,10,+17,1.91,Won
+Heroic,Spirit, 16, 13,ovp,24,18,+6,1.31,Won
+Heroic,Spirit, 10, 16,d2,16,15,+1,1.13,Won
+Heroic,Vitality, 9, 16,ovp,18,20,-2,0.99,Lost
+Heroic,Vitality, 16, 12,d2,17,16,+1,1.06,Lost
+Heroic,Vitality, 7, 16,mrg,19,18,+1,1.16,Lost
+Heroic,ENCE, 14, 16,nuke,26,23,+3,1.16,Lost
+Heroic,ENCE, 12, 16,ovp,23,23,0,1.12,Lost
+Heroic,Vitality, 16, 9,nuke,15,12,+3,1.16,Won
+Heroic,Vitality, 16, 14,ovp,20,19,+1,1.18,Won
+Heroic,Vitality, 14, 16,inf,16,19,-3,0.96,Lost
+Heroic,Vitality, 13, 16,ovp,26,18,+8,1.41,Lost
+Heroic,BIG, 16, 7,nuke,24,10,+14,1.72,Won
+Heroic,BIG, 16, 13,inf,20,18,+2,1.03,Won
+Heroic,NiP, 10, 16,inf,16,17,-1,0.91,Lost
+Heroic,NiP, 5, 16,ovp,15,16,-1,0.82,Lost
+Heroic,ENCE, 16, 10,mrg,30,15,+15,1.74,Won
+Heroic,forZe, 12, 16,nuke,17,16,+1,0.96,Lost
+Heroic,forZe, 28, 26,ovp,40,39,+1,1.11,Lost
+Heroic,forZe, 11, 16,inf,16,17,-1,0.99,Lost
+Heroic,Windigo, 16, 13,ovp,31,16,+15,1.61,Won
+Heroic,Windigo, 16, 12,mrg,28,15,+13,1.55,Won
+Heroic,OpTic, 16, 4,mrg,25,8,+17,2.14,Won
+Heroic,OpTic, 16, 13,ovp,20,17,+3,1.21,Won
+Heroic,OpTic, 16, 19,nuke,29,23,+6,1.24,Won
+Heroic,AVANGAR, 16, 12,mrg,32,17,+15,1.71,Won
+Heroic,G2, 11, 16,d2,20,24,-4,1.01,Lost
+Heroic,G2, 3, 16,vtg,10,16,-6,0.70,Lost
+Heroic,fnatic, 16, 6,ovp,21,13,+8,1.64,Won
+Heroic,fnatic, 12, 16,mrg,21,20,+1,1.19,Won
+Heroic,fnatic, 16, 7,nuke,19,14,+5,1.36,Won
+Heroic,Astralis, 7, 16,inf,19,14,+5,1.22,Lost
+Heroic,Astralis, 7, 16,vtg,10,19,-9,0.68,Lost
+Heroic,DETONA, 16, 8,d2,12,16,-4,0.82,Won
+Heroic,AVANGAR, 16, 13,d2,24,18,+6,1.46,Won
+Heroic,AVANGAR, 16, 4,ovp,24,10,+14,1.81,Won
+Heroic,NoChance, 9, 16,nuke,19,16,+3,1.08,Lost
+Heroic,NoChance, 11, 16,mrg,10,23,-13,0.61,Lost
+Heroic,NoChance, 16, 11,vtg,26,17,+9,1.35,Lost
+Heroic,CR4ZY, 12, 16,inf,11,17,-6,0.84,Lost
+Heroic,CR4ZY, 11, 16,mrg,16,20,-4,0.98,Lost
+Heroic,CR4ZY, 19, 16,d2,21,19,+2,1.08,Lost
+Heroic,Tricked, 16, 14,d2,32,17,+15,1.56,Won
+Heroic,Tricked, 16, 12,mrg,20,20,0,1.14,Won
+Heroic,Natus Vincere, 16, 14,ovp,21,18,+3,1.18,Won
+Heroic,Natus Vincere, 11, 16,mrg,13,19,-6,0.85,Won
+Heroic,Natus Vincere, 16, 9,vtg,19,14,+5,1.20,Won
+Heroic,North, 10, 16,mrg,15,20,-5,0.76,Lost
+Heroic,North, 8, 16,nuke,20,16,+4,1.22,Lost
+Heroic,BIG, 16, 13,ovp,20,17,+3,1.12,Won
+Heroic,BIG, 16, 14,inf,14,22,-8,0.79,Won
+Heroic,Vitality, 14, 16,ovp,23,17,+6,1.32,Lost
+Heroic,Vitality, 8, 16,nuke,16,16,0,0.99,Lost
+Heroic,Vitality, 16, 12,mrg,20,16,+4,1.12,Lost
+Heroic,North, 16, 14,ovp,20,21,-1,1.19,Won
+Heroic,North, 9, 16,nuke,12,15,-3,0.75,Won
+Heroic,North, 16, 4,mrg,20,12,+8,1.60,Won
+Heroic,HellRaisers, 16, 4,mrg,15,10,+5,1.58,Won
+Heroic,HellRaisers, 16, 9,inf,22,15,+7,1.41,Won
+Heroic,HellRaisers, 11, 16,ovp,18,19,-1,1.07,Won
+Heroic,Grayhound, 11, 16,ovp,12,22,-10,0.74,Lost
+Heroic,Grayhound, 16, 5,mrg,22,10,+12,1.81,Lost
+Heroic,Grayhound, 15, 19,inf,23,24,-1,1.08,Lost
+Heroic,fnatic, 7, 16,trn,12,18,-6,0.64,Lost
+Heroic,devils.one, 22, 18,nuke,34,22,+12,1.36,Won
+Heroic,devils.one, 16, 13,ovp,27,21,+6,1.39,Won
+Heroic,devils.one, 14, 16,trn,25,15,+10,1.20,Won
+Heroic,FaZe, 8, 16,mrg,14,19,-5,0.83,Lost
+Heroic,FaZe, 16, 11,d2,22,18,+4,1.14,Lost
+Heroic,FaZe, 8, 16,ovp,19,21,-2,1.12,Lost
+Heroic,NiP, 10, 16,mrg,18,19,-1,1.02,Lost
+Heroic,NiP, 19, 17,trn,23,21,+2,1.23,Lost
+Heroic,NiP, 11, 16,nuke,17,21,-4,0.90,Lost
+Heroic,Spirit, 16, 12,mrg,21,19,+2,1.31,Won
+Heroic,Spirit, 16, 9,ovp,18,19,-1,1.35,Won
+Heroic,Tricked, 16, 7,nuke,15,11,+4,1.27,Won
+Heroic,Copenhagen Flames, 16, 7,ovp,22,11,+11,1.71,Won
+Heroic,forZe, 16, 11,mrg,24,16,+8,1.50,Won
+Heroic,forZe, 16, 13,nuke,14,19,-5,0.84,Won
+Heroic,ex-3DMAX, 16, 7,inf,20,13,+7,1.32,Won
+Heroic,ex-3DMAX, 16, 9,nuke,22,10,+12,1.47,Won
+Heroic,Sprout, 16, 10,mrg,22,12,+10,1.57,Won
+Heroic,Sprout, 19, 16,d2,39,21,+18,1.64,Won
+Heroic,Winstrike, 16, 9,mrg,15,15,0,1.07,Won
+Heroic,Sprout, 16, 5,inf,7,11,-4,0.93,Won
+Heroic,BIG, 25, 28,cch,40,37,+3,1.19,Lost
+Heroic,BIG, 10, 16,mrg,16,22,-6,0.93,Lost
+Heroic,G2, 12, 16,nuke,22,18,+4,1.09,Lost
+Heroic,G2, 7, 16,cch,11,16,-5,0.90,Lost
+Heroic,G2, 19, 17,ovp,30,23,+7,1.36,Lost
+Heroic,NoChance, 16, 7,ovp,24,18,+6,1.66,Won
+Heroic,Epsilon, 16, 10,mrg,22,17,+5,1.42,Won
+Heroic,OFFSET, 16, 7,inf,21,11,+10,1.55,Won
+Heroic,AGO, 16, 12,ovp,23,14,+9,1.55,Won
+Heroic,AGO, 16, 7,mrg,21,10,+11,1.63,Won
+Heroic,AGO, 13, 16,cch,25,20,+5,1.23,Won
+Heroic,x-kom, 16, 14,nuke,15,20,-5,0.90,Won
+Heroic,x-kom, 16, 12,d2,23,17,+6,1.15,Won
+Heroic,x-kom, 6, 16,inf,8,17,-9,0.51,Won
+Heroic,Spirit, 16, 10,inf,18,12,+6,1.42,Won
+Heroic,Spirit, 16, 12,nuke,26,16,+10,1.35,Won
+Heroic,Spirit, 14, 16,mrg,17,26,-9,0.84,Won
+Heroic,x6tence Galaxy, 15, 19,inf,25,21,+4,1.14,Lost
+Heroic,x6tence Galaxy, 3, 16,ovp,11,15,-4,0.74,Lost
+Heroic,Windigo, 13, 16,ovp,29,19,+10,1.50,Lost
+Heroic,Windigo, 16, 11,d2,26,18,+8,1.35,Lost
+Heroic,Windigo, 14, 16,mrg,30,17,+13,1.71,Lost
+Heroic,Tricked, 16, 5,nuke,16,6,+10,1.37,Won
+Heroic,Tricked, 16, 6,ovp,21,12,+9,1.62,Won
+Heroic,Tricked, 11, 16,inf,17,19,-2,1.10,Won
+Heroic,NoChance, 16, 13,inf,20,14,+6,1.18,Won
+Heroic,NoChance, 10, 16,mrg,17,18,-1,0.95,Won
+Heroic,NoChance, 16, 5,ovp,21,11,+10,1.51,Won
+Heroic,Natus Vincere, 16, 19,mrg,24,25,-1,1.06,Lost
+Heroic,Natus Vincere, 8, 16,trn,6,18,-12,0.56,Lost
+Heroic,North, 8, 16,trn,7,17,-10,0.49,Lost
+Heroic,North, 11, 16,nuke,21,19,+2,0.97,Lost
+Heroic,North, 16, 8,mrg,26,10,+16,1.69,Lost
+Heroic,Natus Vincere, 16, 13,inf,20,17,+3,1.04,Won
+Heroic,Natus Vincere, 16, 4,nuke,19,11,+8,1.32,Won
+Heroic,Natus Vincere, 8, 16,ovp,8,19,-11,0.63,Won
+Heroic,Gambit, 13, 16,ovp,27,17,+10,1.47,Lost
+Heroic,Tricked, 19, 17,ovp,33,24,+9,1.20,Won
+Heroic,FURIA, 11, 16,inf,17,16,+1,0.99,Lost
+Heroic,FURIA, 16, 3,ovp,17,11,+6,1.57,Lost
+Heroic,FURIA, 9, 16,mrg,12,17,-5,0.88,Lost
+Heroic,Winstrike, 10, 16,d2,20,17,+3,1.18,Lost
+Epsilon,AGO, 16, 11,mrg,23,14,+9,1.42,Won
+Epsilon,Chaos, 1, 16,ovp,7,15,-8,0.58,Lost
+Epsilon,Chaos, 11, 16,mrg,22,16,+6,1.32,Lost
+Epsilon,Endpoint, 14, 16,ovp,23,18,+5,1.34,Lost
+Epsilon,Endpoint, 9, 16,mrg,16,21,-5,1.09,Lost
+Epsilon,Endpoint, 16, 10,inf,21,11,+10,1.53,Lost
+Epsilon,Valiance, 8, 16,d2,15,19,-4,0.92,Lost
+Epsilon,Valiance, 8, 16,mrg,21,18,+3,1.28,Lost
+Epsilon,Winstrike, 16, 9,d2,25,10,+15,1.87,Won
+Epsilon,Winstrike, 16, 4,ovp,17,14,+3,1.28,Won
+Epsilon,pro100, 16, 5,inf,13,9,+4,1.44,Won
+Epsilon,pro100, 16, 6,cch,14,11,+3,1.19,Won
+Epsilon,pro100, 10, 16,ovp,23,17,+6,1.37,Won
+Epsilon,Kinguin, 11, 16,cch,16,16,0,1.03,Lost
+Epsilon,Kinguin, 9, 16,trn,14,18,-4,0.90,Lost
+Epsilon,Kinguin, 16, 14,ovp,25,16,+9,1.37,Lost
+Epsilon,3DMAX, 13, 16,inf,17,18,-1,1.06,Lost
+Epsilon,3DMAX, 11, 16,d2,20,14,+6,1.18,Lost
+Epsilon,3DMAX, 16, 13,ovp,29,15,+14,1.49,Lost
+Epsilon,OpTic, 16, 12,trn,17,17,0,0.93,Won
+Epsilon,OpTic, 16, 10,inf,19,13,+6,1.37,Won
+Epsilon,OpTic, 7, 16,ovp,12,18,-6,0.83,Won
+Epsilon,BRZINA, 14, 16,cch,22,19,+3,1.22,Lost
+Epsilon,SJ, 16, 14,d2,23,20,+3,1.09,Won
+Epsilon,ALTERNATE aTTaX, 2, 16,trn,8,16,-8,0.71,Lost
+Epsilon,aAa, 16, 7,ovp,24,12,+12,1.65,Won
+Epsilon,Movistar Riders, 7, 16,trn,13,17,-4,0.91,Lost
+Epsilon,Movistar Riders, 14, 16,inf,31,16,+15,1.60,Lost
+Epsilon,Movistar Riders, 16, 11,mrg,24,16,+8,1.36,Lost
+Epsilon,Red Reserve, 16, 5,ovp,20,11,+9,1.69,Won
+Epsilon,Red Reserve, 16, 2,nuke,18,8,+10,1.78,Won
+Epsilon,ENCE, 10, 16,cch,27,16,+11,1.43,Lost
+Epsilon,Spirit, 16, 6,ovp,23,12,+11,1.93,Won
+Epsilon,Marskalk, 16, 12,mrg,31,17,+14,1.87,Won
+Epsilon,Marskalk, 16, 10,ovp,26,11,+15,1.66,Won
+Epsilon,Jordan's Money Crew, 7, 16,ovp,13,16,-3,0.92,Lost
+Epsilon,PACT, 16, 1,ovp,23,5,+18,2.32,Won
+Epsilon,Sprout, 3, 16,inf,13,18,-5,0.92,Lost
+Epsilon,LeftOut, 16, 9,ovp,18,15,+3,1.31,Won
+Epsilon,AGO, 13, 16,mrg,30,21,+9,1.62,Lost
+Epsilon,Smoke Criminals, 16, 7,trn,30,10,+20,2.02,Won
+Epsilon,Imperial, 8, 16,cch,7,20,-13,0.55,Lost
+Epsilon,EURONICS, 16, 7,inf,26,13,+13,1.85,Won
+Epsilon,PACT, 16, 10,ovp,27,15,+12,1.77,Won
+Epsilon,Endpoint, 16, 14,ovp,26,13,+13,1.52,Won
+Epsilon,Bpro, 13, 16,ovp,29,19,+10,1.47,Lost
+Epsilon,Bpro, 11, 16,mrg,26,18,+8,1.48,Lost
+Epsilon,Valiance, 16, 14,inf,17,16,+1,1.03,Won
+Epsilon,Tricked, 16, 11,trn,20,15,+5,1.43,Won
+Epsilon,Tricked, 16, 12,mrg,20,17,+3,1.29,Won
+Epsilon,x-kom, 16, 10,mrg,24,15,+9,1.49,Won
+Epsilon,x-kom, 16, 10,d2,27,13,+14,1.75,Won
+Epsilon,LDLC, 11, 16,ovp,23,19,+4,1.27,Lost
+Epsilon,LDLC, 16, 13,mrg,27,19,+8,1.46,Lost
+Epsilon,LDLC, 7, 16,d2,16,14,+2,1.13,Lost
+Epsilon,AGO, 4, 16,trn,10,19,-9,0.63,Lost
+Epsilon,AGO, 17, 19,mrg,27,27,0,1.20,Lost
+Epsilon,LDLC, 16, 14,ovp,26,13,+13,1.45,Won
+Epsilon,expert, 16, 7,cch,12,13,-1,1.11,Won
+Epsilon,Fragsters, 13, 16,inf,17,20,-3,1.07,Lost
+Epsilon,HAVU, 5, 16,trn,8,17,-9,0.56,Lost
+Epsilon,HAVU, 11, 16,mrg,20,17,+3,1.24,Lost
+Epsilon,Space Soldiers, 16, 11,mrg,24,16,+8,1.39,Won
+Epsilon,Space Soldiers, 16, 3,inf,14,10,+4,1.35,Won
+Epsilon,Space Soldiers, 10, 16,d2,18,22,-4,0.86,Won
+Epsilon,attackiereN, 16, 14,mrg,22,18,+4,1.20,Won
+Epsilon,HAVU, 16, 9,ovp,26,15,+11,1.73,Won
+Epsilon,North, 6, 16,inf,18,12,+6,1.25,Lost
+Epsilon,North, 16, 14,mrg,30,18,+12,1.51,Lost
+Epsilon,North, 5, 16,trn,15,16,-1,1.03,Lost
+Epsilon,x6tence Galaxy, 13, 16,ovp,30,19,+11,1.72,Lost
+Epsilon,Tricked, 11, 16,mrg,24,15,+9,1.43,Lost
+Epsilon,Lyngby Vikings, 16, 7,trn,21,10,+11,1.51,Won
+Epsilon,Lyngby Vikings, 16, 8,inf,22,14,+8,1.43,Won
+Epsilon,Spirit, 16, 9,inf,24,12,+12,1.79,Won
+Epsilon,Spirit, 9, 16,ovp,20,14,+6,1.28,Won
+Epsilon,Spirit, 16, 9,mrg,18,10,+8,1.40,Won
+KoN Denmark,KoN Finland, 10, 16,trn,19,19,0,1.11,Lost
+KoN Denmark,KoN Sweden, 16, 12,mrg,22,15,+7,1.43,Won
+KoN Denmark,KoN Norway, 25, 22,mrg,42,27,+15,1.44,Won
+Epsilon,House Club, 16, 4,mrg,18,10,+8,1.40,Won
+fish123,aAa, 16, 5,inf,16,10,+6,1.42,Won
+fish123,EURONICS, 16, 3,cch,21,9,+12,1.84,Won
+fish123,KPI, 16, 6,mrg,23,11,+12,1.64,Won
+fish123,LDLC, 12, 16,ovp,20,18,+2,1.28,Lost
+fish123,Forge, 16, 8,trn,26,11,+15,1.89,Won
+fish123,Defusekids, 16, 2,inf,20,7,+13,1.89,Won
+fish123,Nexus, 16, 12,mrg,29,16,+13,1.64,Won
+fish123,ALTERNATE aTTaX, 16, 10,mrg,24,16,+8,1.43,Won
+fish123,PACT, 9, 16,trn,13,20,-7,0.79,Lost
+Epsilon,fnatic Academy, 11, 16,inf,22,19,+3,1.28,Lost
+Epsilon,Nordavind, 16, 4,inf,11,8,+3,1.13,Won
+Epsilon,EURONICS, 8, 16,inf,13,18,-5,0.86,Lost
+Epsilon,x-kom, 7, 16,mrg,13,17,-4,0.77,Lost
+Epsilon,pro100, 7, 16,cch,17,15,+2,0.96,Lost
+Epsilon,pro100, 10, 16,mrg,16,18,-2,1.05,Lost
+Epsilon,Imperial, 17, 19,inf,39,19,+20,1.61,Lost
+Epsilon,Imperial, 11, 16,mrg,19,15,+4,1.16,Lost
+Epsilon,Nordavind, 15, 19,trn,31,21,+10,1.40,Lost
+Epsilon,Nordavind, 6, 16,ovp,16,18,-2,1.05,Lost
+Epsilon,Nordavind, 16, 1,cch,11,8,+3,1.07,Lost
+Epsilon,Heroic, 16, 14,cch,22,18,+4,1.24,Won
+Epsilon,Heroic, 12, 16,ovp,23,16,+7,1.33,Won
+Epsilon,Heroic, 16, 6,mrg,22,11,+11,1.65,Won
+Epsilon,ENCE, 6, 16,ovp,11,16,-5,0.68,Lost
+Epsilon,ENCE, 14, 16,mrg,26,18,+8,1.35,Lost
+Epsilon,Red Reserve, 12, 16,mrg,22,19,+3,1.20,Lost
+Epsilon,Red Reserve, 7, 16,inf,14,19,-5,0.85,Lost
+Epsilon,Winstrike, 3, 16,mrg,11,17,-6,0.85,Lost
+Epsilon,Winstrike, 17, 19,inf,20,22,-2,0.95,Lost
+Great Danes,Property, 13, 16,cch,26,18,+8,1.38,Lost
+Great Danes,Property, 12, 16,ovp,29,18,+11,1.52,Lost
+Great Danes,Invictus Aquilas, 19, 22,mrg,47,28,+19,1.60,Lost
+Great Danes,Invictus Aquilas, 14, 16,ovp,25,22,+3,1.32,Lost
+Great Danes,Lyngby Vikings, 16, 19,mrg,28,22,+6,1.48,Lost
+Great Danes,Lyngby Vikings, 19, 17,inf,25,22,+3,1.06,Lost
+Great Danes,Lyngby Vikings, 5, 16,cch,21,17,+4,1.17,Lost
+Great Danes,Spirifex, 19, 17,mrg,32,22,+10,1.34,Won
+Great Danes,AllTheStars, 13, 16,cch,26,18,+8,1.35,Lost
+Great Danes,AllTheStars, 16, 11,mrg,27,15,+12,1.55,Lost
+Great Danes,AllTheStars, 5, 16,trn,15,17,-2,1.18,Lost
+Great Danes,Dark Origin, 19, 17,mrg,41,21,+20,1.82,Won
+Great Danes,Dark Origin, 16, 13,ovp,24,15,+9,1.39,Won
+Great Danes,Bpro, 8, 16,trn,17,18,-1,0.97,Lost
+Great Danes,Bpro, 7, 16,ovp,13,17,-4,0.76,Lost
+Great Danes,GoodJob, 11, 16,ovp,19,17,+2,1.26,Lost
+Great Danes,Bpro, 16, 8,inf,35,11,+24,2.32,Won
+Great Danes,Rogue, 14, 16,ovp,32,17,+15,1.70,Lost
+Great Danes,Rogue, 2, 16,trn,12,13,-1,0.91,Lost
+Great Danes,Kingpins, 16, 9,mrg,29,16,+13,1.78,Won
+Great Danes,Kingpins, 16, 10,ovp,17,17,0,1.17,Won
+Great Danes,NOREG, 8, 16,inf,23,16,+7,1.39,Lost
+Great Danes,NOREG, 13, 16,trn,25,20,+5,1.35,Lost
+Great Danes,LDLC, 16, 1,ovp,25,7,+18,2.26,Won
+Great Danes,LDLC, 16, 10,mrg,20,12,+8,1.41,Won
+Great Danes,Defusekids, 16, 10,cch,20,16,+4,1.37,Won
+Great Danes,Defusekids, 16, 11,inf,27,15,+12,1.52,Won
+Great Danes,Defusekids, 13, 16,nuke,18,15,+3,0.95,Won
+KoN Denmark,KoN Norway, 6, 16,cbl,16,16,0,1.07,Lost
+KoN Denmark,KoN Sweden, 16, 10,inf,31,14,+17,1.69,Won
+KoN Denmark,KoN Finland, 16, 8,mrg,27,14,+13,1.99,Won
+KoN Denmark,KoN Norway, 12, 16,inf,32,18,+14,1.67,Lost
+etopkald,Enyoy, 14, 16,mrg,26,21,+5,1.19,Lost
+KoN Denmark,KoN Sweden, 2, 16,inf,13,15,-2,0.94,Lost
+KoN Denmark,KoN Finland, 16, 11,inf,27,14,+13,1.54,Won
+KoN Denmark,KoN Norway, 16, 12,mrg,21,19,+2,1.21,Won
+KoN Denmark,KoN Sweden, 22, 18,inf,45,20,+25,1.68,Won
+KoN Denmark,KoN Norway, 16, 14,cch,19,20,-1,0.97,Won
+EZISKINS,TOXIC, 9, 16,mrg,23,17,+6,1.24,Lost
+EZISKINS,TOXIC, 13, 16,cbl,18,23,-5,1.03,Lost
+EZISKINS,Eyez-on, 16, 12,mrg,26,18,+8,1.48,Won
+EZISKINS,Eyez-on, 16, 14,cch,31,15,+16,1.75,Won
+Faceit Grind,Main Street, 12, 16,cbl,17,19,-2,0.81,Lost
+Faceit Grind,Main Street, 13, 16,ovp,21,18,+3,1.11,Lost
+Faceit Grind,Vulture, 16, 8,trn,22,13,+9,1.65,Won
+Faceit Grind,Vulture, 19, 16,ovp,28,20,+8,1.19,Won
+Faceit Grind,Vulture, 7, 16,inf,13,17,-4,0.80,Won
+Faceit Grind,Kaos, 16, 10,trn,18,18,0,1.12,Won
+Faceit Grind,Kaos, 16, 10,ovp,30,13,+17,1.79,Won
+Faceit Grind,Odense, 9, 16,trn,9,17,-8,0.65,Lost
+Faceit Grind,Odense, 10, 16,cch,17,19,-2,0.90,Lost
+

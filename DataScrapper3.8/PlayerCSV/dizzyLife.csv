@@ -1,0 +1,348 @@
+dizzyLife
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+catman,Paradox, 16, 10,d2,21,17,+4,1.19,Won
+catman,madlikewizards, 25, 23,inf,28,35,-7,0.89,Won
+catman,ORDER, 7, 16,trn,14,19,-5,0.86,Lost
+catman,Buckets, 16, 13,mrg,15,23,-8,0.94,Won
+catman,Grayhound, 7, 16,inf,10,17,-7,0.70,Lost
+catman,Grayhound, 13, 16,d2,15,22,-7,0.80,Lost
+catman,AVANT, 4, 16,ovp,10,19,-9,0.60,Lost
+catman,AVANT, 13, 16,inf,12,22,-10,0.79,Lost
+catman,Ground Zero, 16, 8,d2,18,16,+2,1.22,Won
+catman,Ground Zero, 16, 9,mrg,15,17,-2,0.94,Won
+catman,Ground Zero, 8, 16,inf,17,20,-3,0.99,Won
+catman,ZOOWEEMAMA, 16, 8,trn,20,11,+9,1.53,Won
+catman,Genuine, 16, 14,d2,22,19,+3,1.18,Won
+catman,Dippers, 16, 13,inf,27,18,+9,1.54,Won
+Recursive,Chiefs, 11, 16,d2,23,19,+4,1.37,Lost
+Recursive,Ground Zero, 16, 14,vtg,30,19,+11,Nil,Nil
+Recursive,Grayhound, 4, 16,trn,6,19,-13,0.52,Lost
+Recursive,Jade, 16, 14,d2,26,20,+6,Nil,Nil
+Recursive,Bizarre, 16, 8,inf,20,11,+9,Nil,Nil
+Recursive,SYF, 16, 7,inf,16,12,+4,Nil,Nil
+Recursive,Genuine, 16, 12,inf,23,15,+8,1.38,Won
+Recursive,Genuine, 16, 14,d2,19,16,+3,1.14,Won
+catman,Bizarre, 19, 15,vtg,30,22,+8,1.40,Won
+catman,Bizarre, 16, 6,d2,17,11,+6,1.24,Won
+catman,PC419, 4, 16,d2,12,18,-6,0.77,Lost
+catman,rewound, 19, 16,d2,32,17,+15,1.41,Won
+Chiefs,AVANT, 10, 16,mrg,13,20,-7,0.72,Lost
+Chiefs,Legacy, 16, 2,inf,14,9,+5,1.34,Won
+Chiefs,Legacy, 16, 8,mrg,14,9,+5,1.15,Won
+Chiefs,Tainted Minds, 19, 16,mrg,27,25,+2,1.09,Won
+Chiefs,Tainted Minds, 16, 7,inf,13,12,+1,1.13,Won
+Chiefs,Legacy, 19, 16,cch,18,23,-5,0.83,Won
+Chiefs,Legacy, 16, 7,mrg,20,12,+8,1.43,Won
+Chiefs,ORDER, 16, 14,nuke,23,16,+7,1.18,Won
+Chiefs,ORDER, 19, 15,inf,24,22,+2,1.13,Won
+Chiefs,Tainted Minds, 16, 10,cch,17,18,-1,1.02,Won
+Chiefs,Tainted Minds, 8, 16,inf,10,18,-8,0.57,Won
+Chiefs,Tainted Minds, 16, 7,nuke,15,13,+2,1.20,Won
+Chiefs,Ground Zero, 16, 9,mrg,18,12,+6,1.34,Won
+Chiefs,Ground Zero, 16, 4,trn,23,11,+12,1.62,Won
+Chiefs,Dynasty, 16, 11,cch,21,14,+7,1.33,Won
+Chiefs,Dynasty, 16, 14,inf,21,20,+1,1.23,Won
+Chiefs,Taboo, 16, 12,trn,27,14,+13,1.53,Won
+Chiefs,Taboo, 16, 11,inf,20,13,+7,1.38,Won
+Chiefs,Grayhound, 4, 16,cch,11,18,-7,0.53,Lost
+Chiefs,Grayhound, 4, 16,inf,14,15,-1,0.89,Lost
+Chiefs,Grayhound, 16, 13,nuke,25,16,+9,1.44,Lost
+Chiefs,Rise and Grind, 16, 1,nuke,22,7,+15,1.84,Won
+Chiefs,Rise and Grind, 16, 5,inf,20,8,+12,1.55,Won
+Chiefs,anime savants, 16, 8,mrg,26,11,+15,1.67,Won
+Chiefs,anime savants, 16, 10,trn,16,15,+1,1.08,Won
+Chiefs,SYF, 16, 8,cch,19,15,+4,1.22,Won
+Chiefs,SYF, 8, 16,nuke,8,18,-10,0.45,Won
+Chiefs,SYF, 16, 4,inf,14,6,+8,1.50,Won
+Chiefs,Ground Zero, 19, 17,mrg,22,22,0,0.94,Won
+Chiefs,Ground Zero, 16, 9,inf,19,9,+10,1.52,Won
+Chiefs,Dynasty, 16, 6,trn,20,13,+7,1.36,Won
+Chiefs,Dynasty, 16, 4,inf,27,10,+17,1.81,Won
+Chiefs,madlikewizards, 16, 4,mrg,16,10,+6,1.57,Won
+Chiefs,Rise and Grind, 16, 5,nuke,23,7,+16,1.85,Won
+Chiefs,Legacy, 16, 13,ovp,17,20,-3,0.87,Won
+Chiefs,Legacy, 16, 10,cch,16,16,0,1.08,Won
+Chiefs,Legacy, 16, 11,inf,16,11,+5,1.22,Won
+Chiefs,AVANT, 16, 3,trn,20,8,+12,1.79,Won
+Chiefs,ORDER, 10, 16,nuke,19,18,+1,1.10,Lost
+Chiefs,ORDER, 14, 16,cch,23,17,+6,1.25,Lost
+Chiefs,ORDER, 3, 16,trn,14,18,-4,0.85,Lost
+Chiefs,Conspiracy, 16, 8,nuke,22,10,+12,1.36,Won
+Chiefs,Legacy, 16, 4,nuke,9,9,0,0.96,Won
+Chiefs,seadoggs, 16, 13,cch,32,15,+17,1.72,Won
+Chiefs,AVANT, 16, 2,ovp,18,5,+13,1.76,Won
+Chiefs,AVANT, 16, 11,trn,20,19,+1,1.08,Won
+Chiefs,AVANT, 19, 15,trn,27,18,+9,1.24,Won
+Chiefs,AVANT, 19, 17,inf,22,20,+2,0.99,Won
+Chiefs,Downfall, 16, 8,trn,20,12,+8,1.44,Won
+Chiefs,Legacy, 16, 13,cch,21,19,+2,1.11,Won
+Chiefs,Legacy, 19, 15,mrg,26,18,+8,1.20,Won
+Chiefs,SYF, 5, 16,inf,14,17,-3,0.87,Lost
+Chiefs,SYF, 16, 4,nuke,18,10,+8,1.37,Won
+Chiefs,ORDER, 17, 19,trn,22,27,-5,0.92,Lost
+Chiefs,Rise and Grind, 16, 6,mrg,18,13,+5,1.31,Won
+Chiefs,seadoggs, 2, 16,inf,3,17,-14,0.27,Lost
+Chiefs,Grayhound, 4, 16,mrg,11,17,-6,0.64,Lost
+Chiefs,Grayhound, 11, 16,ovp,11,19,-8,0.70,Lost
+Chiefs,Grayhound, 16, 14,nuke,11,19,-8,0.71,Lost
+Chiefs,ORDER, 16, 11,mrg,17,17,0,1.07,Won
+Chiefs,ORDER, 14, 16,nuke,14,22,-8,0.79,Won
+Chiefs,ORDER, 16, 14,trn,14,21,-7,0.75,Won
+Chiefs,Grayhound, 4, 16,ovp,15,19,-4,0.76,Lost
+Chiefs,Grayhound, 13, 16,nuke,20,21,-1,1.01,Lost
+Chiefs,Tainted Minds, 16, 14,cch,30,16,+14,1.53,Won
+Chiefs,Tainted Minds, 22, 19,nuke,31,29,+2,1.09,Won
+Chiefs,Tainted Minds, 12, 16,ovp,16,21,-5,0.72,Won
+Chiefs,Taboo, 16, 6,mrg,15,14,+1,1.24,Won
+Chiefs,Taboo, 16, 7,inf,20,11,+9,1.52,Won
+Chiefs,TRIDENT, 16, 5,mrg,16,7,+9,1.33,Won
+Chiefs,AVANT, 16, 9,trn,20,13,+7,1.47,Won
+Chiefs,Grayhound, 12, 16,mrg,28,19,+9,1.36,Lost
+Chiefs,Grayhound, 5, 16,ovp,11,19,-8,0.62,Lost
+Chiefs,Taboo, 16, 1,mrg,16,4,+12,1.77,Won
+Chiefs,Taboo, 16, 3,inf,20,10,+10,1.93,Won
+Chiefs,Taboo, 16, 6,mrg,17,16,+1,1.25,Won
+Chiefs,Taboo, 16, 11,inf,14,17,-3,0.90,Won
+Chiefs,Grayhound, 13, 16,cch,18,24,-6,0.74,Lost
+Chiefs,Grayhound, 5, 16,ovp,8,18,-10,0.59,Lost
+Chiefs,ORDER, 16, 3,nuke,18,9,+9,1.53,Won
+Chiefs,ORDER, 7, 16,cch,9,20,-11,0.46,Won
+Chiefs,ORDER, 16, 13,mrg,20,18,+2,1.17,Won
+Chiefs,Ground Zero, 16, 12,trn,27,14,+13,1.38,Won
+Chiefs,Corvidae, 16, 6,nuke,11,14,-3,0.93,Won
+Chiefs,Corvidae, 16, 4,cch,16,10,+6,1.32,Won
+Chiefs,Grayhound, 16, 14,mrg,22,16,+6,1.14,Won
+Chiefs,ORDER, 16, 3,mrg,17,8,+9,1.56,Won
+Chiefs,Dark Sided, 16, 10,ovp,20,14,+6,1.35,Won
+Chiefs,1UP, 16, 2,cch,12,6,+6,1.20,Won
+Chiefs,Control, 16, 14,ovp,29,20,+9,1.42,Won
+Chiefs,Dark Sided, 16, 6,mrg,14,13,+1,0.98,Won
+Chiefs,Dark Sided, 16, 11,ovp,15,18,-3,0.85,Won
+Chiefs,Ground Zero, 16, 8,cch,18,15,+3,1.22,Won
+Chiefs,Ground Zero, 16, 7,mrg,18,13,+5,1.34,Won
+Chiefs,Deceptors, 16, 7,trn,28,10,+18,1.89,Won
+Chiefs,Grayhound, 7, 16,mrg,14,20,-6,0.84,Lost
+Chiefs,SYF, 13, 16,trn,17,24,-7,0.97,Lost
+Chiefs,Roar, 2, 16,mrg,12,15,-3,0.81,Lost
+Chiefs,ORDER, 6, 16,trn,17,19,-2,0.94,Lost
+Chiefs,baldkrew, 16, 3,trn,21,7,+14,1.73,Won
+Chiefs,Corvidae, 16, 12,mrg,31,15,+16,1.75,Won
+Chiefs,Ground Zero, 16, 2,cch,20,7,+13,1.83,Won
+Corvidae,Control, 13, 16,ovp,28,20,+8,1.25,Lost
+Corvidae,Control, 4, 16,nuke,12,18,-6,0.59,Lost
+Grayhound,Corvidae, 16, 7,cch,19,8,+11,1.51,Won
+Legacy,Athletico, 12, 16,inf,16,20,-4,0.89,Lost
+Legacy,Athletico, 16, 19,cch,24,23,+1,1.01,Lost
+Legacy,Zer0 Expectations, 16, 11,mrg,21,16,+5,1.22,Won
+Legacy,Athletico, 10, 16,mrg,32,18,+14,1.61,Lost
+Legacy,Athletico, 17, 19,cbl,34,22,+12,1.40,Lost
+Legacy,Masterminds, 16, 11,mrg,27,13,+14,1.60,Won
+Legacy,Masterminds, 16, 5,cch,21,8,+13,1.88,Won
+Legacy,Chiefs, 10, 16,nuke,11,15,-4,0.74,Lost
+Legacy,Chiefs, 8, 16,trn,17,18,-1,0.93,Lost
+Legacy,Ground Zero, 16, 5,nuke,15,8,+7,1.35,Won
+Legacy,Ground Zero, 19, 16,mrg,30,22,+8,1.18,Won
+Legacy,Ground Zero, 14, 16,ovp,28,25,+3,1.22,Won
+Legacy,Chiefs, 14, 16,cbl,15,23,-8,0.77,Lost
+Legacy,Chiefs, 16, 13,trn,21,20,+1,1.13,Lost
+Legacy,Chiefs, 13, 16,mrg,25,17,+8,1.39,Lost
+Legacy,SIN, 16, 14,ovp,21,17,+4,1.12,Won
+Legacy,SYF, 13, 16,cch,28,21,+7,1.34,Lost
+Legacy,Conspiracy, 16, 5,mrg,25,12,+13,1.82,Won
+Legacy,Noxide, 16, 9,cch,24,12,+12,1.61,Won
+Legacy,Chiefs, 5, 16,ovp,13,19,-6,0.71,Lost
+Legacy,Dark Sided, 22, 19,mrg,34,28,+6,1.22,Won
+Legacy,Control, 16, 3,cbl,23,10,+13,1.97,Won
+Legacy,Grayhound, 5, 16,ovp,12,21,-9,0.55,Lost
+Legacy,Tainted Minds, 6, 16,mrg,8,18,-10,0.61,Lost
+Legacy,seadoggs, 16, 12,mrg,23,16,+7,1.21,Won
+Legacy,Masterminds, 16, 2,cch,10,14,-4,1.05,Won
+Legacy,Athletico, 15, 19,cch,23,26,-3,0.96,Lost
+Legacy,Athletico, 16, 4,cbl,16,12,+4,1.12,Won
+Legacy,Tainted Minds, 7, 16,cch,13,21,-8,0.82,Lost
+Legacy,Tainted Minds, 19, 16,ovp,20,27,-7,0.91,Won
+Legacy,SIN, 12, 16,cch,23,20,+3,1.31,Lost
+Legacy,Athletico, 16, 11,cch,19,16,+3,1.18,Won
+Legacy,Kings, 14, 16,mrg,25,21,+4,1.15,Lost
+Legacy,Grayhound, 16, 10,cch,20,16,+4,1.25,Won
+Legacy,Grayhound, 4, 16,mrg,12,17,-5,0.77,Lost
+Legacy,Corvidae, 22, 20,ovp,31,28,+3,1.13,Won
+Legacy,SIN, 16, 14,trn,19,21,-2,0.98,Won
+Legacy,SIN, 19, 15,mrg,30,19,+11,1.39,Won
+Legacy,Funkd, 16, 7,mrg,17,14,+3,1.28,Won
+Legacy,Funkd, 16, 10,cch,17,17,0,1.07,Won
+Legacy,SIN, 16, 14,trn,23,20,+3,1.11,Won
+Legacy,SIN, 16, 10,mrg,21,15,+6,1.29,Won
+Legacy,AVANT, 16, 12,cch,32,15,+17,1.83,Won
+Legacy,AVANT, 16, 3,mrg,21,7,+14,1.95,Won
+Legacy,Kings, 8, 16,inf,18,15,+3,0.96,Lost
+Legacy,Kings, 11, 16,mrg,15,24,-9,0.90,Lost
+Legacy,Chiefs, 12, 16,ovp,14,22,-8,0.85,Lost
+Legacy,Chiefs, 8, 16,cbl,10,20,-10,0.63,Lost
+Legacy,SIN, 16, 13,mrg,26,19,+7,1.44,Won
+Legacy,SIN, 16, 14,cch,18,18,0,1.13,Won
+Legacy,Kings, 5, 16,inf,11,16,-5,0.68,Lost
+Legacy,Kings, 10, 16,mrg,26,18,+8,1.41,Lost
+deStiny & co.,Chiefs, 24, 28,nuke,37,36,+1,1.06,Lost
+deStiny & co.,Chiefs, 10, 16,mrg,19,17,+2,1.08,Lost
+Legacy,Masterminds, 1, 16,inf,6,16,-10,0.49,Lost
+Legacy,Masterminds, 16, 19,mrg,42,23,+19,1.67,Lost
+Legacy,Masterminds, 16, 11,nuke,21,21,0,1.10,Lost
+Legacy,BRB20, 9, 16,cch,22,20,+2,1.34,Lost
+Legacy,BRB20, 14, 16,cbl,31,22,+9,1.35,Lost
+Legacy,AVANT, 14, 16,ovp,24,23,+1,1.18,Lost
+Legacy,AVANT, 11, 16,mrg,25,18,+7,1.39,Lost
+Legacy,AVANT, 16, 5,cbl,24,10,+14,1.92,Lost
+Legacy,Cortex Red, 16, 1,mrg,22,8,+14,2.13,Won
+Legacy,Chiefs, 0, 16,nuke,3,16,-13,0.29,Lost
+Legacy,BRB20, 4, 16,trn,12,16,-4,0.75,Lost
+Legacy,Tainted Minds, 6, 16,cch,15,20,-5,1.01,Lost
+Legacy,Tainted Minds, 16, 11,cbl,28,18,+10,1.58,Lost
+Legacy,Tainted Minds, 11, 16,trn,34,15,+19,1.81,Lost
+Legacy,Athletico, 2, 16,ovp,12,17,-5,0.89,Lost
+Legacy,Athletico, 2, 16,cch,11,15,-4,0.71,Lost
+Legacy,Kings, 9, 16,ovp,10,21,-11,0.71,Lost
+Legacy,Kings, 12, 16,trn,29,15,+14,1.52,Lost
+Legacy,Athletico, 16, 5,cch,21,10,+11,1.54,Won
+Legacy,Athletico, 16, 7,ovp,24,13,+11,1.72,Won
+Legacy,AVANT, 16, 14,ovp,25,19,+6,1.32,Won
+Legacy,AVANT, 16, 9,trn,18,15,+3,1.15,Won
+Legacy,AVANT, 9, 16,inf,17,15,+2,1.12,Won
+Legacy,Masterminds, 16, 7,ovp,13,13,0,1.00,Won
+Legacy,Anonymous, 16, 1,ovp,16,7,+9,Nil,Nil
+Legacy,Anonymous, 10, 16,nuke,20,20,0,Nil,Nil
+Legacy,Corvidae, 16, 7,ovp,17,12,+5,1.13,Won
+Legacy,Funkd, 16, 14,inf,19,22,-3,1.05,Won
+Legacy,Corvidae, 16, 4,cbl,9,7,+2,Nil,Nil
+Legacy,Corvidae, 8, 16,inf,12,21,-9,Nil,Nil
+Legacy,AVANT, 9, 16,inf,16,18,-2,0.91,Lost
+Legacy,AVANT, 2, 16,ovp,12,17,-5,0.86,Lost
+Legacy,Funky Monkeys, 16, 7,trn,21,15,+6,1.44,Won
+Legacy,Funky Monkeys, 16, 11,cch,20,17,+3,1.33,Won
+Legacy,TRIDENT Storm, 16, 3,trn,14,9,+5,1.41,Won
+Legacy,AVANT, 4, 16,trn,8,18,-10,0.45,Lost
+Legacy,Chiefs, 6, 16,cch,8,19,-11,0.56,Lost
+Legacy,Noxide, 16, 12,trn,21,18,+3,1.27,Won
+Legacy,Noxide, 16, 9,cch,23,13,+10,1.57,Won
+Legacy,Dark Sided, 11, 16,cch,21,19,+2,Nil,Nil
+Legacy,Riotous Raccoons, 16, 12,cbl,19,18,+1,1.12,Won
+Legacy,Riotous Raccoons, 16, 1,nuke,19,6,+13,1.84,Won
+Legacy,Tainted Minds, 9, 16,inf,17,18,-1,0.90,Lost
+Legacy,Tainted Minds, 11, 16,ovp,19,20,-1,1.13,Lost
+Legacy,Tainted Minds, 16, 11,trn,22,16,+6,1.41,Lost
+Legacy,Tainted Black, 16, 9,nuke,13,14,-1,1.01,Won
+Legacy,Tainted Black, 16, 4,trn,16,7,+9,1.53,Won
+Legacy,Riotous Raccoons, 16, 4,nuke,10,11,-1,0.99,Won
+Legacy,Riotous Raccoons, 16, 5,cbl,22,11,+11,1.54,Won
+Legacy,Funky Monkeys, 16, 8,ovp,20,12,+8,1.37,Won
+Legacy,Funky Monkeys, 16, 6,nuke,32,10,+22,2.28,Won
+Legacy,Athletico, 16, 11,cbl,21,15,+6,1.34,Won
+Legacy,Grayhound, 5, 16,cbl,12,21,-9,0.85,Lost
+Legacy,Tainted Minds, 16, 5,ovp,26,12,+14,Nil,Nil
+Legacy,Tainted Minds, 6, 16,inf,15,16,-1,Nil,Nil
+Legacy,Incept, 16, 13,mrg,25,17,+8,1.34,Won
+Legacy,Tainted Minds, 13, 16,mrg,27,19,+8,1.50,Lost
+Legacy,Athletico, 16, 6,ovp,11,12,-1,1.00,Won
+Legacy,Athletico, 16, 13,nuke,18,21,-3,1.09,Won
+Legacy,SMC, 16, 1,ovp,12,8,+4,1.44,Won
+Legacy,Skyfire, 16, 6,ovp,19,14,+5,1.36,Won
+Legacy,Dark Sided, 15, 19,trn,36,20,+16,1.41,Lost
+Legacy,Dark Sided, 13, 16,ovp,13,23,-10,0.79,Lost
+Legacy,Somali Pilots, 16, 4,trn,21,13,+8,1.64,Won
+Legacy,Somali Pilots, 16, 4,inf,25,9,+16,1.80,Won
+Legacy,Athletico, 16, 12,nuke,16,17,-1,1.06,Won
+Legacy,TQM, 8, 16,inf,10,17,-7,Nil,Nil
+Legacy,TQM, 16, 3,nuke,10,13,-3,Nil,Nil
+Legacy,Funky Monkeys, 16, 9,nuke,22,13,+9,1.46,Won
+Legacy,Node, 16, 0,nuke,17,11,+6,1.75,Won
+Legacy,Funky Monkeys, 16, 8,trn,18,12,+6,Nil,Nil
+Legacy,Funky Monkeys, 12, 16,mrg,23,19,+4,Nil,Nil
+Legacy,Dark Sided, 6, 16,inf,9,18,-9,0.65,Lost
+Legacy,Dark Sided, 11, 16,mrg,18,18,0,1.15,Lost
+Legacy,Immunity, 16, 8,ovp,23,16,+7,Nil,Nil
+Legacy,Immunity, 5, 16,cch,12,17,-5,Nil,Nil
+Legacy,AVANT, 11, 16,mrg,26,17,+9,1.30,Lost
+Legacy,AVANT, 10, 16,inf,13,18,-5,0.79,Lost
+Legacy,Athletico, 16, 6,trn,17,12,+5,1.17,Won
+Legacy,Athletico, 6, 16,nuke,15,20,-5,0.85,Won
+Legacy,Athletico, 16, 3,inf,20,7,+13,1.72,Won
+Legacy,Funky Monkeys, 16, 12,inf,17,18,-1,1.20,Won
+Legacy,Funky Monkeys, 16, 6,mrg,29,12,+17,2.16,Won
+Legacy,AVANT, 19, 22,trn,27,32,-5,0.92,Lost
+Legacy,AVANT, 16, 13,cch,26,18,+8,1.28,Lost
+Legacy,AVANT, 11, 16,inf,29,19,+10,1.55,Lost
+Legacy,Chiefs, 16, 11,inf,26,17,+9,Nil,Nil
+Legacy,Chiefs, 9, 16,ovp,30,16,+14,Nil,Nil
+Legacy,Immunity, 12, 16,inf,19,18,+1,1.09,Lost
+Legacy,Immunity, 2, 16,nuke,15,15,0,1.12,Lost
+Legacy,Dark Sided, 16, 8,inf,21,13,+8,1.47,Won
+Legacy,Immunity, 11, 16,trn,20,20,0,1.08,Lost
+Legacy,Immunity, 10, 16,nuke,23,20,+3,1.10,Lost
+Legacy,Chiefs, 12, 16,nuke,19,19,0,1.01,Lost
+Legacy,AVANT, 14, 16,nuke,22,23,-1,1.04,Lost
+Legacy,AVANT, 9, 16,trn,15,17,-2,0.91,Lost
+Legacy,Corvidae, 14, 16,mrg,17,24,-7,0.86,Lost
+Legacy,Corvidae, 16, 13,cch,30,19,+11,1.46,Won
+Legacy,AVANT, 11, 16,inf,13,16,-3,0.81,Lost
+Legacy,AVANT, 11, 16,mrg,24,17,+7,1.25,Lost
+Legacy,AVANT, 19, 17,nuke,28,24,+4,1.17,Lost
+Legacy,JAM, 16, 8,nuke,29,12,+17,1.84,Won
+Legacy,JAM, 16, 3,trn,18,10,+8,1.55,Won
+Legacy,Immunity, 5, 16,trn,10,17,-7,0.57,Lost
+Legacy,Immunity, 6, 16,mrg,18,18,0,1.20,Lost
+Legacy,Supremacy, 16, 9,mrg,25,18,+7,1.66,Won
+Legacy,Supremacy, 16, 7,cch,16,16,0,1.11,Won
+Legacy,Alpha Sydney, 16, 14,inf,25,19,+6,1.17,Won
+Legacy,Alpha Sydney, 11, 16,mrg,26,20,+6,1.34,Lost
+Legacy,Alpha Sydney, 16, 10,mrg,27,12,+15,1.67,Won
+Legacy,Alpha Sydney, 16, 10,cbl,23,15,+8,1.41,Won
+Legacy,Cypher, 16, 5,mrg,16,12,+4,1.33,Won
+Legacy,Cypher, 16, 13,nuke,32,17,+15,1.64,Won
+Legacy,AVANT, 13, 16,mrg,14,24,-10,Nil,Nil
+Legacy,AVANT, 16, 8,ovp,18,9,+9,Nil,Nil
+Legacy,Funky Monkeys, 19, 15,cch,28,26,+2,1.22,Won
+Legacy,Funky Monkeys, 16, 4,trn,26,5,+21,2.22,Won
+Legacy,SYF, 7, 16,mrg,23,15,+8,Nil,Nil
+Legacy,SYF, 16, 11,cch,29,16,+13,Nil,Nil
+Legacy,Corvidae, 16, 2,trn,14,7,+7,1.61,Won
+Legacy,Corvidae, 16, 11,mrg,19,16,+3,1.09,Won
+Legacy,Athletico, 8, 16,ovp,15,18,-3,1.05,Lost
+Legacy,Athletico, 16, 7,mrg,22,12,+10,1.50,Won
+Legacy,Cypher, 16, 11,mrg,32,16,+16,1.80,Won
+Legacy,Cypher, 19, 17,cch,26,26,0,1.09,Won
+Legacy,Chiefs, 12, 16,nuke,22,21,+1,1.11,Lost
+Legacy,Chiefs, 10, 16,cbl,12,19,-7,0.74,Lost
+Legacy,Immunity, 13, 16,d2,29,22,+7,1.44,Lost
+Legacy,Immunity, 10, 16,cbl,18,18,0,0.94,Lost
+Legacy,SYF, 16, 8,mrg,20,11,+9,1.55,Won
+Legacy,SYF, 16, 13,cbl,30,17,+13,1.49,Won
+Legacy,AVANT, 16, 10,mrg,26,16,+10,1.52,Won
+Legacy,AVANT, 16, 2,d2,15,7,+8,1.62,Won
+TCC,Stacked Like Pancakes, 16, 4,cbl,21,9,+12,1.84,Won
+TCC,Stacked Like Pancakes, 16, 12,cch,20,18,+2,1.05,Won
+TCC,Skyfire, 16, 8,d2,24,6,+18,1.64,Won
+TCC,Skyfire, 16, 3,cbl,18,4,+14,1.80,Won
+TCC,Athletico, 16, 2,nuke,26,5,+21,2.16,Won
+Chiefs,Exile5, 3, 16,cbl,9,17,-8,0.62,Lost
+Chiefs,Cypher, 16, 3,cbl,16,9,+7,1.40,Won
+Chiefs,Parallax, 16, 11,cch,27,16,+11,1.52,Won
+Chiefs,Parallax, 9, 16,mrg,19,16,+3,1.15,Lost
+Chiefs,Immunity, 15, 15,nuke,21,18,+3,Nil,Nil
+Chiefs,Immunity, 16, 13,trn,18,15,+3,0.99,Won
+Chiefs,Animal Squad, 16, 11,cch,21,16,+5,1.11 *,Won
+Chiefs,Renegades, 5, 16,cbl,12,18,-6,0.70 *,Lost
+Exile5,Immunity, 3, 16,mrg,14,15,-1,0.97 *,Lost
+Exile5,Steelseries, 16, 14,d2,22,19,+3,1.04 *,Won
+Exile5,Steelseries, 16, 6,cbl,22,11,+11,1.51 *,Won
+Australia,New Zealand, 16, 11,cbl,16,16,0,0.89 *,Won
+Australia,New Zealand, 16, 7,mrg,15,11,+4,1.10 *,Won
+Exile5,STREAMLINE, 13, 16,cch,21,22,-1,1.00 *,Lost
+Exile5,STREAMLINE, 8, 16,inf,15,18,-3,0.82 *,Lost
+Exile5,STREAMLINE, 16, 9,mrg,23,10,+13,1.58 *,Lost
+Exile5,SYF, 16, 9,mrg,25,13,+12,1.55 *,Won
+Exile5,SYF, 16, 2,cbl,18,7,+11,1.75 *,Won
+Vox Eminor,Immunity, 14, 16,ovp,23,21,+2,1.02 *,Lost
+Vox Eminor,AVANT, 16, 9,cch,28,14,+14,1.52 *,Won
+Chiefs,STREAMLINE, 16, 8,cch,15,13,+2,1.04 *,Won
+Chiefs,Immunity, 24, 26,mrg,50,27,+23,1.40 *,Lost
+

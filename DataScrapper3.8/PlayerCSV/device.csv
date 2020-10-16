@@ -1,0 +1,1533 @@
+device
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Astralis,Spirit, 16, 10,nuke,23,17,+6,1.29,Won
+Astralis,Spirit, 16, 7,ovp,17,12,+5,1.09,Won
+Astralis,fnatic, 16, 8,trn,22,14,+8,1.52,Won
+Astralis,fnatic, 9, 16,inf,15,19,-4,0.88,Won
+Astralis,fnatic, 16, 6,nuke,17,12,+5,1.26,Won
+Astralis,NiP, 16, 7,trn,17,15,+2,1.18,Won
+Astralis,NiP, 16, 6,d2,14,14,0,1.05,Won
+Astralis,mousesports, 16, 9,inf,19,16,+3,1.25,Won
+Astralis,mousesports, 16, 14,nuke,15,18,-3,0.96,Won
+Astralis,mousesports, 12, 16,d2,27,16,+11,1.40,Won
+Astralis,Vitality, 16, 11,d2,24,15,+9,1.39,Won
+Astralis,Vitality, 9, 16,vtg,17,17,0,1.08,Won
+Astralis,Vitality, 16, 10,nuke,24,16,+8,1.36,Won
+Astralis,FaZe, 16, 5,trn,19,11,+8,1.39,Won
+Astralis,FaZe, 16, 7,nuke,18,13,+5,1.54,Won
+Astralis,Complexity, 17, 19,d2,20,27,-7,0.94,Lost
+Astralis,Complexity, 17, 19,trn,22,24,-2,0.88,Lost
+Astralis,NiP, 13, 16,inf,18,23,-5,0.99,Lost
+Astralis,NiP, 10, 16,trn,15,16,-1,0.90,Lost
+Astralis,Vitality, 16, 7,d2,23,16,+7,1.64,Won
+Astralis,Vitality, 16, 8,nuke,14,13,+1,1.05,Won
+Astralis,fnatic, 19, 17,trn,28,24,+4,1.25,Won
+Astralis,fnatic, 16, 5,nuke,14,15,-1,1.23,Won
+Astralis,NiP, 18, 22,ovp,38,28,+10,1.25,Lost
+Astralis,NiP, 16, 8,nuke,21,12,+9,1.54,Lost
+Astralis,NiP, 12, 16,trn,20,19,+1,0.95,Lost
+Astralis,mousesports, 5, 16,trn,14,16,-2,0.88,Lost
+Astralis,mousesports, 16, 19,ovp,20,23,-3,0.95,Lost
+Astralis,ENCE, 13, 16,nuke,24,14,+10,1.40,Lost
+Astralis,Vitality, 6, 16,nuke,19,18,+1,1.07,Lost
+Astralis,sAw, 16, 4,trn,13,12,+1,1.07,Won
+Astralis,NiP, 7, 16,trn,16,15,+1,1.04,Lost
+Astralis,G2, 7, 16,nuke,11,17,-6,0.82,Lost
+Astralis,G2, 13, 16,d2,19,16,+3,1.20,Lost
+Astralis,North, 16, 8,inf,16,14,+2,1.28,Won
+Astralis,North, 16, 4,vtg,21,9,+12,1.65,Won
+Astralis,Heroic, 16, 14,inf,19,17,+2,1.15,Won
+Astralis,Heroic, 19, 16,trn,29,17,+12,1.39,Won
+Astralis,G2, 16, 2,vtg,22,10,+12,1.94,Won
+Astralis,G2, 16, 6,nuke,24,13,+11,1.62,Won
+Astralis,FaZe, 16, 7,inf,22,16,+6,1.46,Won
+Astralis,FaZe, 16, 12,d2,25,13,+12,1.48,Won
+Astralis,G2, 16, 7,ovp,29,9,+20,1.90,Won
+Astralis,G2, 16, 13,vtg,23,16,+7,1.30,Won
+Astralis,ENCE, 16, 11,inf,27,19,+8,1.37,Won
+Astralis,ENCE, 12, 16,nuke,21,18,+3,1.08,Won
+Astralis,ENCE, 19, 17,trn,30,21,+9,1.25,Won
+Astralis,Dignitas, 16, 5,d2,12,15,-3,0.90,Won
+Astralis,Dignitas, 19, 17,trn,30,25,+5,1.23,Won
+Astralis,Heretics, 16, 12,inf,15,20,-5,0.89,Won
+Astralis,Heretics, 16, 10,d2,23,15,+8,1.24,Won
+Astralis,NiP, 16, 11,inf,25,17,+8,1.34,Won
+Astralis,NiP, 16, 12,nuke,20,19,+1,1.21,Won
+Astralis,NiP, 12, 16,vtg,16,19,-3,0.81,Won
+Astralis,Vitality, 16, 5,nuke,24,10,+14,1.90,Won
+Astralis,Vitality, 16, 7,d2,15,13,+2,1.20,Won
+Astralis,fnatic, 12, 16,ovp,22,18,+4,1.10,Lost
+Astralis,fnatic, 19, 16,inf,27,24,+3,1.22,Lost
+Astralis,fnatic, 9, 16,trn,21,19,+2,1.13,Lost
+Astralis,Complexity, 16, 11,trn,22,17,+5,1.15,Won
+Astralis,Complexity, 13, 16,nuke,14,21,-7,0.82,Won
+Astralis,Complexity, 16, 4,vtg,21,9,+12,1.72,Won
+Astralis,mousesports, 12, 16,nuke,21,19,+2,1.11,Lost
+Astralis,mousesports, 16, 5,inf,22,13,+9,1.82,Lost
+Astralis,mousesports, 17, 19,d2,29,23,+6,1.20,Lost
+Astralis,mousesports, 16, 1,d2,14,7,+7,1.63,Won
+Astralis,mousesports, 16, 3,inf,14,11,+3,1.10,Won
+Astralis,OG, 16, 10,ovp,20,16,+4,1.14,Won
+Astralis,OG, 16, 8,d2,20,13,+7,1.37,Won
+Astralis,FaZe, 16, 4,ovp,14,11,+3,1.24,Won
+Astralis,FaZe, 19, 17,nuke,22,22,0,0.98,Won
+Astralis,fnatic, 14, 16,inf,22,22,0,1.02,Lost
+Astralis,fnatic, 16, 11,nuke,19,14,+5,1.15,Lost
+Astralis,fnatic, 13, 16,d2,18,17,+1,1.13,Lost
+Astralis,Natus Vincere, 8, 16,trn,16,16,0,0.95,Lost
+Astralis,Natus Vincere, 10, 16,d2,19,16,+3,1.04,Lost
+Astralis,Natus Vincere, 16, 5,inf,14,13,+1,1.25,Lost
+Astralis,Vitality, 16, 8,nuke,21,15,+6,1.38,Won
+Astralis,Vitality, 17, 19,ovp,32,23,+9,1.36,Won
+Astralis,Vitality, 16, 10,d2,28,15,+13,1.60,Won
+Astralis,Spirit, 16, 8,nuke,31,16,+15,1.89,Won
+Astralis,Spirit, 16, 6,d2,20,8,+12,1.53,Won
+Astralis,ENCE, 16, 10,ovp,18,18,0,1.15,Won
+Astralis,ENCE, 14, 16,inf,18,19,-1,0.93,Won
+Astralis,ENCE, 16, 13,d2,19,13,+6,1.24,Won
+Astralis,GODSENT, 16, 7,inf,16,14,+2,1.39,Won
+Astralis,GODSENT, 16, 5,vtg,13,11,+2,1.10,Won
+Astralis,NiP, 8, 16,ovp,12,17,-5,0.73,Lost
+Astralis,NiP, 6, 16,vtg,11,19,-8,0.66,Lost
+Astralis,Natus Vincere, 5, 16,nuke,6,18,-12,0.44,Lost
+Astralis,Natus Vincere, 5, 16,d2,15,15,0,1.10,Lost
+Astralis,fnatic, 16, 8,vtg,16,12,+4,1.32,Won
+Astralis,fnatic, 16, 9,ovp,21,13,+8,1.31,Won
+Astralis,Vitality, 22, 19,vtg,34,24,+10,1.24,Won
+Astralis,Vitality, 16, 9,ovp,17,15,+2,1.05,Won
+Astralis,Cloud9, 16, 12,trn,24,16,+8,1.37,Won
+Astralis,Cloud9, 16, 7,ovp,26,8,+18,1.81,Won
+Astralis,Natus Vincere, 14, 16,inf,28,23,+5,1.36,Lost
+Astralis,Natus Vincere, 9, 16,nuke,20,21,-1,1.14,Lost
+Astralis,Natus Vincere, 16, 6,trn,15,13,+2,1.02,Lost
+Astralis,Complexity, 12, 16,vtg,18,23,-5,0.80,Lost
+Astralis,Complexity, 11, 16,d2,22,19,+3,1.16,Lost
+Astralis,Liquid, 16, 12,nuke,22,17,+5,1.18,Won
+Astralis,Liquid, 16, 11,inf,21,19,+2,1.21,Won
+Astralis,NiP, 16, 8,nuke,23,14,+9,1.59,Won
+Astralis,NiP, 16, 11,trn,20,16,+4,1.18,Won
+Astralis,Liquid, 16, 13,inf,21,21,0,1.12,Won
+Astralis,Liquid, 16, 12,nuke,19,16,+3,1.06,Won
+Astralis,mousesports, 14, 16,d2,25,18,+7,1.38,Lost
+Astralis,mousesports, 16, 9,ovp,21,17,+4,1.26,Lost
+Astralis,mousesports, 19, 22,trn,15,27,-12,0.64,Lost
+Astralis,Liquid, 16, 13,d2,23,18,+5,1.37,Won
+Astralis,Liquid, 16, 7,nuke,12,14,-2,1.03,Won
+Astralis,Liquid, 14, 16,inf,18,20,-2,0.85,Won
+Astralis,G2, 16, 14,trn,13,21,-8,0.67,Won
+Astralis,G2, 19, 15,inf,23,19,+4,1.23,Won
+Astralis,G2, 13, 16,d2,24,20,+4,1.21,Won
+Astralis,Renegades, 16, 8,inf,19,14,+5,1.25,Won
+Astralis,Liquid, 16, 8,d2,29,12,+17,1.89,Won
+Astralis,Liquid, 16, 11,nuke,20,15,+5,1.09,Won
+Astralis,Liquid, 15, 19,vtg,19,24,-5,0.91,Won
+Astralis,Evil Geniuses, 16, 6,ovp,19,11,+8,1.37,Won
+Astralis,Evil Geniuses, 13, 16,nuke,22,18,+4,1.09,Won
+Astralis,Evil Geniuses, 16, 8,inf,19,11,+8,1.38,Won
+Astralis,fnatic, 16, 14,inf,22,18,+4,1.28,Won
+Astralis,fnatic, 16, 6,nuke,26,11,+15,2.02,Won
+Astralis,Sharks, 19, 15,nuke,19,21,-2,0.91,Won
+Astralis,100 Thieves, 16, 3,trn,15,9,+6,1.38,Won
+Astralis,100 Thieves, 16, 5,nuke,19,13,+6,1.43,Won
+Astralis,100 Thieves, 16, 14,vtg,29,22,+7,1.41,Won
+Astralis,FaZe, 16, 2,nuke,12,9,+3,1.22,Won
+Astralis,FaZe, 16, 0,d2,15,6,+9,1.63,Won
+Astralis,100 Thieves, 16, 9,nuke,25,17,+8,1.34,Won
+Astralis,100 Thieves, 16, 10,inf,20,12,+8,1.44,Won
+Astralis,ViCi, 16, 4,nuke,19,9,+10,1.53,Won
+Astralis,ViCi, 16, 5,inf,22,9,+13,1.65,Won
+Astralis,Cloud9, 16, 3,nuke,21,7,+14,1.88,Won
+Astralis,Natus Vincere, 15, 15,nuke,26,23,+3,Nil,Nil
+Astralis,Liquid, 16, 10,nuke,27,17,+10,1.44,Won
+Astralis,NiP, 7, 16,ovp,12,19,-7,0.70,Lost
+Astralis,FaZe, 2, 16,inf,8,18,-10,0.51,Lost
+Astralis,BIG, 16, 14,trn,18,20,-2,0.99,Won
+Astralis,BIG, 11, 16,d2,17,18,-1,0.93,Won
+Astralis,BIG, 16, 3,nuke,31,6,+25,2.55,Won
+Astralis,FaZe, 16, 8,d2,17,18,-1,0.95,Won
+Astralis,FaZe, 16, 9,nuke,17,14,+3,1.19,Won
+Astralis,m1x, 16, 8,inf,22,14,+8,1.41,Won
+Astralis,m1x, 19, 17,d2,33,21,+12,1.43,Won
+Astralis,fnatic, 16, 14,trn,22,18,+4,1.24,Won
+Astralis,fnatic, 16, 14,inf,22,17,+5,1.15,Won
+Astralis,North, 19, 17,trn,31,25,+6,1.19,Won
+Astralis,North, 16, 8,inf,20,14,+6,1.52,Won
+Astralis,Aristocracy, 16, 12,nuke,18,19,-1,0.97,Won
+Astralis,Aristocracy, 16, 9,vtg,26,15,+11,1.52,Won
+Astralis,fnatic, 23, 25,nuke,49,31,+18,1.46,Lost
+Astralis,fnatic, 9, 16,ovp,12,19,-7,0.64,Lost
+Astralis,Vitality, 16, 14,d2,26,17,+9,1.45,Won
+Astralis,Vitality, 16, 5,vtg,31,9,+22,2.48,Won
+Astralis,G2, 16, 7,d2,24,11,+13,1.74,Won
+Astralis,G2, 19, 16,nuke,24,21,+3,1.03,Won
+Astralis,Envy, 16, 7,trn,21,7,+14,1.64,Won
+Astralis,Evil Geniuses, 8, 16,nuke,14,17,-3,0.93,Lost
+Astralis,Evil Geniuses, 22, 20,trn,25,26,-1,1.05,Lost
+Astralis,Evil Geniuses, 12, 16,d2,13,17,-4,0.82,Lost
+Astralis,Evil Geniuses, 3, 16,inf,11,16,-5,0.79,Lost
+Astralis,Liquid, 16, 13,ovp,18,18,0,1.00,Won
+Astralis,Liquid, 9, 16,d2,13,16,-3,0.88,Won
+Astralis,Liquid, 16, 9,vtg,14,18,-4,0.97,Won
+Astralis,OpTic, 16, 7,d2,20,14,+6,1.43,Won
+Astralis,OpTic, 16, 6,nuke,20,10,+10,1.40,Won
+Astralis,Evil Geniuses, 12, 16,inf,26,18,+8,1.29,Lost
+Astralis,Evil Geniuses, 14, 16,d2,19,18,+1,0.96,Lost
+Astralis,OpTic, 16, 1,d2,21,7,+14,2.00,Won
+Astralis,OpTic, 16, 14,vtg,18,20,-2,0.96,Won
+Astralis,AVANGAR, 16, 5,d2,23,8,+15,1.97,Won
+Astralis,AVANGAR, 16, 6,inf,19,13,+6,1.49,Won
+Astralis,NRG, 16, 9,ovp,23,16,+7,1.37,Won
+Astralis,NRG, 16, 10,trn,19,14,+5,1.25,Won
+Astralis,Liquid, 16, 13,ovp,25,16,+9,1.36,Won
+Astralis,Liquid, 16, 8,vtg,23,13,+10,1.56,Won
+Astralis,CR4ZY, 16, 5,vtg,21,13,+8,1.59,Won
+Astralis,CR4ZY, 29, 31,d2,46,42,+4,1.08,Won
+Astralis,CR4ZY, 16, 11,inf,20,20,0,1.07,Won
+Astralis,NRG, 4, 16,nuke,7,18,-11,0.46,Lost
+Astralis,NRG, 28, 31,trn,47,38,+9,1.05,Lost
+Astralis,G2, 16, 7,nuke,21,11,+10,1.49,Won
+Astralis,DreamEaters, 16, 9,d2,19,10,+9,1.41,Won
+Astralis,Vitality, 9, 16,ovp,11,19,-8,0.58,Lost
+Astralis,Vitality, 22, 19,inf,24,26,-2,1.17,Lost
+Astralis,Vitality, 8, 16,d2,11,18,-7,0.93,Lost
+Astralis,NiP, 16, 8,inf,14,15,-1,1.06,Won
+Astralis,NiP, 19, 16,d2,25,21,+4,1.16,Won
+Astralis,fnatic, 16, 6,nuke,15,12,+3,1.22,Won
+Astralis,fnatic, 16, 1,trn,18,7,+11,1.60,Won
+Astralis,BIG, 16, 4,ovp,20,10,+10,1.61,Won
+Astralis,Liquid, 13, 16,vtg,18,21,-3,0.90,Lost
+Astralis,Liquid, 6, 16,inf,23,20,+3,1.36,Lost
+Astralis,Liquid, 16, 12,ovp,23,21,+2,1.26,Lost
+Astralis,NRG, 12, 16,d2,17,19,-2,0.99,Lost
+Astralis,NRG, 16, 8,nuke,30,11,+19,2.05,Lost
+Astralis,NRG, 13, 16,trn,21,20,+1,0.95,Lost
+Astralis,Heroic, 16, 7,inf,21,15,+6,1.47,Won
+Astralis,Heroic, 16, 7,vtg,20,10,+10,1.49,Won
+Astralis,Cloud9, 16, 9,inf,17,15,+2,1.11,Won
+Astralis,FURIA, 13, 16,nuke,26,19,+7,1.33,Lost
+Astralis,FURIA, 10, 16,mrg,24,13,+11,1.49,Lost
+Astralis,FURIA, 16, 12,inf,25,13,+12,1.46,Lost
+Astralis,NiP, 16, 6,ovp,13,13,0,1.08,Won
+Astralis,NiP, 16, 5,inf,22,11,+11,1.87,Won
+Astralis,FURIA, 14, 16,nuke,23,18,+5,1.18,Lost
+Astralis,ENCE, 13, 16,trn,21,17,+4,1.13,Lost
+Astralis,ENCE, 9, 16,nuke,18,16,+2,1.06,Lost
+Astralis,Cloud9, 16, 11,inf,21,14,+7,1.49,Won
+Astralis,ENCE, 13, 16,d2,27,19,+8,1.47,Lost
+Astralis,Natus Vincere, 16, 13,d2,17,19,-2,0.88,Won
+Astralis,Giants, 16, 7,nuke,21,9,+12,1.58,Won
+Astralis,NiP, 16, 8,d2,13,14,-1,1.09,Won
+Astralis,BIG, 16, 14,ovp,19,16,+3,1.05,Won
+Astralis,BIG, 17, 19,inf,12,23,-11,0.73,Won
+Astralis,BIG, 16, 10,d2,19,12,+7,1.26,Won
+Astralis,HellRaisers, 16, 7,inf,21,12,+9,1.56,Won
+Astralis,HellRaisers, 16, 4,d2,16,9,+7,1.39,Won
+Astralis,ex-3DMAX, 16, 7,nuke,16,12,+4,1.21,Won
+Astralis,ex-3DMAX, 16, 6,mrg,16,7,+9,1.45,Won
+Astralis,FaZe, 5, 16,d2,11,17,-6,0.68,Lost
+Astralis,Liquid, 14, 16,ovp,18,19,-1,1.04,Lost
+Astralis,MIBR, 2, 16,ovp,9,17,-8,0.67,Lost
+Astralis,Natus Vincere, 16, 7,inf,15,8,+7,1.29,Won
+Astralis,Cloud9, 16, 10,inf,14,16,-2,0.93,Won
+Astralis,Liquid, 16, 2,ovp,17,6,+11,1.72,Won
+Astralis,Liquid, 16, 8,inf,19,12,+7,1.12,Won
+Astralis,Liquid, 13, 16,d2,22,18,+4,1.21,Won
+Astralis,FaZe, 16, 13,d2,20,18,+2,1.07,Won
+Astralis,NiP, 16, 12,d2,33,15,+18,1.88,Won
+Astralis,MIBR, 16, 10,ovp,23,16,+7,1.33,Won
+Astralis,ENCE, 16, 14,d2,27,17,+10,1.50,Won
+Astralis,Liquid, 16, 13,d2,22,17,+5,1.20,Won
+Astralis,NiP, 16, 1,inf,8,12,-4,0.76,Won
+Astralis,NiP, 16, 9,trn,17,14,+3,1.14,Won
+Astralis,AVANGAR, 16, 13,inf,32,19,+13,1.61,Won
+Astralis,AVANGAR, 16, 14,ovp,22,20,+2,1.04,Won
+Astralis,LDLC, 16, 4,nuke,14,9,+5,1.38,Won
+Astralis,LDLC, 16, 7,d2,15,11,+4,1.14,Won
+Astralis,ENCE, 16, 4,inf,22,8,+14,1.89,Won
+Astralis,ENCE, 16, 11,trn,21,15,+6,1.14,Won
+Astralis,MIBR, 16, 7,inf,14,14,0,1.16,Won
+Astralis,MIBR, 16, 14,ovp,17,18,-1,0.96,Won
+Astralis,NiP, 16, 14,d2,21,17,+4,1.26,Won
+Astralis,NiP, 16, 2,mrg,15,7,+8,1.46,Won
+Astralis,Renegades, 16, 2,inf,21,7,+14,1.96,Won
+Astralis,Renegades, 16, 9,nuke,21,13,+8,1.37,Won
+Astralis,Renegades, 17, 19,mrg,29,23,+6,1.18,Won
+Astralis,Cloud9, 16, 0,trn,19,4,+15,1.98,Won
+Astralis,Complexity, 16, 6,nuke,16,16,0,1.02,Won
+Astralis,Liquid, 11, 16,ovp,17,22,-5,0.88,Lost
+Astralis,Liquid, 11, 16,d2,18,24,-6,0.86,Lost
+Astralis,Liquid, 16, 4,inf,13,11,+2,1.19,Lost
+Astralis,Ghost, 16, 14,inf,19,19,0,0.97,Won
+Astralis,Ghost, 16, 2,trn,23,6,+17,2.01,Won
+Astralis,Cloud9, 16, 9,mrg,21,14,+7,1.38,Won
+Astralis,Complexity, 16, 3,d2,9,11,-2,1.05,Won
+Astralis,Natus Vincere, 16, 4,d2,14,6,+8,1.37,Won
+Astralis,Natus Vincere, 16, 9,cch,22,15,+7,1.29,Won
+Astralis,Natus Vincere, 7, 16,ovp,12,19,-7,0.72,Won
+Astralis,Cloud9, 16, 14,inf,18,22,-4,0.91,Won
+Astralis,MIBR, 16, 7,inf,11,15,-4,0.83,Won
+Astralis,NiP, 16, 11,ovp,27,15,+12,1.53,Won
+Astralis,Natus Vincere, 16, 9,inf,19,14,+5,1.35,Won
+Astralis,FaZe, 16, 4,d2,13,8,+5,1.25,Won
+Astralis,Liquid, 16, 10,d2,25,13,+12,1.58,Won
+Astralis,Liquid, 16, 11,inf,19,17,+2,1.17,Won
+Astralis,Liquid, 16, 11,mrg,12,20,-8,0.81,Won
+Astralis,Liquid, 8, 16,trn,10,18,-8,0.69,Won
+Astralis,mousesports, 16, 5,inf,26,14,+12,1.82,Won
+Astralis,mousesports, 16, 12,mrg,27,13,+14,1.72,Won
+Astralis,Liquid, 16, 8,nuke,20,13,+7,1.45,Won
+Astralis,Liquid, 16, 12,inf,15,19,-4,0.77,Won
+Astralis,HellRaisers, 16, 4,inf,21,8,+13,1.63,Won
+Astralis,HellRaisers, 16, 13,d2,21,16,+5,1.18,Won
+Astralis,HellRaisers, 8, 16,mrg,17,19,-2,1.00,Won
+Astralis,ViCi, 16, 8,inf,27,13,+14,1.74,Won
+Astralis,MIBR, 22, 20,ovp,31,27,+4,1.08,Won
+Astralis,MIBR, 16, 14,inf,18,21,-3,1.00,Won
+Astralis,NiP, 16, 5,inf,28,9,+19,1.91,Won
+Astralis,NiP, 11, 16,trn,25,19,+6,1.34,Won
+Astralis,NiP, 16, 7,nuke,15,12,+3,1.14,Won
+Astralis,mousesports, 16, 13,nuke,22,18,+4,1.06,Won
+Astralis,mousesports, 16, 14,mrg,26,17,+9,1.41,Won
+Astralis,MIBR, 14, 16,inf,18,22,-4,0.85,Lost
+Astralis,MIBR, 20, 22,trn,28,27,+1,0.95,Lost
+Astralis,MIBR, 16, 10,mrg,19,17,+2,1.11,Lost
+Astralis,Cloud9, 16, 3,inf,22,9,+13,2.08,Won
+Astralis,AGO, 10, 16,ovp,13,20,-7,0.72,Lost
+Astralis,AGO, 16, 11,cch,16,16,0,1.03,Won
+Astralis,Liquid, 16, 4,inf,16,10,+6,1.38,Won
+Astralis,Liquid, 16, 7,nuke,16,14,+2,1.08,Won
+Astralis,Liquid, 16, 14,mrg,25,19,+6,1.23,Won
+Astralis,fnatic, 19, 17,inf,26,24,+2,1.14,Won
+Astralis,fnatic, 12, 16,mrg,16,18,-2,0.87,Won
+Astralis,fnatic, 16, 14,d2,23,22,+1,1.13,Won
+Astralis,mousesports, 16, 13,nuke,33,16,+17,1.70,Won
+Astralis,mousesports, 16, 5,trn,13,9,+4,1.12,Won
+Astralis,FaZe, 15, 19,inf,17,21,-4,0.85,Lost
+Astralis,FaZe, 7, 16,mrg,16,17,-1,0.98,Lost
+Astralis,North, 16, 4,nuke,10,13,-3,1.04,Won
+Astralis,North, 16, 5,inf,19,11,+8,1.52,Won
+Astralis,MVP PK, 16, 8,nuke,18,13,+5,1.18,Won
+Astralis,Cloud9, 16, 14,inf,27,20,+7,1.32,Won
+Astralis,FaZe, 16, 7,ovp,17,13,+4,1.42,Won
+Astralis,Natus Vincere, 9, 16,ovp,13,17,-4,0.79,Lost
+Astralis,NiP, 14, 16,ovp,23,18,+5,1.06,Lost
+Astralis,MIBR, 16, 14,inf,20,20,0,1.06,Won
+Astralis,LDLC, 22, 19,ovp,32,27,+5,1.23,Won
+Astralis,LDLC, 14, 16,d2,13,18,-5,0.75,Lost
+Astralis,North, 16, 13,ovp,24,15,+9,1.26,Won
+Astralis,North, 17, 19,inf,25,24,+1,1.07,Lost
+Astralis,Windigo, 16, 14,d2,22,23,-1,1.05,Won
+Astralis,Windigo, 16, 13,ovp,19,19,0,1.00,Won
+Astralis,Virtus.pro, 16, 14,mrg,31,19,+12,1.50,Won
+Astralis,Virtus.pro, 16, 8,inf,17,16,+1,1.13,Won
+Astralis,mousesports, 16, 10,nuke,20,18,+2,1.14,Won
+Astralis,mousesports, 16, 5,mrg,19,13,+6,1.38,Won
+Astralis,fnatic, 16, 7,mrg,12,15,-3,1.02,Won
+Astralis,fnatic, 16, 1,d2,17,6,+11,1.66,Won
+Astralis,OpTic, 16, 9,trn,23,14,+9,1.33,Won
+Astralis,OpTic, 16, 6,nuke,17,13,+4,1.37,Won
+Astralis,G2, 16, 2,inf,14,10,+4,1.27,Won
+Astralis,G2, 16, 3,ovp,20,9,+11,1.68,Won
+Astralis,Natus Vincere, 16, 19,d2,19,27,-8,0.83,Lost
+Astralis,Natus Vincere, 16, 4,ovp,16,8,+8,1.53,Won
+Astralis,Heroic, 16, 9,nuke,12,17,-5,0.92,Won
+Astralis,Heroic, 16, 5,d2,15,10,+5,1.40,Won
+Astralis,FaZe, 16, 14,ovp,20,22,-2,0.94,Won
+Astralis,FaZe, 16, 12,inf,19,16,+3,1.11,Won
+Astralis,fnatic, 16, 4,trn,25,8,+17,2.00,Won
+Astralis,fnatic, 16, 12,inf,28,18,+10,1.44,Won
+Astralis,HellRaisers, 16, 10,ovp,22,12,+10,1.27,Won
+Astralis,HellRaisers, 16, 7,trn,19,15,+4,1.10,Won
+Astralis,G2, 16, 2,mrg,19,11,+8,1.68,Won
+Astralis,G2, 16, 11,inf,19,21,-2,0.90,Won
+Astralis,NiP, 7, 16,trn,15,19,-4,0.72,Lost
+Astralis,NiP, 16, 4,ovp,18,12,+6,1.43,Won
+Astralis,North, 16, 4,inf,19,14,+5,1.34,Won
+Astralis,North, 16, 3,d2,19,8,+11,1.54,Won
+Astralis,mousesports, 16, 11,inf,30,16,+14,1.89,Won
+Astralis,mousesports, 16, 13,trn,19,19,0,0.95,Won
+Astralis,Space Soldiers, 15, 19,trn,19,25,-6,Nil,Nil
+Astralis,Space Soldiers, 25, 21,inf,35,28,+7,1.16,Won
+Astralis,FaZe, 16, 4,d2,25,8,+17,2.24,Won
+Astralis,FaZe, 16, 7,mrg,18,13,+5,1.22,Won
+Astralis,BIG, 13, 16,inf,17,22,-5,0.92,Lost
+Astralis,BIG, 16, 9,trn,18,14,+4,1.15,Won
+Astralis,NiP, 16, 13,trn,24,17,+7,1.34,Won
+Astralis,NiP, 16, 8,nuke,24,14,+10,1.47,Won
+Astralis,MIBR, 16, 14,inf,19,21,-2,0.94,Won
+Astralis,MIBR, 14, 16,ovp,26,20,+6,1.30,Won
+Astralis,MIBR, 16, 3,trn,34,7,+27,2.72,Won
+Astralis,MIBR, 16, 7,d2,24,11,+13,1.70,Won
+Astralis,NiP, 16, 11,nuke,19,14,+5,1.18,Won
+Astralis,Cloud9, 16, 7,inf,15,12,+3,1.13,Won
+Astralis,Space Soldiers, 16, 6,inf,14,14,0,1.16,Won
+Astralis,Virtus.pro, 16, 3,inf,16,5,+11,1.58,Won
+Astralis,Natus Vincere, 16, 9,ovp,17,12,+5,1.17,Won
+Astralis,Natus Vincere, 16, 6,nuke,17,10,+7,1.35,Won
+Astralis,Liquid, 16, 7,mrg,18,10,+8,1.19,Won
+Astralis,Liquid, 16, 8,nuke,14,16,-2,1.05,Won
+Astralis,FaZe, 16, 12,inf,26,18,+8,1.37,Won
+Astralis,FaZe, 16, 14,mrg,19,20,-1,0.98,Won
+Astralis,MIBR, 16, 0,d2,24,9,+15,2.19,Won
+Astralis,Liquid, 15, 19,inf,17,21,-4,0.90,Lost
+Astralis,Vega Squadron, 16, 4,inf,22,5,+17,1.88,Won
+Astralis,Natus Vincere, 16, 14,inf,22,17,+5,1.28,Won
+Astralis,Spirit, 16, 3,d2,16,7,+9,1.54,Won
+Astralis,NiP, 26, 28,mrg,46,36,+10,1.18,Lost
+Astralis,Rogue, 16, 13,inf,26,14,+12,1.53,Won
+Astralis,Complexity, 16, 4,inf,21,6,+15,1.98,Won
+Astralis,North, 11, 16,ovp,9,19,-10,0.71,Lost
+Astralis,North, 16, 6,trn,22,8,+14,1.67,Lost
+Astralis,North, 1, 16,d2,5,13,-8,0.54,Lost
+Astralis,NiP, 16, 7,nuke,23,12,+11,1.61,Won
+Astralis,NiP, 16, 14,mrg,23,18,+5,1.26,Won
+Astralis,MIBR, 16, 14,trn,23,17,+6,1.22,Won
+Astralis,MIBR, 16, 6,ovp,18,12,+6,1.37,Won
+Astralis,TYLOO, 16, 5,d2,28,7,+21,2.22,Won
+Astralis,TYLOO, 16, 7,ovp,20,11,+9,1.25,Won
+Astralis,TYLOO, 13, 16,mrg,25,19,+6,1.38,Won
+Astralis,North, 17, 19,mrg,27,22,+5,1.17,Lost
+Astralis,North, 10, 16,inf,14,17,-3,1.02,Lost
+Astralis,North, 16, 8,nuke,16,14,+2,1.18,Lost
+Astralis,Grayhound, 16, 3,mrg,10,11,-1,0.99,Won
+Astralis,Liquid, 16, 12,nuke,25,16,+9,1.42,Won
+Astralis,Liquid, 16, 5,inf,20,8,+12,1.78,Won
+Astralis,mousesports, 16, 10,mrg,23,14,+9,1.41,Won
+Astralis,mousesports, 16, 11,nuke,9,17,-8,0.70,Won
+Astralis,Liquid, 16, 7,mrg,24,12,+12,1.64,Won
+Astralis,Liquid, 16, 12,nuke,26,18,+8,1.22,Won
+Astralis,Cloud9, 16, 9,ovp,29,13,+16,1.94,Won
+Astralis,Cloud9, 19, 15,inf,36,19,+17,1.63,Won
+Astralis,Natus Vincere, 13, 16,inf,17,21,-4,0.85,Lost
+Astralis,Natus Vincere, 16, 6,nuke,22,10,+12,1.76,Lost
+Astralis,Natus Vincere, 13, 16,ovp,24,17,+7,1.15,Lost
+Astralis,G2, 16, 4,nuke,13,12,+1,1.31,Won
+Astralis,G2, 19, 16,d2,17,20,-3,0.98,Won
+Astralis,Cloud9, 16, 1,ovp,20,5,+15,2.08,Won
+Astralis,Cloud9, 16, 12,mrg,25,13,+12,1.35,Won
+Astralis,ENCE, 16, 5,nuke,16,10,+6,1.34,Won
+Astralis,Liquid, 16, 11,d2,17,20,-3,0.90,Won
+Astralis,Liquid, 16, 14,mrg,27,21,+6,1.30,Won
+Astralis,FaZe, 16, 8,inf,18,11,+7,1.42,Won
+Astralis,FaZe, 16, 14,trn,25,17,+8,1.32,Won
+Astralis,Liquid, 16, 6,inf,24,11,+13,1.72,Won
+Astralis,Cloud9, 16, 13,inf,22,17,+5,1.30,Won
+Astralis,Liquid, 16, 12,inf,22,14,+8,1.27,Won
+Astralis,Liquid, 14, 16,mrg,26,19,+7,1.30,Won
+Astralis,Liquid, 16, 14,nuke,22,22,0,1.11,Won
+Astralis,Liquid, 16, 1,d2,22,7,+15,2.26,Won
+Astralis,FaZe, 16, 6,inf,16,14,+2,1.26,Won
+Astralis,FaZe, 16, 3,mrg,19,7,+12,1.56,Won
+Astralis,Liquid, 16, 7,inf,23,9,+14,1.63,Won
+Astralis,Liquid, 16, 10,nuke,25,15,+10,1.53,Won
+Astralis,SK, 16, 10,ovp,15,18,-3,1.03,Won
+Astralis,SK, 16, 11,inf,14,16,-2,0.85,Won
+Astralis,OpTic, 16, 3,nuke,17,11,+6,1.45,Won
+Astralis,Gambit, 16, 10,trn,12,11,+1,0.98,Won
+Astralis,Gambit, 16, 6,ovp,18,15,+3,1.32,Won
+Astralis,FaZe, 14, 16,trn,17,18,-1,0.97,Lost
+Astralis,FaZe, 20, 22,ovp,31,26,+5,1.12,Lost
+Astralis,FaZe, 17, 19,cch,24,27,-3,0.99,Lost
+Astralis,mousesports, 16, 5,cch,19,10,+9,1.46,Won
+Astralis,mousesports, 17, 19,inf,32,22,+10,1.26,Won
+Astralis,mousesports, 16, 3,d2,14,11,+3,1.40,Won
+Astralis,fnatic, 16, 7,cch,20,12,+8,1.33,Won
+Astralis,fnatic, 16, 9,ovp,20,15,+5,1.27,Won
+Astralis,mousesports, 16, 5,nuke,29,7,+22,2.22,Won
+Astralis,mousesports, 16, 9,inf,18,15,+3,1.28,Won
+Astralis,NRG, 19, 17,ovp,27,21,+6,0.96,Won
+Astralis,NiP, 11, 16,ovp,16,20,-4,0.85,Lost
+Astralis,NiP, 8, 16,mrg,21,19,+2,1.13,Lost
+Astralis,Envy, 14, 16,trn,24,23,+1,1.03,Lost
+Astralis,Envy, 16, 3,inf,16,10,+6,1.55,Won
+Astralis,G2, 22, 20,mrg,38,28,+10,1.25,Won
+Astralis,G2, 16, 10,inf,21,14,+7,1.33,Won
+Astralis,Natus Vincere, 16, 11,inf,21,17,+4,1.22,Won
+Astralis,Natus Vincere, 16, 4,nuke,17,11,+6,1.44,Won
+Astralis,fnatic, 16, 12,mrg,17,19,-2,0.97,Won
+Astralis,fnatic, 16, 5,ovp,28,8,+20,2.16,Won
+Astralis,FaZe, 16, 6,nuke,20,9,+11,1.48,Won
+Astralis,FaZe, 16, 11,mrg,23,15,+8,1.48,Won
+Astralis,Liquid, 16, 3,cch,25,5,+20,2.19,Won
+Astralis,Liquid, 16, 3,ovp,7,10,-3,0.91,Won
+Astralis,Liquid, 14, 16,mrg,18,17,+1,0.93,Won
+Astralis,Space Soldiers, 16, 2,inf,18,7,+11,1.45,Won
+Astralis,Natus Vincere, 11, 16,inf,8,23,-15,0.49,Lost
+Astralis,Natus Vincere, 16, 19,trn,31,24,+7,1.17,Lost
+Astralis,Space Soldiers, 16, 4,inf,14,12,+2,1.17,Won
+Astralis,Space Soldiers, 16, 14,mrg,18,22,-4,0.93,Won
+Astralis,mousesports, 16, 7,ovp,20,14,+6,1.36,Won
+Astralis,mousesports, 14, 16,mrg,26,21,+5,1.06,Lost
+Astralis,fnatic, 16, 9,ovp,24,14,+10,1.50,Won
+Astralis,fnatic, 16, 9,inf,26,14,+12,1.47,Won
+Astralis,AGO, 19, 15,trn,29,24,+5,1.30,Won
+Astralis,AGO, 10, 16,ovp,19,21,-2,1.02,Lost
+Astralis,Virtus.pro, 16, 8,inf,15,18,-3,1.08,Won
+Astralis,Virtus.pro, 16, 13,mrg,27,17,+10,1.27,Won
+Astralis,Gambit, 16, 7,inf,20,15,+5,1.51,Won
+Astralis,Gambit, 16, 10,ovp,25,22,+3,1.36,Won
+Astralis,HOLLYWOOD, 16, 9,mrg,18,14,+4,1.20,Won
+Astralis,HOLLYWOOD, 16, 12,ovp,16,18,-2,1.05,Won
+Astralis,NiP, 16, 11,inf,21,18,+3,1.21,Won
+Astralis,NiP, 19, 17,mrg,34,22,+12,1.40,Won
+Astralis,Envy, 16, 9,inf,20,12,+8,1.28,Won
+Astralis,Envy, 16, 5,trn,21,12,+9,1.59,Won
+Astralis,GODSENT, 16, 2,mrg,12,9,+3,1.16,Won
+Astralis,GODSENT, 16, 13,inf,23,16,+7,1.44,Won
+Astralis,fnatic, 16, 7,inf,23,9,+14,1.59,Won
+Astralis,fnatic, 16, 1,trn,20,6,+14,2.11,Won
+Astralis,HellRaisers, 16, 6,mrg,21,11,+10,1.65,Won
+Astralis,HellRaisers, 16, 19,ovp,21,22,-1,0.83,Lost
+Astralis,FaZe, 16, 11,mrg,14,20,-6,0.81,Won
+Astralis,FaZe, 19, 15,inf,33,18,+15,1.47,Won
+Astralis,North, 16, 11,nuke,23,15,+8,1.40,Won
+Astralis,North, 16, 4,inf,19,8,+11,1.62,Won
+Astralis,G2, 14, 16,inf,22,22,0,1.05,Lost
+Astralis,G2, 16, 12,mrg,27,14,+13,1.49,Won
+Astralis,Virtus.pro, 16, 12,cch,27,16,+11,1.40,Won
+Astralis,Virtus.pro, 16, 8,inf,29,12,+17,1.78,Won
+Astralis,FaZe, 10, 16,ovp,23,23,0,1.13,Lost
+Astralis,FaZe, 10, 16,cch,14,19,-5,0.82,Lost
+Astralis,Liquid, 16, 5,ovp,19,9,+10,1.55,Won
+Astralis,Liquid, 16, 5,nuke,16,9,+7,1.32,Won
+Astralis,Liquid, 12, 16,inf,26,18,+8,1.39,Won
+Astralis,SK, 22, 20,mrg,33,32,+1,1.11,Won
+Astralis,SK, 16, 12,ovp,25,15,+10,1.37,Won
+Astralis,Renegades, 16, 13,trn,21,15,+6,1.20,Won
+Astralis,Natus Vincere, 5, 16,trn,7,18,-11,0.45,Lost
+Astralis,Natus Vincere, 14, 16,inf,19,20,-1,0.97,Lost
+Astralis,Natus Vincere, 16, 10,nuke,16,10,+6,1.28,Lost
+Astralis,Heroic, 16, 4,nuke,24,10,+14,2.03,Won
+Astralis,Heroic, 16, 11,ovp,15,14,+1,0.97,Won
+Astralis,Gambit, 16, 8,trn,26,11,+15,1.58,Won
+Astralis,Gambit, 16, 13,cch,23,13,+10,1.30,Won
+Astralis,G2, 7, 16,inf,12,20,-8,0.63,Lost
+Astralis,G2, 16, 12,ovp,23,16,+7,1.36,Lost
+Astralis,G2, 10, 16,cch,16,19,-3,0.91,Lost
+Astralis,Liquid, 16, 7,trn,18,13,+5,1.30,Won
+Astralis,Liquid, 13, 16,inf,19,21,-2,1.00,Won
+Astralis,Liquid, 16, 4,mrg,18,8,+10,1.32,Won
+Astralis,Heroic, 14, 16,mrg,29,18,+11,1.56,Lost
+Astralis,Heroic, 10, 16,nuke,20,22,-2,0.86,Lost
+Astralis,mousesports, 16, 14,inf,16,18,-2,0.94,Won
+Astralis,mousesports, 9, 16,mrg,16,18,-2,0.93,Lost
+Astralis,FaZe, 22, 20,trn,45,29,+16,1.53,Won
+Astralis,FaZe, 16, 14,inf,24,20,+4,1.16,Won
+Astralis,LDLC, 16, 5,nuke,16,10,+6,1.31,Won
+Astralis,LDLC, 16, 5,inf,15,11,+4,1.18,Won
+Astralis,Cloud9, 6, 16,trn,17,17,0,0.99,Lost
+Astralis,fnatic, 8, 16,mrg,10,18,-8,0.75,Lost
+Astralis,North, 16, 14,trn,23,17,+6,1.23,Won
+Astralis,mousesports, 2, 16,cch,8,16,-8,0.55,Lost
+Astralis,TheMongolz, 16, 6,inf,15,14,+1,1.14,Won
+Astralis,SK, 25, 21,ovp,26,30,-4,0.91,Won
+Astralis,Envy, 16, 11,inf,22,16,+6,1.19,Won
+Astralis,Cloud9, 6, 16,trn,11,17,-6,0.70,Lost
+Astralis,mousesports, 12, 16,inf,19,19,0,1.09,Lost
+Astralis,mousesports, 16, 5,nuke,19,13,+6,1.40,Won
+Astralis,Envy, 16, 9,nuke,21,14,+7,1.43,Won
+Astralis,Envy, 6, 16,trn,12,16,-4,0.76,Lost
+Astralis,FaZe, 13, 16,inf,12,22,-10,0.74,Lost
+Astralis,FaZe, 16, 10,mrg,13,17,-4,0.84,Won
+Astralis,Natus Vincere, 19, 15,inf,21,22,-1,0.94,Won
+Astralis,Natus Vincere, 16, 4,nuke,18,12,+6,1.52,Won
+Astralis,G2, 11, 16,nuke,16,20,-4,0.85,Lost
+Astralis,G2, 12, 16,ovp,20,21,-1,0.90,Lost
+Astralis,Heroic, 16, 6,inf,16,10,+6,1.17,Won
+Astralis,Heroic, 16, 3,trn,13,10,+3,1.10,Won
+Astralis,mousesports, 22, 25,mrg,32,37,-5,0.97,Lost
+Astralis,mousesports, 16, 14,inf,27,20,+7,1.33,Won
+Astralis,fnatic, 16, 10,mrg,18,15,+3,1.16,Won
+Astralis,fnatic, 8, 16,trn,24,20,+4,1.19,Lost
+Astralis,G2, 11, 16,inf,27,16,+11,1.41,Lost
+Astralis,G2, 14, 16,mrg,33,20,+13,1.47,Lost
+Astralis,G2, 16, 14,nuke,22,19,+3,1.24,Lost
+Astralis,SK, 17, 19,mrg,18,27,-9,0.75,Lost
+Astralis,SK, 11, 16,trn,21,22,-1,1.06,Lost
+Astralis,North, 16, 8,mrg,17,17,0,0.95,Won
+Astralis,North, 16, 11,trn,32,15,+17,1.88,Won
+Astralis,Liquid, 16, 12,trn,30,15,+15,1.63,Won
+Astralis,Liquid, 16, 11,inf,20,16,+4,1.33,Won
+Astralis,G2, 4, 16,inf,6,18,-12,0.36,Lost
+Astralis,G2, 13, 16,cch,18,20,-2,0.99,Lost
+Astralis,Virtus.pro, 16, 7,trn,20,13,+7,1.43,Won
+Astralis,Virtus.pro, 16, 8,mrg,14,15,-1,1.01,Won
+Astralis,Envy, 16, 14,inf,28,18,+10,1.35,Won
+Astralis,Envy, 16, 11,trn,19,18,+1,1.07,Won
+Astralis,HellRaisers, 10, 16,ovp,16,23,-7,1.01,Lost
+Astralis,HellRaisers, 16, 10,mrg,18,16,+2,0.97,Won
+Astralis,FaZe, 7, 16,ovp,8,21,-13,0.48,Lost
+Astralis,FaZe, 14, 16,cch,20,20,0,1.04,Lost
+Astralis,Cloud9, 16, 4,inf,14,10,+4,1.41,Won
+Astralis,Cloud9, 16, 14,ovp,23,20,+3,1.36,Won
+Astralis,Cloud9, 12, 16,mrg,28,18,+10,1.56,Won
+Astralis,fnatic, 16, 12,ovp,26,13,+13,1.40,Won
+Astralis,fnatic, 16, 5,trn,23,4,+19,1.80,Won
+Astralis,fnatic, 8, 16,trn,13,20,-7,0.75,Lost
+Astralis,fnatic, 4, 16,mrg,8,17,-9,0.52,Lost
+Astralis,FaZe, 19, 15,ovp,24,20,+4,1.07,Won
+Astralis,FaZe, 14, 16,mrg,27,24,+3,1.25,Lost
+Astralis,North, 16, 10,inf,21,11,+10,1.43,Won
+Astralis,North, 16, 10,mrg,21,16,+5,1.15,Won
+Astralis,BIG, 16, 6,inf,18,10,+8,1.22,Won
+Astralis,BIG, 16, 19,ovp,30,24,+6,1.17,Lost
+Astralis,LDLC, 16, 3,inf,12,8,+4,1.02,Won
+Astralis,LDLC, 16, 11,ovp,25,19,+6,1.26,Won
+Astralis,Heroic, 16, 2,trn,14,7,+7,1.37,Won
+Astralis,Liquid, 16, 11,ovp,21,17,+4,1.16,Won
+Astralis,Liquid, 12, 16,mrg,15,19,-4,0.92,Lost
+Astralis,Liquid, 19, 17,cch,20,24,-4,1.03,Lost
+Astralis,Liquid, 14, 16,inf,27,17,+10,1.42,Lost
+Astralis,FaZe, 6, 16,inf,17,17,0,1.11,Lost
+Astralis,Liquid, 16, 13,mrg,24,16,+8,1.23,Won
+Astralis,GODSENT, 8, 16,ovp,20,21,-1,1.07,Lost
+Astralis,GODSENT, 16, 9,mrg,21,15,+6,1.29,Won
+Astralis,NiP, 16, 14,nuke,27,22,+5,1.34,Won
+Astralis,NiP, 16, 6,inf,15,11,+4,1.26,Won
+Astralis,Gambit, 6, 16,mrg,13,19,-6,0.64,Lost
+Astralis,Gambit, 13, 16,cch,20,22,-2,0.88,Lost
+Astralis,Natus Vincere, 16, 10,mrg,22,12,+10,1.40,Won
+Astralis,Natus Vincere, 16, 6,ovp,15,12,+3,1.16,Won
+Astralis,Renegades, 16, 3,trn,25,8,+17,2.05,Won
+Astralis,Heroic, 16, 12,inf,21,18,+3,1.16,Won
+Astralis,Heroic, 16, 6,ovp,19,11,+8,1.38,Won
+Astralis,G2, 6, 16,inf,16,19,-3,1.00,Lost
+Astralis,G2, 9, 16,ovp,17,21,-4,0.89,Lost
+Astralis,Gambit, 12, 16,trn,17,20,-3,0.95,Lost
+Astralis,Gambit, 16, 8,inf,19,11,+8,1.21,Lost
+Astralis,Gambit, 10, 16,ovp,16,20,-4,0.97,Lost
+Astralis,SK, 16, 6,ovp,27,11,+16,2.06,Won
+Astralis,SK, 16, 12,cch,26,19,+7,1.29,Won
+Astralis,G2, 16, 6,inf,19,11,+8,1.42,Won
+Astralis,fnatic, 16, 14,nuke,24,21,+3,1.29,Won
+Astralis,SK, 8, 16,inf,17,20,-3,0.86,Lost
+Astralis,Immortals, 19, 17,ovp,19,24,-5,0.87,Won
+Astralis,SK, 12, 16,inf,21,17,+4,1.19,Lost
+Astralis,SK, 14, 16,mrg,24,22,+2,1.16,Lost
+Astralis,SK, 16, 12,ovp,22,18,+4,1.02,Lost
+Astralis,Liquid, 16, 10,inf,23,17,+6,1.31,Won
+Astralis,Liquid, 9, 16,ovp,10,23,-13,0.72,Won
+Astralis,Liquid, 16, 4,trn,23,8,+15,1.88,Won
+Astralis,Cloud9, 15, 19,mrg,21,23,-2,0.98,Lost
+Astralis,Liquid, 16, 11,inf,18,14,+4,1.17,Won
+Astralis,Virtus.pro, 16, 3,mrg,18,10,+8,1.33,Won
+Astralis,Virtus.pro, 16, 4,ovp,14,12,+2,1.13,Won
+Astralis,Virtus.pro, 7, 16,nuke,23,15,+8,1.25,Won
+Astralis,FaZe, 10, 16,nuke,14,19,-5,0.92,Lost
+Astralis,FaZe, 16, 1,trn,15,8,+7,1.63,Won
+Astralis,mousesports, 16, 7,mrg,20,14,+6,1.36,Won
+Astralis,mousesports, 20, 22,nuke,31,28,+3,1.05,Lost
+Astralis,fnatic, 8, 16,inf,17,16,+1,1.10,Lost
+Astralis,fnatic, 16, 1,trn,16,7,+9,1.57,Won
+Astralis,Dignitas, 16, 7,mrg,21,12,+9,1.34,Won
+Astralis,Dignitas, 16, 14,nuke,21,20,+1,0.95,Won
+Astralis,Envy, 16, 10,trn,29,13,+16,1.69,Won
+Astralis,Envy, 16, 1,inf,26,5,+21,2.16,Won
+Astralis,Envy, 13, 16,inf,19,24,-5,0.93,Lost
+Astralis,Envy, 13, 16,trn,19,20,-1,0.94,Lost
+Astralis,FaZe, 9, 16,trn,20,20,0,0.94,Lost
+Astralis,FaZe, 16, 11,nuke,20,15,+5,1.23,Lost
+Astralis,FaZe, 13, 16,cbl,14,25,-11,0.64,Lost
+Astralis,Renegades, 16, 3,nuke,22,6,+16,1.96,Won
+Astralis,SK, 12, 16,inf,20,16,+4,1.14,Lost
+Astralis,FaZe, 16, 7,cbl,18,12,+6,1.36,Won
+Astralis,Chiefs, 16, 5,inf,13,9,+4,1.00,Won
+Astralis,fnatic, 14, 16,trn,33,17,+16,1.54,Lost
+Astralis,fnatic, 16, 6,inf,18,11,+7,1.35,Won
+Astralis,GODSENT, 16, 9,mrg,15,15,0,1.08,Won
+Astralis,GODSENT, 16, 5,ovp,16,10,+6,1.35,Won
+Astralis,G2, 9, 16,cch,7,19,-12,0.45,Lost
+Astralis,G2, 12, 16,trn,14,21,-7,0.71,Lost
+Astralis,NiP, 12, 16,cch,20,19,+1,1.07,Lost
+Astralis,NiP, 16, 12,inf,23,17,+6,1.34,Won
+Astralis,G2, 16, 12,trn,21,16,+5,1.15,Won
+Astralis,G2, 6, 16,nuke,11,19,-8,0.60,Lost
+Astralis,Virtus.pro, 8, 16,trn,18,19,-1,0.93,Lost
+Astralis,Virtus.pro, 16, 9,inf,27,15,+12,1.64,Won
+Astralis,NiP, 16, 14,cch,24,20,+4,1.04,Won
+Astralis,NiP, 14, 16,trn,17,20,-3,0.89,Lost
+Astralis,HellRaisers, 16, 14,mrg,21,16,+5,1.16,Won
+Astralis,HellRaisers, 16, 9,ovp,18,16,+2,1.08,Won
+Astralis,FaZe, 17, 19,inf,27,24,+3,1.14,Lost
+Astralis,FaZe, 6, 16,nuke,10,19,-9,0.63,Lost
+Astralis,FaZe, 16, 14,mrg,28,17,+11,1.40,Lost
+Astralis,Natus Vincere, 16, 10,nuke,23,16,+7,1.36,Won
+Astralis,Natus Vincere, 16, 8,ovp,16,16,0,0.99,Won
+Astralis,CLG, 16, 13,inf,21,20,+1,1.10,Won
+Astralis,CLG, 16, 11,cch,19,17,+2,1.15,Won
+Astralis,SK, 16, 12,trn,26,14,+12,1.42,Won
+Astralis,fnatic, 16, 13,mrg,22,14,+8,1.23,Won
+Astralis,North, 16, 19,inf,21,23,-2,0.90,Lost
+Astralis,CLG, 16, 11,trn,24,14,+10,1.31,Won
+Astralis,Kinguin, 16, 9,cch,13,15,-2,0.89,Won
+Astralis,Kinguin, 16, 7,ovp,17,16,+1,1.15,Won
+Astralis,FaZe, 9, 16,nuke,19,19,0,1.02,Lost
+Astralis,FaZe, 16, 14,inf,21,22,-1,1.06,Won
+Astralis,Heroic, 16, 7,inf,19,11,+8,1.47,Won
+Astralis,Heroic, 16, 10,nuke,20,16,+4,1.14,Won
+Astralis,North, 16, 11,nuke,32,14,+18,1.81,Won
+Astralis,North, 4, 16,ovp,14,18,-4,0.81,Lost
+Astralis,FaZe, 16, 13,inf,22,18,+4,1.20,Won
+Astralis,FaZe, 16, 12,nuke,14,18,-4,0.85,Won
+Astralis,FaZe, 16, 12,ovp,23,15,+8,1.31,Won
+Astralis,FaZe, 9, 16,cch,10,19,-9,0.74,Won
+Astralis,Heroic, 16, 12,nuke,20,14,+6,1.22,Won
+Astralis,Heroic, 16, 12,trn,27,16,+11,1.31,Won
+Astralis,Natus Vincere, 16, 2,nuke,16,5,+11,1.83,Won
+Astralis,Natus Vincere, 16, 11,mrg,18,17,+1,1.12,Won
+Astralis,Immortals, 13, 11,trn,19,16,+3,1.14,Won
+Astralis,FaZe, 2, 4,trn,6,4,+2,1.43,Lost
+Astralis,FaZe, 16, 8,trn,25,11,+14,1.67,Won
+Astralis,fnatic, 19, 17,inf,24,22,+2,1.09,Won
+Astralis,Immortals, 12, 16,cch,21,18,+3,1.18,Lost
+Astralis,NiP, 28, 24,ovp,39,34,+5,1.02,Won
+Astralis,OpTic, 16, 12,trn,23,20,+3,1.07,Won
+Astralis,LDLC, 25, 23,inf,37,33,+4,1.20,Won
+Astralis,LDLC, 16, 8,ovp,18,14,+4,1.16,Won
+Astralis,Virtus.pro, 4, 16,trn,15,16,-1,1.17,Lost
+Astralis,Virtus.pro, 16, 9,ovp,26,11,+15,1.51,Lost
+Astralis,Virtus.pro, 3, 16,nuke,8,18,-10,0.56,Lost
+Astralis,NiP, 16, 7,mrg,18,13,+5,1.19,Won
+Astralis,NiP, 16, 6,inf,16,11,+5,1.18,Won
+Astralis,OpTic, 16, 9,nuke,21,14,+7,1.49,Won
+Astralis,Complexity, 16, 5,nuke,18,10,+8,1.35,Won
+Astralis,mousesports, 16, 11,nuke,24,19,+5,1.13,Won
+Astralis,mousesports, 8, 16,mrg,20,18,+2,1.17,Lost
+Astralis,Natus Vincere, 16, 4,nuke,21,10,+11,1.69,Won
+Astralis,Natus Vincere, 11, 16,ovp,21,17,+4,1.17,Lost
+Astralis,Virtus.pro, 16, 14,trn,15,17,-2,0.84,Won
+Astralis,Virtus.pro, 16, 14,ovp,13,21,-8,0.76,Won
+Astralis,Virtus.pro, 12, 16,nuke,20,17,+3,1.11,Won
+Astralis,fnatic, 16, 5,nuke,22,10,+12,1.75,Won
+Astralis,fnatic, 19, 16,cch,27,22,+5,1.14,Won
+Astralis,Natus Vincere, 16, 10,d2,26,18,+8,1.45,Won
+Astralis,Natus Vincere, 14, 16,mrg,25,22,+3,1.22,Won
+Astralis,Natus Vincere, 16, 7,ovp,22,16,+6,1.54,Won
+Astralis,Liquid, 16, 3,mrg,29,6,+23,2.41,Won
+Astralis,SK, 17, 19,d2,28,25,+3,1.15,Lost
+Astralis,G2, 16, 5,trn,16,11,+5,1.40,Won
+Astralis,OpTic, 16, 12,trn,29,9,+20,1.75,Won
+Astralis,GODSENT, 6, 16,trn,18,19,-1,1.10,Lost
+Astralis,OpTic, 16, 11,trn,24,18,+6,1.24,Won
+Astralis,OpTic, 16, 6,ovp,17,12,+5,1.16,Won
+Astralis,SK, 16, 4,ovp,25,6,+19,2.13,Won
+Astralis,SK, 16, 9,cch,21,13,+8,1.34,Won
+Astralis,FaZe, 16, 3,d2,12,8,+4,1.26,Won
+Astralis,OpTic, 16, 7,d2,22,13,+9,1.49,Won
+Astralis,OpTic, 11, 16,ovp,12,19,-7,0.68,Lost
+Astralis,OpTic, 6, 16,cbl,23,14,+9,1.36,Lost
+Astralis,OpTic, 16, 9,trn,25,16,+9,1.47,Lost
+Astralis,SK, 16, 12,trn,24,13,+11,1.44,Won
+Astralis,SK, 16, 11,ovp,12,17,-5,0.83,Won
+Astralis,NiP, 16, 10,ovp,15,18,-3,1.14,Won
+Astralis,NiP, 16, 2,trn,23,6,+17,1.94,Won
+Astralis,NiP, 13, 16,cbl,22,22,0,1.10,Won
+Astralis,GODSENT, 16, 7,mrg,23,12,+11,1.72,Won
+Astralis,GODSENT, 16, 3,d2,11,9,+2,1.16,Won
+Astralis,G2, 16, 2,ovp,20,9,+11,2.01,Won
+Astralis,G2, 19, 17,ovp,37,23,+14,1.65,Won
+Astralis,NiP, 16, 11,cch,30,13,+17,1.72,Won
+Astralis,NiP, 16, 9,ovp,21,12,+9,1.45,Won
+Astralis,Virtus.pro, 16, 11,nuke,21,19,+2,1.16,Won
+Astralis,Virtus.pro, 16, 4,trn,27,9,+18,1.92,Won
+Astralis,fnatic, 19, 15,trn,33,21,+12,1.44,Won
+Astralis,fnatic, 16, 8,d2,25,13,+12,1.60,Won
+Astralis,SK, 12, 16,mrg,13,20,-7,0.72,Lost
+Astralis,SK, 14, 16,trn,13,22,-9,0.73,Lost
+Astralis,TYLOO, 16, 9,mrg,21,14,+7,1.25,Won
+Astralis,Immortals, 19, 15,d2,25,21,+4,1.22,Won
+Astralis,Natus Vincere, 16, 9,trn,24,9,+15,1.77,Won
+Astralis,Liquid, 16, 1,trn,23,6,+17,2.03,Won
+Astralis,G2, 12, 16,nuke,23,20,+3,1.14,Lost
+Astralis,SK, 16, 13,ovp,21,19,+2,1.10,Won
+Astralis,ALTERNATE aTTaX, 16, 6,nuke,15,9,+6,1.19,Won
+Astralis,FaZe, 9, 16,mrg,14,20,-6,0.68,Lost
+Astralis,FaZe, 16, 13,ovp,25,18,+7,1.30,Won
+Astralis,Dignitas, 2, 16,ovp,11,16,-5,0.77,Lost
+Astralis,Dignitas, 12, 16,ovp,17,20,-3,0.96,Lost
+Astralis,mousesports, 16, 12,mrg,11,19,-8,0.66,Won
+Astralis,mousesports, 16, 4,mrg,25,9,+16,2.12,Won
+Astralis,Envy, 8, 16,d2,12,20,-8,0.70,Lost
+Astralis,Envy, 4, 16,nuke,11,16,-5,0.67,Lost
+Astralis,mousesports, 2, 16,trn,6,16,-10,0.47,Lost
+Astralis,mousesports, 16, 10,mrg,22,12,+10,1.45,Won
+Astralis,G2, 14, 16,d2,20,23,-3,1.01,Lost
+Astralis,G2, 4, 16,d2,10,16,-6,0.69,Lost
+Astralis,GODSENT, 14, 16,trn,10,19,-9,0.67,Lost
+Astralis,GODSENT, 14, 16,mrg,31,18,+13,1.62,Lost
+Astralis,GODSENT, 16, 5,d2,31,8,+23,2.24,Lost
+Astralis,Envy, 14, 16,d2,28,25,+3,1.37,Lost
+Astralis,dd, 16, 3,d2,19,10,+9,1.72,Won
+Astralis,fish123, 16, 4,d2,19,8,+11,1.70,Won
+Astralis,ALTERNATE aTTaX, 16, 12,d2,32,14,+18,1.84,Won
+Astralis,OpTic, 12, 16,ovp,24,20,+4,1.37,Lost
+Astralis,fnatic, 9, 16,d2,13,18,-5,0.73,Lost
+Astralis,SK, 13, 16,ovp,20,22,-2,1.04,Lost
+Astralis,G2, 16, 13,d2,21,17,+4,1.17,Won
+Astralis,Virtus.pro, 14, 16,mrg,22,22,0,1.13,Lost
+Astralis,Virtus.pro, 14, 16,nuke,28,20,+8,1.29,Lost
+Astralis,Dignitas, 16, 6,cch,18,10,+8,1.43,Won
+Astralis,Dignitas, 16, 10,mrg,24,15,+9,1.49,Won
+Astralis,Dignitas, 8, 16,cch,15,17,-2,0.95,Lost
+Astralis,Dignitas, 16, 8,d2,24,13,+11,1.56,Lost
+Astralis,Dignitas, 9, 16,ovp,9,22,-13,0.46,Lost
+Astralis,NewStyle, 16, 2,nuke,13,10,+3,1.22,Won
+Astralis,NewStyle, 16, 6,mrg,17,12,+5,1.31,Won
+Astralis,Tricked, 16, 7,mrg,19,12,+7,1.39,Won
+Astralis,Dignitas, 17, 19,cch,31,25,+6,1.18,Lost
+Astralis,Dignitas, 16, 14,mrg,23,18,+5,1.20,Lost
+Astralis,Dignitas, 12, 16,nuke,21,19,+2,1.03,Lost
+Astralis,PENTA, 16, 5,ovp,17,12,+5,1.57,Won
+Astralis,PENTA, 14, 16,cch,15,22,-7,0.68,Lost
+Astralis,HellRaisers, 16, 8,trn,16,12,+4,1.27,Won
+Astralis,HellRaisers, 16, 13,mrg,18,24,-6,0.92,Won
+Astralis,fnatic, 19, 17,trn,35,24,+11,1.34,Won
+Astralis,fnatic, 13, 16,mrg,27,23,+4,1.26,Lost
+Astralis,NiP, 16, 7,ovp,27,12,+15,1.71,Won
+Astralis,NiP, 14, 16,d2,20,21,-1,1.01,Lost
+Astralis,NiP, 6, 16,ovp,15,20,-5,0.87,Lost
+Astralis,NiP, 12, 16,d2,29,20,+9,1.55,Lost
+Astralis,NiP, 16, 6,cch,18,13,+5,1.15,Lost
+Astralis,TYLOO, 16, 12,mrg,31,18,+13,1.60,Won
+Astralis,TYLOO, 10, 16,ovp,13,21,-8,0.84,Won
+Astralis,TYLOO, 16, 7,trn,21,13,+8,1.35,Won
+Astralis,Natus Vincere, 19, 16,d2,29,21,+8,1.28,Won
+Astralis,Heroic, 13, 16,trn,21,22,-1,0.87,Lost
+Astralis,FaZe, 16, 5,trn,18,8,+10,1.26,Won
+Astralis,FaZe, 16, 10,mrg,21,16,+5,1.18,Won
+Astralis,Envy, 16, 12,mrg,25,16,+9,1.43,Won
+Astralis,Envy, 8, 16,d2,18,20,-2,1.11,Won
+Astralis,Envy, 16, 5,nuke,16,10,+6,1.18,Won
+Astralis,Dignitas, 16, 9,d2,20,11,+9,1.55,Won
+Astralis,Dignitas, 16, 10,cch,18,15,+3,1.12,Won
+Astralis,Dignitas, 11, 16,nuke,22,19,+3,1.06,Won
+Astralis,FaZe, 19, 17,mrg,21,23,-2,1.06,Won
+Astralis,FaZe, 19, 17,trn,33,22,+11,1.38,Won
+Astralis,FaZe, 16, 11,mrg,23,15,+8,1.38,Won
+Astralis,FaZe, 16, 19,d2,32,21,+11,1.46,Lost
+Astralis,Wizards, 16, 6,ovp,16,12,+4,1.20,Won
+Astralis,Wizards, 16, 12,cbl,34,18,+16,1.87,Won
+Astralis,Heroic, 13, 16,ovp,15,17,-2,0.93,Lost
+Astralis,Heroic, 13, 16,cbl,14,21,-7,0.73,Lost
+Astralis,Heroic, 16, 4,d2,22,11,+11,1.63,Lost
+Astralis,Rogue, 16, 5,trn,18,10,+8,1.19,Won
+Astralis,Tricked, 16, 4,d2,15,9,+6,1.26,Won
+Astralis,Envy, 16, 3,trn,23,7,+16,1.98,Won
+Astralis,Envy, 14, 16,mrg,24,22,+2,1.15,Lost
+Astralis,FlipSid3, 16, 12,trn,22,17,+5,1.20,Won
+Astralis,FlipSid3, 16, 6,ovp,22,12,+10,1.77,Won
+Astralis,Natus Vincere, 6, 16,mrg,13,19,-6,0.78,Lost
+Astralis,Natus Vincere, 7, 16,trn,9,19,-10,0.45,Lost
+Astralis,X, 13, 16,trn,10,23,-13,Nil,Nil
+Astralis,X, 13, 16,ovp,16,21,-5,Nil,Nil
+Astralis,mousesports, 12, 16,d2,31,20,+11,1.67,Lost
+Astralis,mousesports, 2, 16,mrg,7,14,-7,0.54,Lost
+Astralis,Virtus.pro, 15, 19,trn,36,20,+16,1.48,Lost
+Astralis,Virtus.pro, 17, 19,ovp,32,23,+9,1.31,Lost
+Astralis,Dignitas, 16, 14,cch,23,21,+2,1.26,Won
+Astralis,Dignitas, 16, 10,mrg,22,13,+9,1.43,Won
+Astralis,Dignitas, 16, 19,cbl,24,22,+2,1.10,Won
+Astralis,Gambit, 6, 16,d2,16,18,-2,0.95,Lost
+Astralis,Dignitas, 16, 12,ovp,27,16,+11,1.41,Won
+Astralis,Cloud9, 8, 16,ovp,19,16,+3,1.27,Lost
+Astralis,Cloud9, 9, 16,d2,16,19,-3,0.87,Lost
+Astralis,TSM, 12, 16,cbl,26,22,+4,1.35,Lost
+Astralis,NiP, 14, 16,cbl,17,19,-2,0.99,Lost
+Astralis,NiP, 16, 10,ovp,25,15,+10,1.50,Lost
+Astralis,NiP, 12, 16,cch,23,17,+6,1.17,Lost
+Astralis,SK, 16, 12,ovp,25,16,+9,1.49,Won
+Astralis,ENCE, 16, 6,mrg,16,11,+5,1.18,Won
+Astralis,CLG, 16, 11,ovp,24,20,+4,1.38,Won
+Astralis,CLG, 16, 19,d2,30,25,+5,1.29,Won
+Astralis,CLG, 16, 7,mrg,22,13,+9,1.75,Won
+Astralis,NRG, 19, 16,cch,29,24,+5,1.19,Won
+Astralis,NRG, 16, 13,ovp,25,18,+7,1.22,Won
+Astralis,SK, 16, 7,ovp,27,12,+15,1.77,Won
+Astralis,SK, 6, 16,trn,16,16,0,0.97,Lost
+Astralis,CLG, 16, 6,d2,15,11,+4,1.09,Won
+Astralis,CLG, 16, 2,trn,14,9,+5,1.55,Won
+Astralis,NRG, 16, 14,trn,31,15,+16,1.73,Won
+Astralis,NRG, 16, 12,cch,26,15,+11,1.43,Won
+Astralis,fnatic, 16, 10,mrg,18,14,+4,1.09,Won
+Astralis,fnatic, 16, 9,cch,13,16,-3,0.87,Won
+Astralis,FaZe, 16, 12,mrg,24,14,+10,1.56,Won
+Astralis,FaZe, 16, 10,cch,15,16,-1,0.92,Won
+Astralis,Dignitas, 16, 13,cch,16,17,-1,1.00,Won
+Astralis,Dignitas, 16, 6,ovp,20,11,+9,1.43,Won
+Astralis,Luminosity, 13, 16,trn,34,18,+16,1.79,Lost
+Astralis,Luminosity, 12, 16,ovp,19,18,+1,1.01,Lost
+Astralis,Luminosity, 16, 9,d2,28,14,+14,1.71,Lost
+Astralis,OpTic, 7, 16,inf,12,15,-3,0.93,Lost
+Astralis,NiP, 9, 16,cbl,14,20,-6,0.79,Lost
+Astralis,NiP, 14, 16,ovp,18,20,-2,1.09,Lost
+Astralis,Envy, 16, 14,cch,23,19,+4,1.16,Won
+Astralis,Envy, 16, 6,mrg,20,11,+9,1.63,Won
+Astralis,G2, 16, 4,ovp,21,7,+14,1.75,Won
+Astralis,G2, 16, 13,d2,26,13,+13,1.51,Won
+Astralis,fnatic, 19, 22,trn,18,29,-11,0.70,Lost
+Astralis,fnatic, 16, 5,ovp,12,12,0,0.92,Won
+Astralis,Virtus.pro, 16, 8,cch,16,11,+5,1.28,Won
+Astralis,Virtus.pro, 16, 1,inf,27,5,+22,2.75,Won
+Astralis,FaZe, 16, 9,inf,15,16,-1,1.02,Won
+Astralis,FaZe, 16, 12,d2,26,15,+11,1.60,Won
+Astralis,NiP, 12, 16,trn,21,15,+6,1.14,Lost
+Astralis,NiP, 16, 9,inf,23,13,+10,1.42,Lost
+Astralis,NiP, 5, 16,cch,14,16,-2,0.91,Lost
+Astralis,Dignitas, 9, 16,cch,19,17,+2,1.08,Lost
+Astralis,CSGL, 16, 9,mrg,20,11,+9,1.37,Won
+Astralis,mousesports, 16, 3,mrg,21,8,+13,1.98,Won
+Astralis,mousesports, 16, 13,trn,22,14,+8,1.28,Won
+Astralis,mousesports, 5, 16,d2,11,17,-6,0.79,Won
+Astralis,Natus Vincere, 5, 16,d2,9,19,-10,0.52,Lost
+Astralis,Natus Vincere, 14, 16,inf,22,20,+2,1.08,Lost
+Astralis,fnatic, 16, 5,cch,16,9,+7,1.25,Won
+Astralis,fnatic, 16, 10,ovp,21,16,+5,1.36,Won
+Astralis,CLG, 16, 9,ovp,20,12,+8,1.47,Won
+Astralis,Gambit, 16, 10,trn,28,16,+12,1.56,Won
+Astralis,NiP, 4, 16,cch,11,15,-4,0.81,Lost
+Astralis,NiP, 8, 16,mrg,20,17,+3,1.14,Lost
+Astralis,Dignitas, 16, 5,mrg,32,8,+24,2.31,Won
+Astralis,Dignitas, 16, 11,inf,28,16,+12,1.62,Won
+Astralis,Natus Vincere, 5, 16,mrg,9,17,-8,0.52,Lost
+Astralis,Natus Vincere, 16, 12,inf,27,21,+6,1.27,Lost
+Astralis,Natus Vincere, 9, 16,trn,20,21,-1,1.08,Lost
+Astralis,NRG, 16, 9,trn,16,17,-1,1.02,Won
+Astralis,NRG, 16, 3,d2,16,10,+6,1.34,Won
+Astralis,Torpedo, 16, 2,d2,16,9,+7,1.24,Won
+Astralis,Torpedo, 16, 6,cch,13,12,+1,1.09,Won
+Astralis,SK, 16, 5,mrg,22,9,+13,1.86,Won
+Astralis,SK, 16, 7,trn,18,10,+8,1.52,Won
+Astralis,Envy, 7, 16,inf,16,15,+1,1.05,Lost
+Astralis,Envy, 16, 10,trn,16,16,0,1.02,Won
+Astralis,mousesports, 16, 4,d2,12,12,0,0.98,Won
+Astralis,mousesports, 16, 12,mrg,23,14,+9,1.28,Won
+Astralis,fnatic, 7, 16,inf,15,16,-1,0.94,Lost
+Astralis,fnatic, 16, 12,cch,17,19,-2,0.97,Lost
+Astralis,fnatic, 6, 16,ovp,17,16,+1,1.21,Lost
+Astralis,Tempo Storm, 16, 12,cch,14,20,-6,0.77,Won
+Astralis,FaZe, 16, 5,inf,21,9,+12,1.73,Won
+Astralis,E-frag.net, 16, 5,mrg,20,11,+9,1.39,Won
+Astralis,Virtus.pro, 16, 6,ovp,20,12,+8,1.41,Won
+Astralis,Envy, 16, 11,trn,23,17,+6,1.27,Won
+Astralis,fnatic, 12, 16,trn,29,18,+11,1.39,Lost
+Astralis,fnatic, 13, 16,ovp,21,20,+1,1.08,Lost
+Astralis,fnatic, 2, 16,cch,18,13,+5,1.35,Lost
+Astralis,Virtus.pro, 16, 11,cch,19,17,+2,1.19,Won
+Astralis,Virtus.pro, 16, 3,ovp,13,7,+6,1.31,Won
+Astralis,fnatic, 13, 16,inf,18,21,-3,0.96,Lost
+Astralis,fnatic, 14, 16,d2,16,18,-2,0.96,Lost
+Astralis,Dignitas, 16, 12,ovp,33,15,+18,1.97,Won
+Astralis,Dignitas, 16, 11,mrg,19,19,0,1.07,Won
+Astralis,G2, 13, 16,d2,20,22,-2,0.95,Lost
+Astralis,Envy, 16, 9,mrg,25,11,+14,1.68,Won
+Astralis,x6tence, 16, 2,mrg,16,7,+9,1.48,Won
+Astralis,G2, 19, 17,d2,28,23,+5,1.10,Won
+Astralis,FlipSid3, 16, 7,ovp,27,10,+17,2.00 *,Won
+Astralis,FlipSid3, 16, 7,mrg,25,12,+13,1.70 *,Won
+Astralis,G2, 8, 16,cch,20,18,+2,1.12 *,Lost
+Astralis,G2, 16, 10,inf,20,20,0,0.90 *,Won
+Astralis,Natus Vincere, 14, 16,ovp,31,19,+12,1.51 *,Lost
+Astralis,Natus Vincere, 16, 13,mrg,20,18,+2,1.09 *,Won
+Astralis,CLG, 16, 4,d2,25,9,+16,2.14,Won
+Astralis,CLG, 16, 3,ovp,13,11,+2,1.25,Won
+Astralis,Envy, 8, 16,mrg,18,16,+2,1.08,Lost
+Astralis,Envy, 16, 13,ovp,23,18,+5,1.22,Lost
+Astralis,Envy, 13, 16,cch,12,21,-9,0.71,Lost
+Astralis,G2, 19, 15,cch,30,21,+9,1.41,Won
+Astralis,G2, 13, 16,ovp,21,21,0,1.10,Won
+Astralis,G2, 16, 11,trn,18,14,+4,1.33,Won
+Astralis,Method, 16, 4,ovp,21,8,+13,1.71,Won
+Astralis,Method, 16, 2,mrg,16,7,+9,1.40,Won
+Astralis,Luminosity, 12, 16,ovp,11,24,-13,0.56,Lost
+Astralis,Luminosity, 8, 16,trn,15,16,-1,0.93,Lost
+Astralis,mousesports, 22, 19,mrg,31,28,+3,1.08,Won
+Astralis,Dignitas, 16, 9,ovp,25,12,+13,1.61,Won
+?,Natus Vincere, 13, 16,mrg,22,21,+1,0.98,Lost
+?,Natus Vincere, 16, 11,ovp,22,17,+5,1.19,Lost
+?,Natus Vincere, 4, 16,d2,7,18,-11,0.47,Lost
+?,fnatic, 7, 16,inf,9,22,-13,0.57,Lost
+?,fnatic, 16, 8,mrg,17,13,+4,1.20,Lost
+?,fnatic, 10, 16,d2,17,19,-2,0.92,Lost
+?,Envy, 13, 16,inf,22,22,0,1.05,Lost
+?,Envy, 14, 16,mrg,18,17,+1,1.03,Lost
+?,ex-Titan, 16, 14,trn,21,15,+6,1.15,Won
+?,ex-Titan, 16, 7,d2,22,9,+13,1.57,Won
+?,Envy, 16, 7,cch,17,12,+5,1.21 *,Won
+?,Envy, 16, 5,ovp,15,14,+1,0.98 *,Won
+?,Titan, 16, 7,d2,18,13,+5,1.16 *,Won
+?,Titan, 17, 21,trn,30,26,+4,1.15 *,Won
+?,Titan, 21, 19,ovp,17,32,-15,0.58 *,Won
+?,Vexed, 19, 17,trn,25,19,+6,1.13 *,Won
+?,Vexed, 16, 3,ovp,14,12,+2,1.01 *,Won
+?,PENTA, 16, 2,cch,15,10,+5,1.25 *,Won
+?,PENTA, 16, 5,mrg,26,9,+17,2.00 *,Won
+?,Envy, 16, 13,trn,12,23,-11,0.53 *,Won
+?,Envy, 16, 10,inf,16,18,-2,0.90 *,Won
+?,fnatic, 14, 16,mrg,26,16,+10,1.45 *,Lost
+?,fnatic, 12, 16,inf,23,17,+6,1.15 *,Lost
+?,Natus Vincere, 16, 13,inf,18,21,-3,0.84 *,Won
+?,Natus Vincere, 16, 12,trn,24,14,+10,1.46 *,Won
+?,CLG, 16, 6,inf,27,10,+17,1.89 *,Won
+?,CLG, 16, 12,mrg,27,14,+13,1.50 *,Won
+?,E-frag.net, 16, 12,cch,24,20,+4,1.11 *,Won
+?,E-frag.net, 16, 6,ovp,17,11,+6,1.26 *,Won
+?,SK, 2, 16,cch,2,17,-15,0.14 *,Lost
+?,SK, 13, 16,mrg,24,21,+3,1.18 *,Lost
+?,SK, 16, 9,trn,19,14,+5,1.04 *,Lost
+?,fnatic, 10, 16,mrg,17,18,-1,0.89 *,Lost
+?,fnatic, 11, 16,cch,22,19,+3,1.16 *,Lost
+TSM,G2, 10, 16,mrg,14,20,-6,0.73 *,Lost
+TSM,G2, 14, 16,inf,29,20,+9,1.33 *,Lost
+TSM,DenDD, 19, 16,ovp,23,20,+3,1.03 *,Won
+TSM,DenDD, 11, 16,inf,20,17,+3,1.09 *,Won
+TSM,DenDD, 16, 9,cch,14,19,-5,0.76 *,Won
+TSM,E-frag.net, 16, 5,inf,13,13,0,Nil,Nil
+TSM,E-frag.net, 16, 9,ovp,24,14,+10,Nil,Nil
+TSM,E-frag.net, 5, 16,d2,13,15,-2,Nil,Nil
+TSM,Dignitas, 16, 12,mrg,14,20,-6,0.71 *,Won
+TSM,Dignitas, 16, 19,ovp,21,28,-7,0.76 *,Won
+TSM,Dignitas, 16, 6,inf,17,14,+3,1.15 *,Won
+TSM,Luminosity, 17, 21,inf,17,28,-11,0.70 *,Lost
+TSM,Luminosity, 6, 16,ovp,13,19,-6,0.71 *,Lost
+TSM,Luminosity, 16, 5,mrg,14,13,+1,0.98 *,Lost
+TSM,Virtus.pro, 16, 13,mrg,18,22,-4,0.86 *,Won
+TSM,Liquid, 16, 0,ovp,28,6,+22,2.62 *,Won
+TSM,Natus Vincere, 8, 16,cbl,14,19,-5,0.75 *,Lost
+TSM,Natus Vincere, 10, 16,d2,16,19,-3,0.85 *,Lost
+TSM,G2, 16, 6,mrg,18,11,+7,1.28 *,Won
+TSM,G2, 16, 7,ovp,24,14,+10,1.59 *,Won
+TSM,G2, 5, 16,cch,13,18,-5,0.72 *,Won
+TSM,Cloud9, 16, 5,d2,19,12,+7,1.44 *,Won
+TSM,Cloud9, 14, 16,cch,24,21,+3,1.16 *,Won
+TSM,Cloud9, 16, 11,ovp,24,17,+7,1.30 *,Won
+TSM,fnatic, 14, 16,inf,23,22,+1,1.03 *,Lost
+TSM,fnatic, 11, 16,d2,20,21,-1,0.95 *,Lost
+TSM,Envy, 12, 16,cbl,22,21,+1,1.03 *,Lost
+TSM,mousesports, 16, 7,cch,18,15,+3,1.16 *,Won
+TSM,HellRaisers, 16, 4,d2,25,13,+12,1.82 *,Won
+TSM,HellRaisers, 22, 19,ovp,32,31,+1,0.99 *,Won
+TSM,SK, 16, 11,ovp,27,21,+6,1.47 *,Won
+TSM,HellRaisers, 16, 14,cch,23,19,+4,1.13 *,Won
+TSM,HellRaisers, 16, 11,inf,20,17,+3,1.11 *,Won
+TSM,NiP, 8, 16,d2,14,20,-6,0.82 *,Lost
+TSM,NiP, 10, 16,trn,16,18,-2,0.92 *,Lost
+TSM,G2, 16, 6,d2,15,14,+1,1.02 *,Won
+TSM,FlipSid3, 16, 6,cch,17,12,+5,1.20 *,Won
+TSM,LDLC White, 16, 14,inf,21,22,-1,0.96 *,Won
+TSM,LDLC White, 16, 5,ovp,16,12,+4,1.21 *,Won
+TSM,Envy, 16, 9,inf,25,17,+8,1.37 *,Won
+TSM,Virtus.pro, 16, 3,ovp,25,6,+19,2.09 *,Won
+TSM,fnatic, 20, 22,mrg,30,28,+2,0.98 *,Lost
+TSM,GreyFace, 16, 11,d2,23,19,+4,1.13 *,Won
+TSM,GreyFace, 16, 6,ovp,12,14,-2,0.78 *,Won
+TSM,Virtus.pro, 5, 16,ovp,18,15,+3,1.17 *,Lost
+TSM,Envy, 13, 16,mrg,28,22,+6,1.32 *,Lost
+TSM,PENTA, 16, 1,cbl,14,10,+4,1.19 *,Won
+TSM,Virtus.pro, 16, 11,mrg,17,18,-1,1.01 *,Won
+TSM,Titan, 16, 5,inf,15,14,+1,1.01 *,Won
+TSM,Titan, 16, 12,d2,26,21,+5,1.44 *,Won
+TSM,Dignitas, 16, 6,mrg,24,8,+16,1.69 *,Won
+TSM,Natus Vincere, 19, 16,cch,27,24,+3,1.10 *,Won
+TSM,HellRaisers, 8, 16,cch,20,20,0,Nil,Nil
+TSM,HellRaisers, 16, 6,mrg,17,9,+8,Nil,Nil
+TSM,PENTA, 16, 3,inf,20,8,+12,1.75 *,Won
+TSM,NiP, 9, 16,inf,11,21,-10,0.57 *,Lost
+TSM,NiP, 12, 16,cch,21,22,-1,1.13 *,Lost
+TSM,NiP, 16, 13,d2,20,24,-4,0.94 *,Lost
+TSM,mousesports, 16, 13,d2,27,21,+6,1.22 *,Won
+TSM,Titan, 16, 13,cbl,22,23,-1,0.94 *,Won
+TSM,NiP, 13, 16,d2,28,23,+5,1.34 *,Lost
+TSM,Titan, 16, 5,ovp,16,12,+4,1.07 *,Won
+TSM,ttc, 16, 8,ovp,27,13,+14,1.60 *,Won
+TSM,ttc, 16, 7,cch,18,15,+3,1.04 *,Won
+TSM,fnatic, 16, 3,d2,25,12,+13,1.80 *,Won
+TSM,G2, 21, 19,d2,27,30,-3,0.94 *,Won
+TSM,Torpedo, 16, 4,ovp,27,7,+20,2.04 *,Won
+TSM,Torpedo, 19, 15,cch,31,20,+11,1.30 *,Won
+TSM,Dignitas, 16, 3,d2,25,7,+18,1.92 *,Won
+TSM,NiP, 16, 10,cbl,22,18,+4,1.29 *,Won
+TSM,Titan, 16, 5,ovp,23,11,+12,1.61 *,Won
+TSM,HellRaisers, 16, 5,ovp,25,10,+15,1.81 *,Won
+TSM,Virtus.pro, 16, 12,ovp,21,16,+5,1.12 *,Won
+TSM,Virtus.pro, 16, 12,trn,26,17,+9,1.34 *,Won
+TSM,Virtus.pro, 16, 14,trn,25,14,+11,1.34 *,Won
+TSM,Virtus.pro, 16, 12,inf,26,20,+6,1.36 *,Won
+TSM,fnatic, 16, 10,d2,29,14,+15,1.62 *,Won
+TSM,fnatic, 16, 14,inf,19,19,0,0.93 *,Won
+TSM,Virtus.pro, 16, 11,cch,26,17,+9,1.34 *,Won
+TSM,G2, 16, 5,d2,18,12,+6,1.34 *,Won
+TSM,NiP, 16, 12,d2,17,19,-2,0.85 *,Won
+TSM,Envy, 16, 13,d2,25,17,+8,1.30 *,Won
+TSM,Envy, 16, 9,cch,26,12,+14,1.92 *,Won
+TSM,Virtus.pro, 16, 3,trn,16,12,+4,1.13 *,Won
+TSM,Virtus.pro, 16, 11,ovp,23,16,+7,1.26 *,Won
+TSM,NiP, 16, 5,trn,13,14,-1,0.90 *,Won
+TSM,Natus Vincere, 10, 16,trn,7,23,-16,0.39 *,Lost
+TSM,Envy, 13, 16,inf,22,17,+5,1.25 *,Lost
+TSM,Envy, 13, 16,d2,18,20,-2,0.91 *,Lost
+TSM,Dignitas, 16, 14,ovp,20,17,+3,1.03 *,Won
+TSM,Dignitas, 16, 6,mrg,15,13,+2,0.98 *,Won
+TSM,G2, 16, 8,d2,24,17,+7,1.32 *,Won
+TSM,CPH Wolves, 16, 5,ovp,17,9,+8,1.36 *,Won
+TSM,fnatic, 9, 16,trn,18,19,-1,1.10 *,Lost
+Denmark,Poland, 16, 10,cch,25,16,+9,1.36 *,Won
+TSM,Titan, 21, 17,d2,39,26,+13,1.37 *,Won
+TSM,fnatic, 9, 16,inf,11,22,-11,0.54 *,Lost
+TSM,SK, 16, 4,d2,23,9,+14,1.64 *,Won
+TSM,Envy, 12, 16,inf,21,21,0,1.18 *,Lost
+TSM,HellRaisers, 16, 9,ovp,17,17,0,1.06 *,Won
+TSM,Virtus.pro, 14, 16,mrg,20,23,-3,0.81 *,Lost
+TSM,Virtus.pro, 7, 16,cbl,16,17,-1,0.92 *,Lost
+TSM,Virtus.pro, 16, 3,d2,22,9,+13,1.64 *,Lost
+TSM,Virtus.pro, 7, 16,trn,21,18,+3,1.14 *,Lost
+TSM,Virtus.pro, 16, 13,ovp,24,18,+6,1.12 *,Lost
+TSM,NiP, 16, 10,inf,28,17,+11,1.47 *,Won
+TSM,NiP, 16, 8,mrg,20,15,+5,1.20 *,Won
+TSM,NiP, 7, 16,d2,16,19,-3,0.98 *,Won
+TSM,fnatic, 19, 17,d2,27,25,+2,1.10 *,Won
+TSM,Natus Vincere, 16, 10,ovp,18,14,+4,1.09 *,Won
+TSM,fnatic, 9, 16,inf,18,21,-3,0.87 *,Lost
+TSM,fnatic, 13, 16,mrg,30,20,+10,1.42 *,Lost
+TSM,fnatic, 16, 6,trn,21,13,+8,1.37 *,Lost
+TSM,fnatic, 10, 16,d2,21,22,-1,1.09 *,Lost
+TSM,fnatic, 12, 16,cbl,16,18,-2,0.83 *,Lost
+TSM,Kinguin, 21, 18,mrg,31,28,+3,1.06 *,Won
+TSM,Kinguin, 21, 15,d2,29,26,+3,1.09 *,Won
+TSM,Kinguin, 7, 16,trn,7,21,-14,0.35 *,Won
+TSM,Natus Vincere, 16, 10,d2,25,12,+13,1.56 *,Won
+TSM,mousesports, 16, 7,ovp,19,11,+8,1.37 *,Won
+TSM,Natus Vincere, 16, 11,ovp,20,18,+2,1.23 *,Won
+TSM,Natus Vincere, 16, 9,d2,21,15,+6,1.26 *,Won
+TSM,Virtus.pro, 12, 16,mrg,14,20,-6,0.71 *,Lost
+TSM,Virtus.pro, 12, 16,cch,23,21,+2,1.18 *,Lost
+TSM,Virtus.pro, 16, 6,ovp,19,10,+9,1.32 *,Lost
+TSM,Virtus.pro, 14, 16,trn,26,22,+4,1.17 *,Lost
+TSM,Virtus.pro, 16, 13,inf,17,16,+1,0.98 *,Lost
+TSM,Natus Vincere, 12, 16,ovp,19,22,-3,0.89 *,Lost
+TSM,Natus Vincere, 4, 16,d2,13,18,-5,0.74 *,Lost
+TSM,Natus Vincere, 16, 12,mrg,20,17,+3,1.06 *,Lost
+TSM,Kinguin, 16, 12,d2,23,19,+4,1.13 *,Won
+TSM,Kinguin, 16, 5,trn,16,12,+4,1.10 *,Won
+TSM,Envy, 9, 16,inf,15,14,+1,0.95 *,Lost
+TSM,Envy, 16, 8,d2,18,9,+9,1.31 *,Lost
+TSM,Envy, 12, 16,cch,20,19,+1,1.07 *,Lost
+TSM,Kinguin, 16, 8,ovp,19,11,+8,1.27 *,Won
+TSM,Kinguin, 16, 6,d2,16,14,+2,1.09 *,Won
+TSM,NiP, 16, 3,cch,20,7,+13,1.94 *,Won
+TSM,Renegades, 16, 11,trn,22,15,+7,1.28 *,Won
+TSM,fnatic, 16, 10,d2,26,13,+13,1.53 *,Won
+TSM,fnatic, 16, 4,inf,16,10,+6,1.22 *,Won
+TSM,PENTA, 16, 5,trn,21,8,+13,1.56 *,Won
+TSM,PENTA, 16, 8,mrg,17,14,+3,1.08 *,Won
+TSM,Envy, 12, 16,inf,17,18,-1,0.90 *,Lost
+TSM,Envy, 9, 16,cbl,13,20,-7,0.69 *,Lost
+TSM,Envy, 3, 16,cch,13,17,-4,0.90 *,Lost
+TSM,Renegades, 16, 4,d2,17,8,+9,1.34 *,Won
+TSM,SK, 16, 6,ovp,20,10,+10,1.49 *,Won
+TSM,SK, 19, 15,cbl,22,23,-1,0.97 *,Won
+TSM,CLG, 16, 7,inf,38,11,+27,2.58 *,Won
+TSM,mousesports, 16, 8,d2,27,11,+16,1.74 *,Won
+TSM,CLG, 16, 12,trn,31,18,+13,1.73 *,Won
+TSM,Renegades, 16, 6,mrg,19,9,+10,1.34 *,Won
+TSM,Envy, 11, 16,cbl,12,22,-10,0.57 *,Lost
+TSM,HellRaisers, 14, 16,mrg,18,16,+2,0.89 *,Lost
+TSM,HellRaisers, 10, 16,d2,15,21,-6,0.73 *,Lost
+TSM,E-frag.net, 8, 16,ovp,15,18,-3,0.87 *,Lost
+TSM,E-frag.net, 12, 16,mrg,19,21,-2,0.92 *,Lost
+TSM,E-frag.net, 16, 4,inf,19,8,+11,1.52 *,Lost
+TSM,Cloud9, 16, 2,mrg,20,6,+14,1.70 *,Won
+TSM,Cloud9, 16, 14,cch,21,16,+5,1.10 *,Won
+TSM,Natus Vincere, 16, 5,d2,16,9,+7,1.24 *,Won
+TSM,Natus Vincere, 16, 5,trn,20,11,+9,1.52 *,Won
+TSM,Natus Vincere, 6, 16,mrg,14,20,-6,0.74 *,Won
+TSM,fnatic, 16, 10,ovp,29,15,+14,1.57 *,Won
+TSM,NiP, 16, 13,mrg,19,20,-1,0.94 *,Won
+TSM,fnatic, 14, 16,ovp,17,19,-2,0.87 *,Lost
+TSM,Keyd, 12, 16,inf,20,22,-2,0.94 *,Lost
+TSM,NiP, 16, 5,cch,24,10,+14,1.66 *,Won
+TSM,Titan, 16, 3,mrg,14,9,+5,1.14 *,Won
+TSM,FlipSid3, 12, 16,ovp,20,19,+1,1.00 *,Lost
+TSM,fnatic, 3, 16,cch,8,17,-9,0.44 *,Lost
+TSM,Envy, 16, 13,inf,29,14,+15,1.54 *,Won
+TSM,Natus Vincere, 14, 16,mrg,21,22,-1,0.94 *,Lost
+TSM,Natus Vincere, 16, 6,ovp,20,12,+8,1.47 *,Won
+TSM,GPlay, 16, 2,mrg,21,9,+12,1.67 *,Won
+TSM,GPlay, 16, 13,inf,16,19,-3,0.86 *,Won
+TSM,Titan, 14, 16,d2,23,18,+5,1.16 *,Lost
+TSM,mousesports, 16, 5,ovp,18,9,+9,Nil,Nil
+TSM,mousesports, 14, 16,cch,21,22,-1,Nil,Nil
+TSM,Envy, 13, 16,d2,19,22,-3,0.84 *,Lost
+TSM,HellRaisers, 16, 7,ovp,14,12,+2,0.97 *,Won
+TSM,HellRaisers, 16, 2,trn,25,8,+17,2.13 *,Won
+TSM,HellRaisers, 16, 12,cbl,22,14,+8,1.26 *,Won
+TSM,HellRaisers, 19, 16,mrg,27,27,0,0.97 *,Won
+TSM,Virtus.pro, 16, 10,ovp,25,16,+9,1.36 *,Won
+TSM,NiP, 16, 7,mrg,27,14,+13,1.70 *,Won
+TSM,NiP, 16, 4,cch,24,9,+15,1.89 *,Won
+TSM,PENTA, 16, 2,ovp,18,11,+7,1.44 *,Won
+TSM,PENTA, 16, 6,trn,21,12,+9,1.43 *,Won
+TSM,FlipSid3, 16, 10,trn,15,15,0,0.94 *,Won
+TSM,Titan, 1, 2,d2,3,2,+1,Nil,Nil
+TSM,fnatic, 16, 7,d2,19,13,+6,1.25 *,Won
+TSM,fnatic, 16, 11,inf,23,18,+5,1.18 *,Won
+TSM,fnatic, 7, 16,mrg,14,18,-4,0.79 *,Won
+TSM,fnatic, 16, 5,cbl,19,10,+9,1.40 *,Won
+TSM,Natus Vincere, 19, 17,inf,31,22,+9,1.19 *,Won
+TSM,Natus Vincere, 19, 17,ovp,29,22,+7,1.22 *,Won
+TSM,fnatic, 8, 16,inf,14,16,-2,0.93 *,Lost
+TSM,fnatic, 8, 16,cch,13,22,-9,0.59 *,Lost
+TSM,fnatic, 19, 17,mrg,28,24,+4,1.14 *,Lost
+TSM,HellRaisers, 25, 23,cch,40,32,+8,1.20 *,Won
+TSM,HellRaisers, 16, 6,mrg,26,9,+17,1.76 *,Won
+TSM,mousesports, 5, 16,d2,17,17,0,1.03 *,Lost
+TSM,mousesports, 17, 19,mrg,30,25,+5,1.07 *,Lost
+TSM,Virtus.pro, 4, 16,ovp,11,17,-6,0.67 *,Lost
+TSM,Envy, 8, 16,cch,14,17,-3,0.94 *,Lost
+TSM,Natus Vincere, 16, 14,inf,15,21,-6,0.74 *,Won
+TSM,FlipSid3, 16, 12,inf,21,16,+5,1.20 *,Won
+TSM,KILLERFISH, 16, 12,d2,30,22,+8,1.44 *,Won
+TSM,KILLERFISH, 16, 5,cch,24,15,+9,1.44 *,Won
+TSM,Natus Vincere, 16, 9,trn,29,13,+16,1.85 *,Won
+TSM,Dignitas, 16, 8,trn,28,11,+17,1.72 *,Won
+TSM,Titan, 1, 16,d2,6,17,-11,0.33 *,Lost
+TSM,Envy, 19, 16,inf,21,22,-1,0.90 *,Won
+TSM,mousesports, 13, 16,cbl,25,17,+8,1.34 *,Lost
+TSM,fnatic, 16, 14,trn,25,18,+7,1.19 *,Won
+TSM,fnatic, 16, 8,d2,20,16,+4,1.16 *,Won
+TSM,fnatic, 9, 16,cch,16,19,-3,1.01 *,Won
+TSM,NiP, 16, 3,ovp,16,10,+6,1.36 *,Won
+TSM,Dignitas, 16, 13,cch,22,24,-2,1.05 *,Won
+TSM,LGB, 16, 14,cch,24,24,0,1.02 *,Won
+TSM,LGB, 16, 5,mrg,16,10,+6,1.23 *,Won
+TSM,Envy, 13, 16,inf,15,19,-4,Nil,Nil
+TSM,Envy, 16, 8,cch,24,15,+9,Nil,Nil
+TSM,fnatic, 19, 15,mrg,23,19,+4,1.08 *,Won
+TSM,PENTA, 16, 8,mrg,18,12,+6,1.32 *,Won
+TSM,Dignitas, 16, 12,trn,27,18,+9,1.49 *,Won
+TSM,Dignitas, 16, 9,inf,36,14,+22,2.11 *,Won
+TSM,Dignitas, 16, 8,inf,19,13,+6,1.33 *,Won
+TSM,Dignitas, 16, 8,cch,28,15,+13,1.74 *,Won
+TSM,FlipSid3, 16, 1,cch,19,10,+9,1.54 *,Won
+TSM,Dignitas, 16, 6,inf,16,9,+7,1.23 *,Won
+TSM,Dignitas, 8, 16,cch,17,19,-2,0.87 *,Won
+TSM,Dignitas, 16, 13,mrg,18,20,-2,0.95 *,Won
+TSM,Titan, 12, 16,inf,24,22,+2,1.00 *,Lost
+TSM,fnatic, 6, 16,ovp,11,21,-10,0.51 *,Lost
+TSM,Virtus.pro, 9, 16,d2,22,20,+2,1.15 *,Lost
+TSM,mousesports, 16, 10,cbl,25,17,+8,1.40 *,Won
+TSM,PENTA, 16, 3,inf,21,12,+9,1.62 *,Won
+TSM,ENCORE, 16, 5,mrg,17,10,+7,1.32 *,Won
+TSM,ENCORE, 16, 2,cch,16,11,+5,1.29 *,Won
+TSM,NiP, 16, 12,cch,18,17,+1,0.97 *,Won
+TSM,NiP, 21, 18,d2,19,26,-7,0.84 *,Won
+TSM,NiP, 1, 16,inf,10,17,-7,0.53 *,Won
+TSM,fnatic, 16, 11,inf,27,19,+8,1.28 *,Won
+TSM,fnatic, 16, 13,mrg,21,19,+2,1.09 *,Won
+TSM,Natus Vincere, 16, 13,mrg,17,20,-3,0.92 *,Won
+TSM,Natus Vincere, 16, 8,cch,16,11,+5,1.19 *,Won
+TSM,Natus Vincere, 6, 16,ovp,17,19,-2,0.86 *,Won
+TSM,Virtus.pro, 12, 16,ovp,24,18,+6,1.10 *,Lost
+TSM,Virtus.pro, 16, 6,inf,19,12,+7,1.20 *,Lost
+TSM,Virtus.pro, 4, 16,mrg,8,17,-9,0.51 *,Lost
+TSM,Natus Vincere, 16, 8,mrg,18,13,+5,1.19 *,Won
+TSM,Natus Vincere, 16, 13,cch,24,21,+3,1.20 *,Won
+TSM,Natus Vincere, 14, 16,ovp,24,21,+3,1.13 *,Won
+TSM,Natus Vincere, 14, 16,mrg,19,21,-2,0.91 *,Lost
+TSM,Natus Vincere, 16, 8,inf,16,16,0,0.95 *,Lost
+TSM,Natus Vincere, 10, 16,ovp,12,22,-10,0.56 *,Lost
+TSM,Dignitas, 16, 14,d2,24,19,+5,1.10 *,Won
+TSM,Dignitas, 16, 14,cch,22,19,+3,1.09 *,Won
+TSM,fnatic, 16, 11,ovp,26,14,+12,1.38 *,Won
+TSM,fnatic, 11, 16,d2,10,22,-12,0.53 *,Won
+TSM,fnatic, 16, 11,mrg,17,18,-1,0.88 *,Won
+TSM,NiP, 16, 14,d2,21,15,+6,1.09 *,Won
+TSM,NiP, 16, 12,inf,29,19,+10,1.39 *,Won
+TSM,fnatic, 16, 13,inf,18,18,0,0.97 *,Won
+TSM,fnatic, 16, 12,d2,25,13,+12,1.56 *,Won
+TSM,mousesports, 16, 3,mrg,13,8,+5,1.17 *,Won
+TSM,mousesports, 14, 16,d2,14,20,-6,0.72 *,Won
+TSM,mousesports, 16, 7,inf,18,12,+6,1.12 *,Won
+TSM,Envy, 16, 9,inf,17,17,0,0.97 *,Won
+TSM,Natus Vincere, 16, 14,d2,29,22,+7,1.22 *,Won
+TSM,Envy, 26, 23,d2,40,31,+9,1.25 *,Won
+TSM,Natus Vincere, 12, 16,inf,23,18,+5,1.18 *,Lost
+TSM,fnatic, 23, 25,inf,35,28,+7,1.13 *,Lost
+TSM,fnatic, 13, 16,d2,22,20,+2,1.09 *,Lost
+TSM,fnatic, 11, 16,ovp,20,17,+3,1.09 *,Lost
+TSM,Titan, 6, 16,cbl,18,18,0,1.03 *,Lost
+TSM,fnatic, 16, 10,mrg,16,12,+4,1.05 *,Won
+TSM,Virtus.pro, 16, 6,inf,18,11,+7,1.25 *,Won
+TSM,Virtus.pro, 10, 16,inf,21,20,+1,1.18 *,Lost
+TSM,Virtus.pro, 14, 16,cbl,22,18,+4,1.07 *,Lost
+TSM,Dignitas, 16, 9,inf,27,15,+12,1.69 *,Won
+TSM,Virtus.pro, 14, 16,cch,19,19,0,1.00 *,Lost
+TSM,Virtus.pro, 14, 16,nuke,20,22,-2,0.97 *,Lost
+TSM,Virtus.pro, 16, 12,mrg,23,16,+7,1.14 *,Lost
+TSM,LGB, 16, 14,ovp,28,18,+10,1.36 *,Won
+TSM,LGB, 16, 1,inf,23,5,+18,2.42 *,Won
+TSM,Dignitas, 16, 6,mrg,19,9,+10,1.31 *,Won
+TSM,Dignitas, 16, 6,nuke,19,9,+10,1.34 *,Won
+TSM,Space Soldiers, 16, 8,d2,19,10,+9,1.31 *,Won
+TSM,Space Soldiers, 16, 4,inf,15,8,+7,1.32 *,Won
+TSM,Acer, 16, 5,cbl,18,12,+6,1.29 *,Won
+TSM,Acer, 16, 4,nuke,20,10,+10,1.53 *,Won
+TSM,jQntefabrikkeN, 16, 2,mrg,21,9,+12,1.77 *,Won
+TSM,jQntefabrikkeN, 16, 4,inf,14,9,+5,1.12 *,Won
+TSM,LGB, 16, 11,d2,27,15,+12,1.53 *,Won
+TSM,NiP, 13, 16,nuke,27,20,+7,1.26 *,Lost
+TSM,NiP, 6, 16,d2,10,17,-7,0.62 *,Lost
+TSM,Titan, 16, 5,d2,20,10,+10,1.42 *,Won
+TSM,Titan, 14, 16,cch,17,22,-5,0.83 *,Won
+TSM,Titan, 16, 14,inf,21,19,+2,1.00 *,Won
+TSM,Virtus.pro, 19, 17,ovp,27,24,+3,1.16 *,Won
+TSM,Virtus.pro, 12, 16,inf,25,20,+5,1.33 *,Won
+TSM,Virtus.pro, 16, 12,cch,21,14,+7,1.09 *,Won
+TSM,Natus Vincere, 11, 16,ovp,17,20,-3,0.91 *,Lost
+TSM,Natus Vincere, 15, 19,d2,23,27,-4,0.84 *,Lost
+TSM,Natus Vincere, 16, 11,inf,26,15,+11,1.47 *,Lost
+TSM,fnatic, 16, 14,cch,27,21,+6,1.17 *,Won
+TSM,fnatic, 8, 16,cbl,15,17,-2,0.91 *,Won
+TSM,fnatic, 16, 14,inf,23,16,+7,1.25 *,Won
+TSM,fnatic, 16, 11,cch,25,19,+6,1.27 *,Won
+TSM,fnatic, 16, 7,d2,16,13,+3,1.01 *,Won
+TSM,Natus Vincere, 16, 12,d2,26,18,+8,1.38 *,Won
+TSM,Natus Vincere, 16, 4,inf,24,10,+14,1.76 *,Won
+TSM,NiP, 12, 16,nuke,15,20,-5,0.72 *,Lost
+TSM,NiP, 12, 16,nuke,17,20,-3,0.86 *,Lost
+TSM,NiP, 16, 4,inf,14,10,+4,1.20 *,Lost
+TSM,NiP, 8, 16,d2,15,19,-4,0.81 *,Lost
+TSM,Cloud9, 16, 8,ovp,21,11,+10,1.49 *,Won
+TSM,3DMAX, 16, 10,nuke,18,17,+1,1.06 *,Won
+TSM,Cloud9, 14, 16,nuke,21,20,+1,1.05 *,Lost
+TSM,NiP, 2, 16,nuke,12,17,-5,0.73 *,Lost
+TSM,Titan, 16, 3,nuke,19,9,+10,1.57 *,Won
+TSM,LGB, 18, 21,mrg,26,24,+2,1.05 *,Lost
+TSM,Virtus.pro, 13, 16,mrg,17,20,-3,0.86 *,Lost
+TSM,fnatic, 9, 16,inf,11,18,-7,0.64 *,Lost
+Dignitas,fnatic, 19, 17,mrg,29,19,+10,1.20 *,Won
+Dignitas,fnatic, 16, 7,nuke,21,12,+9,1.35 *,Won
+Dignitas,LDLC, 5, 16,cch,9,18,-9,0.50 *,Lost
+Dignitas,LDLC, 16, 14,inf,14,22,-8,0.65 *,Lost
+Dignitas,LDLC, 10, 16,d2,20,18,+2,1.07 *,Lost
+Dignitas,Cloud9, 16, 2,d2,21,6,+15,2.03 *,Won
+Dignitas,KaBuM.TD, 16, 4,d2,19,9,+10,1.47 *,Won
+Dignitas,NiP, 17, 19,d2,27,22,+5,1.15 *,Lost
+Dignitas,NiP, 10, 16,d2,5,2,+3,0.98 *,Lost
+Dignitas,NiP, 16, 14,nuke,22,14,+8,1.18 *,Lost
+Dignitas,NiP, 9, 16,cch,16,17,-1,0.96 *,Lost
+Dignitas,myXMG, 16, 1,nuke,16,7,+9,1.54 *,Won
+Dignitas,myXMG, 16, 9,cbl,27,13,+14,1.76 *,Won
+Dignitas,GGWP, 16, 2,d2,18,5,+13,1.68 *,Won
+Dignitas,GGWP, 16, 1,nuke,19,10,+9,1.51 *,Won
+Dignitas,Epsilon, 19, 15,d2,21,18,+3,1.02 *,Won
+Dignitas,Epsilon, 16, 13,cch,21,21,0,1.05 *,Won
+Dignitas,myKPV, 16, 12,mrg,20,18,+2,1.12 *,Won
+Dignitas,myKPV, 16, 11,nuke,28,12,+16,1.72 *,Won
+Dignitas,Natus Vincere, 13, 16,mrg,15,22,-7,0.75 *,Lost
+Dignitas,Natus Vincere, 3, 16,cbl,8,18,-10,0.43 *,Lost
+Dignitas,iBUYPOWER, 16, 7,nuke,30,11,+19,1.92 *,Won
+Dignitas,PENTA, 16, 9,nuke,16,12,+4,1.01 *,Won
+Dignitas,fnatic, 13, 16,mrg,15,18,-3,0.82 *,Lost
+Dignitas,fnatic, 6, 16,inf,11,17,-6,0.59 *,Lost
+Denmark,Poland, 16, 12,cch,14,13,+1,0.90 *,Won
+Denmark,Poland, 16, 14,d2,16,21,-5,0.81 *,Won
+Dignitas,LDLC, 16, 13,inf,23,19,+4,1.18 *,Lost
+Dignitas,Virtus.pro, 12, 16,mrg,18,20,-2,0.87 *,Lost
+Dignitas,Virtus.pro, 16, 14,inf,25,18,+7,1.37 *,Lost
+Dignitas,Virtus.pro, 9, 16,ovp,17,18,-1,0.87 *,Lost
+Dignitas,iBUYPOWER, 16, 14,inf,27,19,+8,1.33 *,Won
+Dignitas,mousesports, 16, 5,d2,20,11,+9,1.43 *,Won
+Dignitas,Cipangu.GO, 16, 9,nuke,22,13,+9,1.34 *,Won
+Dignitas,GPlay, 16, 5,inf,20,12,+8,1.42 *,Won
+Dignitas,3DMAX, 16, 2,d2,22,5,+17,2.00 *,Won
+Dignitas,iBUYPOWER, 16, 13,nuke,18,20,-2,0.87 *,Won
+Dignitas,iBUYPOWER, 3, 16,d2,5,18,-13,0.29 *,Lost
+Dignitas,fnatic, 5, 16,mrg,8,17,-9,0.50 *,Lost
+Dignitas,fnatic, 3, 16,ovp,9,16,-7,0.59 *,Lost
+Dignitas,Virtus.pro, 11, 16,mrg,22,19,+3,1.16 *,Lost
+Dignitas,Virtus.pro, 12, 16,ovp,25,18,+7,1.29 *,Lost
+Dignitas,Virtus.pro, 16, 9,ovp,6,4,+2,0.98 *,Won
+Dignitas,Virtus.pro, 16, 7,inf,14,15,-1,1.12 *,Won
+Dignitas,Virtus.pro, 6, 16,cch,11,18,-7,0.67 *,Won
+Dignitas,NiP, 16, 3,d2,22,8,+14,1.71 *,Won
+Dignitas,NiP, 16, 14,inf,26,19,+7,1.16 *,Won
+Dignitas,HellRaisers, 16, 5,mrg,31,8,+23,2.43 *,Won
+Dignitas,Titan, 7, 16,ovp,12,21,-9,0.56 *,Lost
+Dignitas,Virtus.pro, 7, 16,ovp,15,21,-6,0.74 *,Lost
+Dignitas,fnatic, 6, 16,inf,13,16,-3,0.80 *,Lost
+Dignitas,Epsilon, 16, 7,d2,16,16,0,0.93 *,Won
+Dignitas,Titan, 16, 11,inf,18,17,+1,0.97 *,Won
+Dignitas,NiP, 16, 9,ovp,22,13,+9,1.54 *,Won
+Dignitas,LDLC, 13, 16,d2,35,18,+17,1.78 *,Lost
+Dignitas,mousesports, 16, 11,mrg,24,12,+12,1.40 *,Won
+Dignitas,mousesports, 16, 1,ovp,21,7,+14,1.96 *,Won
+Denmark,Latvia, 16, 8,inf,16,17,-1,0.84 *,Won
+Dignitas,3DMAX, 17, 19,d2,32,26,+6,1.22 *,Lost
+Dignitas,fnatic, 16, 19,cch,25,26,-1,0.99 *,Lost
+Dignitas,CPH Wolves, 16, 14,inf,27,15,+12,1.55 *,Won
+Dignitas,London Conspiracy, 16, 8,cch,21,12,+9,1.38 *,Won
+Dignitas,London Conspiracy, 16, 13,inf,26,18,+8,1.32 *,Won
+Dignitas,fnatic, 9, 16,inf,8,16,-8,0.56 *,Lost
+Dignitas,NiP, 16, 4,d2,24,7,+17,1.97 *,Won
+Dignitas,Epsilon, 16, 8,ovp,19,13,+6,1.28 *,Won
+Dignitas,OverGaming, 16, 8,inf,31,15,+16,1.80 *,Won
+Dignitas,OverGaming, 22, 18,nuke,32,30,+2,1.05 *,Won
+Dignitas,HellRaisers, 31, 28,nuke,64,38,+26,1.57 *,Won
+Dignitas,Virtus.pro, 11, 16,ssn,33,18,+15,1.87 *,Lost
+Dignitas,LDLC, 11, 16,d2,23,19,+4,1.43 *,Lost
+Dignitas,fnatic, 14, 16,ovp,24,22,+2,1.05 *,Lost
+Dignitas,fnatic, 11, 16,d2,12,21,-9,0.60 *,Lost
+Dignitas,Epsilon, 16, 8,inf,24,16,+8,1.26 *,Won
+Dignitas,Epsilon, 16, 9,d2,25,14,+11,1.50 *,Won
+Dignitas,Titan, 16, 1,nuke,17,3,+14,1.75 *,Won
+Dignitas,Cloud9, 14, 16,mrg,20,22,-2,0.99 *,Lost
+Dignitas,Vox Eminor, 16, 9,d2,20,17,+3,1.16 *,Won
+Dignitas,Virtus.pro, 12, 16,inf,14,22,-8,0.68 *,Lost
+Dignitas,Virtus.pro, 2, 16,cch,7,18,-11,0.39 *,Lost
+Dignitas,Virtus.pro, 16, 7,d2,24,15,+9,1.48 *,Lost
+Dignitas,NiP, 16, 11,inf,24,15,+9,1.30 *,Won
+Dignitas,NiP, 16, 4,cch,18,9,+9,1.32 *,Won
+Dignitas,Virtus.pro, 16, 7,nuke,22,12,+10,1.39 *,Won
+Dignitas,mousesports, 16, 11,d2,25,18,+7,1.30 *,Won
+Dignitas,ESG!, 16, 7,d2,17,11,+6,1.17 *,Won
+Dignitas,Titan, 16, 7,inf,17,13,+4,1.04 *,Won
+Dignitas,Virtus.pro, 14, 16,ssn,32,16,+16,1.66 *,Lost
+Dignitas,Virtus.pro, 10, 16,inf,13,22,-9,0.61 *,Lost
+Dignitas,Virtus.pro, 16, 7,mrg,14,13,+1,1.01 *,Won
+Dignitas,Virtus.pro, 16, 5,d2,23,10,+13,1.65 *,Won
+Dignitas,Virtus.pro, 13, 16,ssn,28,13,+15,1.52 *,Won
+Dignitas,Titan, 16, 10,inf,20,14,+6,1.19 *,Won
+Dignitas,Titan, 16, 12,mrg,19,20,-1,0.92 *,Won
+Dignitas,fnatic, 16, 12,d2,22,16,+6,1.16 *,Won
+Dignitas,LDLC, 16, 9,inf,30,12,+18,1.68 *,Won
+Dignitas,NiP, 9, 16,inf,18,19,-1,1.01 *,Lost
+Dignitas,NiP, 1, 16,d2,5,17,-12,0.25 *,Lost
+Dignitas,fnatic, 16, 7,inf,21,12,+9,1.35 *,Won
+Dignitas,fnatic, 22, 20,mrg,38,24,+14,1.38 *,Won
+Dignitas,NiP, 6, 16,d2,13,21,-8,0.64 *,Lost
+Dignitas,NiP, 16, 10,nuke,17,17,0,0.92 *,Lost
+Dignitas,NiP, 11, 16,inf,13,19,-6,0.73 *,Lost
+Dignitas,LGB, 8, 16,mrg,14,17,-3,0.92 *,Lost
+Dignitas,NiP, 16, 12,inf,25,22,+3,1.07 *,Won
+Dignitas,Wizards, 16, 6,inf,25,10,+15,2.00 *,Won
+Dignitas,Virtus.pro, 16, 13,inf,27,16,+11,1.37 *,Won
+Dignitas,NiP, 6, 16,d2,12,20,-8,0.58 *,Lost
+Dignitas,NiP, 16, 11,inf,14,18,-4,0.88 *,Lost
+Dignitas,NiP, 7, 16,nuke,16,18,-2,0.94 *,Lost
+Dignitas,fnatic, 25, 22,inf,35,30,+5,1.13 *,Won
+Dignitas,fnatic, 11, 16,mrg,20,21,-1,0.99 *,Won
+Dignitas,fnatic, 16, 11,d2,20,18,+2,1.04 *,Won
+Dignitas,Clan-Mystik, 16, 7,mrg,17,12,+5,1.16 *,Won
+Dignitas,Clan-Mystik, 16, 8,nuke,19,16,+3,1.18 *,Won
+Dignitas,NiP, 11, 16,nuke,21,20,+1,1.03 *,Lost
+Dignitas,NiP, 15, 19,inf,34,26,+8,1.39 *,Lost
+Dignitas,fnatic, 19, 16,mrg,23,22,+1,1.02 *,Won
+Dignitas,fnatic, 22, 20,inf,41,29,+12,1.33 *,Won
+Dignitas,H2k, 16, 11,inf,30,15,+15,1.68 *,Won
+Dignitas,H2k, 16, 9,mrg,27,15,+12,1.44 *,Won
+Dignitas,FMESPORTS, 16, 13,nuke,13,18,-5,0.74 *,Won
+Dignitas,FMESPORTS, 16, 4,mrg,15,13,+2,1.20 *,Won
+Dignitas,ENCE, 16, 3,mrg,16,10,+6,1.21 *,Won
+Dignitas,ENCE, 16, 11,inf,26,15,+11,1.40 *,Won
+Dignitas,GamePub, 16, 9,mrg,19,15,+4,1.17 *,Won
+Dignitas,Titan, 16, 8,inf,19,16,+3,1.15 *,Won
+Dignitas,Titan, 10, 16,nuke,15,17,-2,0.90 *,Won
+Dignitas,Titan, 12, 16,d2,16,20,-4,0.87 *,Won
+Dignitas,Titan, 16, 5,mrg,16,15,+1,1.09 *,Won
+Dignitas,Virtus.pro, 19, 17,inf,23,20,+3,1.07 *,Won
+Dignitas,Virtus.pro, 16, 8,mrg,19,14,+5,1.06 *,Won
+Dignitas,LDLC, 16, 3,inf,29,6,+23,2.41 *,Won
+Dignitas,LDLC, 15, 19,d2,19,23,-4,0.80 *,Won
+Dignitas,LDLC, 16, 14,nuke,23,18,+5,1.16 *,Won
+Dignitas,k1ck, 16, 5,nuke,15,11,+4,1.23 *,Won
+Dignitas,k1ck, 6, 16,d2,16,16,0,0.90 *,Won
+Dignitas,k1ck, 16, 2,mrg,20,7,+13,1.85 *,Won
+Dignitas,NiP, 5, 16,nuke,15,18,-3,0.91 *,Lost
+Dignitas,NiP, 6, 16,inf,11,18,-7,0.67 *,Lost
+Dignitas,HellRaisers, 16, 11,mrg,31,15,+16,1.75 *,Won
+Dignitas,HellRaisers, 16, 7,d2,18,14,+4,1.30 *,Won
+Dignitas,Reason, 16, 8,inf,17,17,0,1.05 *,Won
+Dignitas,iBUYPOWER, 16, 8,nuke,13,16,-3,0.80 *,Won
+Dignitas,Titan, 16, 11,inf,16,17,-1,0.88 *,Won
+Dignitas,mousesports, 16, 9,nuke,14,16,-2,0.88 *,Won
+Dignitas,NiP, 3, 16,nuke,8,18,-10,0.43 *,Lost
+Dignitas,fnatic, 5, 16,d2,10,16,-6,0.66 *,Lost
+Denmark,France, 16, 5,nuke,19,10,+9,1.65 *,Won
+Denmark,France, 16, 4,d2,26,8,+18,2.24 *,Won
+Denmark,France, 16, 11,trn,22,19,+3,1.12 *,Won
+Denmark,France, 12, 16,inf,20,19,+1,0.98 *,Won
+über G33KZ,n!faculty, 17, 19,nuke,30,25,+5,1.15 *,Lost
+über G33KZ,n!faculty, 5, 16,inf,15,17,-2,0.82 *,Lost
+über G33KZ,n!faculty, 16, 14,d2,15,15,0,0.96 *,Lost
+über G33KZ,Reason, 16, 0,inf,15,7,+8,1.46 *,Won
+über G33KZ,Reason, 16, 1,d2,16,6,+10,1.55 *,Won
+über G33KZ,NiP, 4, 16,nuke,13,18,-5,0.80 *,Lost
+über G33KZ,NiP, 7, 16,inf,8,19,-11,0.43 *,Lost
+über G33KZ,VeryGames, 16, 10,d2,19,17,+2,0.98 *,Won
+über G33KZ,VeryGames, 19, 15,nuke,36,20,+16,1.54 *,Won
+Denmark,Sweden, 21, 17,nuke,36,23,+13,1.42 *,Won
+Denmark,Sweden, 16, 3,trn,14,12,+2,1.07 *,Won
+Denmark,Sweden, 8, 16,d2,14,19,-5,0.78 *,Won
+Denmark,Russia, 16, 6,d2,21,15,+6,1.32 *,Won
+Denmark,Russia, 21, 18,nuke,29,27,+2,0.99 *,Won
+Denmark,Russia, 3, 16,inf,9,18,-9,0.50 *,Won
+Denmark,Germany, 16, 13,nuke,25,18,+7,1.17 *,Won
+Denmark,Germany, 16, 9,inf,29,13,+16,1.73 *,Won
+CPH Wolves,n!faculty, 16, 3,inf,23,7,+16,1.95 *,Won
+CPH Wolves,Reason, 16, 7,inf,22,13,+9,1.36 *,Won
+CPH Wolves,VeryGames, 12, 16,mrg,13,19,-6,0.73 *,Lost
+CPH Wolves,VeryGames, 16, 5,inf,11,10,+1,0.98 *,Lost
+CPH Wolves,VeryGames, 6, 16,d2,9,20,-11,0.50 *,Lost
+CPH Wolves,Astana Dragons, 16, 7,nuke,20,16,+4,1.30 *,Won
+CPH Wolves,SK, 16, 11,inf,19,16,+3,1.00 *,Won
+CPH Wolves,Natus Vincere, 13, 16,d2,20,21,-1,0.98 *,Lost
+CPH Wolves,Natus Vincere, 8, 16,mrg,12,19,-7,0.66 *,Lost
+CPH Wolves,n!faculty, 19, 17,mrg,31,23,+8,1.30 *,Won
+CPH Wolves,IGG, 16, 7,inf,28,13,+15,1.69 *,Won
+CPH Wolves,n!faculty, 9, 16,d2,13,19,-6,0.72 *,Lost
+CPH Wolves,Refuse, 16, 5,nuke,21,11,+10,1.56 *,Won
+CPH Wolves,NiP, 6, 16,inf,14,19,-5,0.77 *,Lost
+CPH Wolves,NiP, 22, 26,mrg,29,35,-6,0.87 *,Lost
+CPH Wolves,NiP, 16, 14,d2,22,22,0,0.98 *,Lost
+CPH Wolves,VeryGames, 16, 14,mrg,25,20,+5,1.08 *,Won
+CPH Wolves,AWESOME, 16, 11,inf,30,13,+17,1.80 *,Won
+CPH Wolves,solemn, 16, 7,inf,21,8,+13,1.55 *,Won
+CPH Wolves,NiP, 10, 16,d2,22,17,+5,1.23 *,Lost
+CPH Wolves,ESC, 16, 6,nuke,22,14,+8,1.53 *,Won
+CPH Wolves,Astana Dragons, 8, 16,inf,16,19,-3,0.82 *,Lost
+CPH Wolves,VeryGames, 14, 16,mrg,22,25,-3,0.94 *,Lost
+CPH Wolves,VeryGames, 10, 16,d2,21,19,+2,1.14 *,Lost
+CPH Wolves,fnatic, 16, 14,inf,21,19,+2,1.06 *,Won
+CPH Wolves,Begrip, 16, 1,d2,21,5,+16,1.98 *,Won
+CPH Wolves,VeryGames, 6, 16,mrg,14,15,-1,0.98 *,Lost
+CPH Wolves,VeryGames, 16, 12,nuke,29,23,+6,1.36 *,Lost
+CPH Wolves,VeryGames, 12, 16,d2,17,20,-3,0.84 *,Lost
+CPH Wolves,NiP, 10, 16,d2,18,19,-1,0.91 *,Lost
+CPH Wolves,NiP, 3, 16,mrg,5,17,-12,0.31 *,Lost
+CPH Wolves,NiP, 16, 14,inf,27,20,+7,1.39 *,Lost
+CPH Wolves,Curse, 16, 3,inf,23,9,+14,1.96 *,Won
+CPH Wolves,3DMAX, 16, 7,d2,21,10,+11,1.40 *,Won
+CPH Wolves,ESC, 16, 14,nuke,20,19,+1,1.05 *,Won
+CPH Wolves,Sprintfox, 16, 5,inf,22,10,+12,1.52 *,Won
+CPH Wolves,Natus Vincere, 16, 6,d2,14,14,0,0.91 *,Won
+CPH Wolves,LDLC, 10, 16,nuke,16,16,0,1.05 *,Lost
+CPH Wolves,LDLC, 3, 16,inf,10,18,-8,0.54 *,Lost
+CPH Wolves,Virtus.pro, 16, 10,inf,15,14,+1,1.01 *,Won
+CPH Wolves,Reason, 16, 4,nuke,22,10,+12,1.65 *,Won
+CPH Wolves,Epsilon, 16, 11,inf,19,16,+3,1.01 *,Won
+CPH Wolves,Virtus.pro, 10, 16,d2,21,17,+4,1.11 *,Lost
+CPH Wolves,Wizards, 15, 15,d2,21,19,+2,Nil,Nil
+CPH Wolves,fnatic, 14, 16,nuke,27,18,+9,1.26 *,Lost
+CPH Wolves,EYES ON U, 16, 3,inf,18,6,+12,1.72 *,Won
+CPH Wolves,Virtus.pro, 13, 16,nuke,20,18,+2,1.05 *,Lost
+CPH Wolves,Epsilon, 16, 4,d2,19,9,+10,1.42 *,Won
+CPH Wolves,n!faculty, 15, 15,nuke,38,17,+21,Nil,Nil
+CPH Wolves,LDLC, 16, 7,inf,17,15,+2,1.05 *,Won
+CPH Wolves,LDLC, 16, 12,nuke,19,22,-3,0.87 *,Won
+CPH Wolves,NiP, 16, 8,nuke,26,12,+14,1.80 *,Won
+CPH Wolves,Absolute Legends, 16, 3,inf,17,11,+6,1.40 *,Won
+CPH Wolves,Anexis, 16, 4,inf,20,8,+12,1.64 *,Won
+CPH Wolves,Western Wolves, 21, 17,d2,27,23,+4,1.11 *,Won
+Xapso,eSpuma, 16, 3,nuke,20,7,+13,1.70 *,Won
+fnatic,LDLC, 7, 16,mrg,13,17,-4,0.81 *,Lost
+

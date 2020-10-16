@@ -1,0 +1,591 @@
+Benkai
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Paper Rex,Checkmate, 11, 16,inf,21,22,-1,1.07,Lost
+Paper Rex,Checkmate, 9, 16,trn,26,18,+8,1.37,Lost
+Paper Rex,Lucid Dream, 5, 16,mrg,11,19,-8,0.66,Lost
+Paper Rex,Lucid Dream, 4, 16,d2,19,15,+4,1.37,Lost
+Paper Rex,ViCi, 5, 16,mrg,7,18,-11,0.50,Lost
+Paper Rex,ViCi, 9, 16,inf,13,16,-3,0.76,Lost
+Paper Rex,ViCi, 16, 14,trn,19,20,-1,0.89,Lost
+HZ,D13, 8, 16,mrg,22,20,+2,1.23,Lost
+HZ,D13, 5, 16,trn,15,18,-3,0.87,Lost
+HZ,BTRG, 14, 16,nuke,30,19,+11,1.41,Lost
+HZ,BTRG, 10, 16,trn,21,19,+2,1.13,Lost
+HZ,Bren, 16, 11,d2,23,15,+8,1.39,Won
+HZ,Bren, 20, 22,nuke,23,31,-8,0.83,Won
+HZ,Bren, 16, 10,mrg,23,13,+10,1.33,Won
+HZ,Lucid Dream, 10, 16,inf,21,16,+5,1.25,Lost
+HZ,Lucid Dream, 16, 14,trn,32,16,+16,1.56,Lost
+HZ,Lucid Dream, 14, 16,d2,19,21,-2,0.95,Lost
+HZ,Maple, 25, 23,nuke,42,30,+12,1.35,Won
+HZ,Maple, 16, 6,inf,18,9,+9,1.45,Won
+HZ,SGINDOMIX, 16, 13,inf,27,12,+15,1.61,Won
+HZ,SGINDOMIX, 16, 6,d2,18,11,+7,1.34,Won
+HZ,Maple, 16, 10,mrg,25,18,+7,1.47,Won
+HZ,Maple, 16, 14,ovp,19,21,-2,1.09,Won
+HZ,Hard4U, 16, 13,mrg,23,23,0,1.12,Won
+HZ,Hard4U, 16, 11,d2,17,18,-1,1.11,Won
+HZ,Se7en, 16, 9,d2,27,10,+17,1.80,Won
+HZ,Se7en, 12, 16,mrg,19,19,0,0.99,Won
+HZ,Se7en, 19, 17,inf,29,22,+7,1.29,Won
+HZ,Hard4U, 14, 16,d2,17,25,-8,0.86,Lost
+HZ,Hard4U, 13, 16,mrg,15,23,-8,0.80,Lost
+HZ,Lucid Dream, 16, 14,mrg,19,18,+1,1.01,Won
+HZ,Lucid Dream, 6, 16,d2,12,16,-4,0.82,Won
+HZ,Lucid Dream, 16, 7,ovp,30,6,+24,2.07,Won
+HZ,Bren, 16, 12,trn,14,16,-2,0.88,Won
+HZ,Bren, 16, 10,d2,15,17,-2,1.15,Won
+HZ,Lucid Dream, 6, 16,nuke,14,15,-1,0.94,Lost
+HZ,Lucid Dream, 14, 16,inf,26,19,+7,1.28,Lost
+HZ,Lucid Dream, 16, 10,d2,17,13,+4,1.14,Lost
+dream[S]cape,NASR, 15, 19,nuke,28,21,+7,1.19,Lost
+dream[S]cape,NASR, 9, 16,d2,15,17,-2,0.85,Lost
+dream[S]cape,NASR, 19, 16,trn,25,24,+1,1.02,Lost
+dream[S]cape,Lucid Dream, 11, 16,trn,19,22,-3,0.89,Lost
+dream[S]cape,Lucid Dream, 8, 16,mrg,17,19,-2,0.93,Lost
+BOOT,Bren, 14, 16,trn,17,24,-7,0.84,Lost
+BOOT,Bren, 17, 19,inf,29,24,+5,1.09,Lost
+BOOT,Demise, 16, 10,d2,24,15,+9,1.42,Won
+BOOT,Ground Zero, 16, 9,d2,20,16,+4,1.31,Won
+BOOT,AUGUST, 9, 16,trn,18,20,-2,0.93,Lost
+BOOT,AUGUST, 13, 16,mrg,17,19,-2,0.92,Lost
+BOOT,BTRG, 17, 19,d2,33,22,+11,1.31,Lost
+BOOT,BTRG, 12, 16,mrg,21,15,+6,1.46,Lost
+BOOT,Darkhorse, 19, 16,mrg,39,20,+19,1.68,Won
+BOOT,Darkhorse, 16, 4,trn,10,7,+3,1.34,Won
+BOOT,Goodfellas, 16, 4,nuke,25,10,+15,1.79,Won
+BOOT,VTE, 16, 1,nuke,16,7,+9,1.46,Won
+BOOT,GTV.Revolution, 16, 3,d2,19,6,+13,1.74,Won
+BOOT,BTRG, 16, 13,nuke,29,19,+10,1.51,Won
+BOOT,BTRG, 16, 7,d2,21,11,+10,1.45,Won
+BOOT,BTRG, 16, 7,mrg,18,12,+6,1.28,Won
+BOOT,Lucid Dream, 12, 16,d2,20,19,+1,1.03,Lost
+BOOT,Lucid Dream, 12, 16,mrg,17,18,-1,0.86,Lost
+BOOT,Alpha Red, 3, 16,trn,9,17,-8,0.70,Lost
+BOOT,Alpha Red, 16, 6,mrg,21,13,+8,1.59,Lost
+BOOT,Alpha Red, 11, 16,inf,23,24,-1,1.06,Lost
+BOOT,LaZe, 19, 15,trn,23,20,+3,1.13,Won
+BOOT,LaZe, 16, 9,mrg,25,12,+13,1.71,Won
+BOOT,LaZe, 25, 28,nuke,40,39,+1,1.05,Won
+BOOT,JavsrieN, 16, 3,mrg,14,5,+9,1.49,Won
+BOOT,JavsrieN, 16, 7,nuke,19,12,+7,1.37,Won
+BOOT,LaZe, 16, 10,trn,16,17,-1,1.06,Won
+BOOT,LaZe, 16, 10,nuke,17,15,+2,1.10,Won
+BOOT,LaZe, 10, 16,mrg,20,15,+5,1.33,Won
+BOOT,JavsrieN, 16, 13,mrg,18,18,0,0.98,Won
+BOOT,JavsrieN, 16, 7,vtg,26,10,+16,1.71,Won
+BOOT,Invictus, 8, 16,mrg,17,19,-2,0.94,Lost
+BOOT,Invictus, 9, 16,vtg,25,13,+12,1.51,Lost
+BOOT,TYLOO, 9, 16,ovp,12,18,-6,0.70,Lost
+BOOT,TYLOO, 17, 19,vtg,29,25,+4,1.17,Lost
+BOOT,Invictus, 16, 11,vtg,18,19,-1,0.96,Won
+BOOT,Invictus, 16, 5,trn,20,11,+9,1.35,Won
+BOOT,Alpha Red, 16, 14,trn,22,20,+2,1.05,Won
+BOOT,Alpha Red, 5, 16,mrg,9,14,-5,0.77,Won
+BOOT,Alpha Red, 16, 7,vtg,20,13,+7,1.51,Won
+BOOT,Mazaalai, 16, 4,nuke,22,9,+13,1.96,Won
+BOOT,Mazaalai, 16, 5,d2,22,8,+14,1.68,Won
+BOOT,nomercy, 16, 3,vtg,21,8,+13,1.72,Won
+BOOT,nomercy, 16, 3,inf,30,6,+24,2.28,Won
+BOOT,AUGUST, 16, 11,nuke,22,14,+8,1.38,Won
+BOOT,AUGUST, 16, 7,d2,22,11,+11,1.57,Won
+BOOT,D13, 16, 2,nuke,18,10,+8,1.72,Won
+BOOT,Bren, 5, 16,trn,14,19,-5,0.85,Lost
+BOOT,Bren, 14, 16,nuke,19,20,-1,0.93,Lost
+BOOT,Bren, 16, 8,d2,19,15,+4,1.32,Lost
+BOOT,D13, 16, 8,nuke,25,10,+15,1.62,Won
+BOOT,Bren, 16, 8,inf,20,12,+8,1.41,Won
+BOOT,Bren, 14, 16,nuke,21,20,+1,1.01,Won
+BOOT,Bren, 16, 10,d2,32,20,+12,1.76,Won
+BOOT,Exodus, 16, 4,mrg,11,9,+2,0.98,Won
+BOOT,Exodus, 16, 7,trn,17,15,+2,1.42,Won
+BOOT,LaZe, 16, 2,vtg,13,7,+6,1.33,Won
+BOOT,XCN, 16, 8,d2,27,13,+14,1.74,Won
+BOOT,5POWER, 16, 12,d2,26,19,+7,1.33,Won
+BOOT,5POWER, 16, 6,nuke,14,11,+3,1.20,Won
+BOOT,Maple, 8, 16,mrg,20,20,0,1.28,Lost
+BOOT,Maple, 9, 16,d2,17,19,-2,1.07,Lost
+BOOT,5POWER, 16, 12,d2,20,19,+1,1.20,Won
+BOOT,Paradise, 16, 2,trn,11,6,+5,1.43,Won
+BOOT,Lucid Dream, 16, 12,d2,33,13,+20,1.85,Won
+BOOT,Lucid Dream, 16, 10,vtg,23,14,+9,1.44,Won
+BOOT,Beyond, 16, 11,inf,23,17,+6,1.49,Won
+BOOT,Beyond, 16, 12,d2,22,18,+4,1.27,Won
+BOOT,Beyond, 14, 16,mrg,27,19,+8,1.33,Won
+BOOT,ViCi, 10, 16,nuke,25,17,+8,1.44,Lost
+BOOT,ViCi, 10, 16,inf,24,18,+6,1.33,Lost
+BOOT,EHOME, 16, 8,inf,20,14,+6,1.26,Won
+BOOT,EHOME, 16, 9,trn,22,16,+6,1.38,Won
+BOOT,Lucid Dream, 16, 14,mrg,20,20,0,1.07,Won
+BOOT,Lucid Dream, 16, 10,nuke,16,16,0,0.98,Won
+BOOT,Bren, 16, 10,nuke,22,14,+8,1.29,Won
+BOOT,Bren, 16, 5,inf,15,13,+2,1.17,Won
+BOOT,OneThree, 16, 12,inf,20,16,+4,1.09,Won
+BOOT,Aster, 16, 19,inf,21,21,0,1.05,Lost
+BOOT,Alpha Red, 9, 16,d2,21,20,+1,1.27,Lost
+BOOT,Alpha Red, 14, 16,mrg,21,20,+1,1.05,Lost
+BOOT,Alpha Red, 16, 13,inf,18,18,0,0.99,Lost
+BOOT,Lucid Dream, 16, 9,mrg,24,10,+14,1.60,Won
+BOOT,Lucid Dream, 6, 16,nuke,13,18,-5,0.79,Won
+BOOT,Lucid Dream, 16, 13,d2,24,18,+6,1.37,Won
+BOOT,Beyond, 16, 5,inf,22,7,+15,1.68,Won
+BOOT,Beyond, 16, 6,d2,25,8,+17,1.99,Won
+BOOT,VG.Anthrax, 16, 3,inf,18,6,+12,1.46,Won
+BOOT,VG.Anthrax, 16, 8,trn,15,11,+4,1.15,Won
+BOOT,TYLOO, 14, 16,mrg,20,22,-2,1.04,Lost
+BOOT,TYLOO, 6, 16,inf,11,18,-7,0.73,Lost
+BOOT,MVP PK, 10, 16,inf,17,17,0,0.93,Lost
+BOOT,MVP PK, 9, 16,d2,8,21,-13,0.47,Lost
+BOOT,ViCi, 19, 16,d2,15,18,-3,0.91,Won
+BOOT,ViCi, 5, 16,mrg,11,16,-5,0.73,Won
+BOOT,ViCi, 16, 7,nuke,21,12,+9,1.57,Won
+BOOT,Alpha Red, 16, 11,nuke,28,16,+12,1.44,Won
+BOOT,Alpha Red, 16, 7,mrg,13,11,+2,1.16,Won
+BOOT-d[S],mousesports, 6, 16,trn,24,17,+7,1.46,Lost
+BOOT-d[S],mousesports, 2, 16,mrg,10,16,-6,0.77,Lost
+BOOT-d[S],Liquid, 9, 16,nuke,15,19,-4,0.82,Lost
+BOOT-d[S],5POWER, 9, 16,mrg,22,17,+5,1.16,Lost
+BOOT-d[S],5POWER, 16, 8,trn,17,18,-1,0.96,Lost
+BOOT-d[S],5POWER, 9, 16,inf,17,17,0,0.96,Lost
+BOOT-d[S],EHOME, 16, 13,nuke,19,17,+2,1.14,Won
+BOOT-d[S],EHOME, 16, 14,inf,23,17,+6,1.36,Won
+BOOT-d[S],EHOME, 5, 16,d2,16,16,0,1.09,Won
+BOOT-d[S],BTRG, 16, 11,d2,18,19,-1,1.03,Won
+BOOT-d[S],BTRG, 11, 16,trn,17,21,-4,0.89,Won
+BOOT-d[S],BTRG, 22, 20,mrg,32,24,+8,1.33,Won
+BOOT-d[S],Alpha Red, 14, 16,trn,21,20,+1,1.17,Lost
+BOOT-d[S],Alpha Red, 3, 16,d2,7,17,-10,0.44,Lost
+BOOT-d[S],Alpha Red, 16, 14,mrg,26,16,+10,1.35,Lost
+BOOT-d[S],Entity, 16, 2,mrg,17,6,+11,1.77,Won
+BOOT-d[S],Entity, 16, 2,inf,16,8,+8,1.53,Won
+BOOT-d[S],MVP PK, 5, 16,nuke,10,19,-9,0.64,Lost
+BOOT-d[S],MVP PK, 4, 16,d2,9,16,-7,0.65,Lost
+BOOT-d[S],Grayhound, 13, 16,d2,14,19,-5,0.87,Lost
+BOOT-d[S],Global, 16, 9,d2,22,14,+8,1.39,Won
+BOOT-d[S],AOES, 14, 16,mrg,21,21,0,1.04,Lost
+BOOT-d[S],Beyond, 16, 10,cch,23,15,+8,1.40,Won
+BOOT-d[S],Beyond, 19, 17,inf,42,23,+19,1.56,Won
+BOOT-d[S],RRQ, 19, 16,d2,26,20,+6,1.30,Won
+BOOT-d[S],Lucid Dream, 16, 13,mrg,27,18,+9,1.40,Won
+BOOT-d[S],Lucid Dream, 16, 11,trn,21,12,+9,1.32,Won
+BOOT-d[S],Lucid Dream, 16, 12,nuke,18,16,+2,1.07,Won
+BOOT-d[S],Alpha Red, 16, 9,d2,22,18,+4,1.33,Won
+BOOT-d[S],Alpha Red, 16, 13,nuke,20,19,+1,1.18,Won
+BOOT-d[S],TNC, 19, 17,mrg,19,20,-1,0.94,Won
+BOOT-d[S],TNC, 16, 5,cch,20,11,+9,1.55,Won
+BOOT-d[S],Beyond, 16, 9,nuke,19,13,+6,1.19,Won
+BOOT-d[S],Beyond, 16, 1,mrg,13,8,+5,1.38,Won
+BOOT-d[S],Entity, 16, 14,mrg,25,17,+8,1.35,Won
+BOOT-d[S],Entity, 16, 6,inf,19,13,+6,1.40,Won
+BOOT-d[S],NASR, 8, 16,mrg,10,18,-8,0.74,Lost
+BOOT-d[S],NASR, 14, 16,inf,21,19,+2,0.95,Lost
+BOOT-d[S],FrostFire, 16, 11,inf,18,16,+2,1.11,Won
+BOOT-d[S],FrostFire, 16, 9,mrg,22,13,+9,1.31,Won
+BOOT-d[S],MVP PK, 16, 13,mrg,23,16,+7,1.16,Won
+BOOT-d[S],MVP PK, 16, 14,inf,26,19,+7,1.39,Won
+BOOT-d[S],Vindicta, 10, 16,inf,14,19,-5,0.90,Lost
+BOOT-d[S],Vindicta, 16, 8,nuke,17,12,+5,1.34,Lost
+BOOT-d[S],Vindicta, 14, 16,cch,26,18,+8,1.36,Lost
+BOOT-d[S],SCARZ Absolute, 10, 16,mrg,13,20,-7,0.71,Lost
+BOOT-d[S],SCARZ Absolute, 14, 16,cch,27,20,+7,1.39,Lost
+BOOT-d[S],SCARZ Absolute, 16, 9,inf,15,12,+3,1.16,Lost
+BOOT-d[S],MiTH, 16, 14,inf,24,19,+5,1.20,Won
+BOOT-d[S],MiTH, 9, 16,trn,17,17,0,1.05,Won
+BOOT-d[S],MiTH, 16, 5,cch,17,11,+6,1.56,Won
+BOOT-d[S],CyberZen, 14, 16,nuke,23,19,+4,1.23,Lost
+BOOT-d[S],CyberZen, 5, 16,inf,11,16,-5,0.77,Lost
+BOOT-d[S],CyberZen, 16, 9,trn,21,16,+5,1.15,Lost
+BOOT-d[S],EHOME, 16, 10,trn,22,11,+11,1.41,Won
+BOOT-d[S],EHOME, 16, 14,inf,16,15,+1,1.04,Won
+BOOT-d[S],TNC, 16, 1,nuke,15,9,+6,1.58,Won
+BOOT-d[S],TNC, 16, 5,inf,17,11,+6,1.28,Won
+BOOT-d[S],SCARZ Absolute, 14, 16,mrg,20,23,-3,0.95,Lost
+BOOT-d[S],SCARZ Absolute, 16, 14,inf,26,13,+13,1.44,Lost
+BOOT-d[S],SCARZ Absolute, 13, 16,cch,25,21,+4,1.14,Lost
+BOOT-d[S],MVP PK, 4, 16,mrg,7,19,-12,0.54,Lost
+BOOT-d[S],MVP PK, 12, 16,nuke,19,20,-1,0.94,Lost
+BOOT-d[S],Beyond, 16, 10,cch,28,12,+16,1.61,Won
+BOOT-d[S],Beyond, 16, 11,mrg,30,15,+15,1.70,Won
+BOOT-d[S],EHOME, 16, 9,nuke,22,14,+8,1.37,Won
+BOOT-d[S],BTRG, 19, 15,inf,24,17,+7,1.21,Won
+BOOT-d[S],Gambit, 10, 16,nuke,19,20,-1,1.03,Lost
+BOOT-d[S],Gambit, 19, 22,trn,30,30,0,1.00,Lost
+BOOT-d[S],TYLOO, 7, 16,mrg,13,18,-5,0.71,Lost
+BOOT-d[S],TYLOO, 4, 16,d2,11,17,-6,0.70,Lost
+BOOT-d[S],Gambit, 16, 12,trn,21,17,+4,1.14,Won
+BOOT-d[S],Grayhound, 14, 16,d2,18,21,-3,1.04,Lost
+BOOT-d[S],Grayhound, 10, 16,nuke,10,20,-10,0.61,Lost
+BOOT-d[S],Signature, 16, 5,inf,16,7,+9,1.34,Won
+BOOT-d[S],Signature, 16, 10,trn,19,16,+3,1.01,Won
+BOOT-d[S],Renegades, 6, 16,cch,14,19,-5,0.89,Lost
+BOOT-d[S],Renegades, 5, 16,d2,14,14,0,0.94,Lost
+BOOT-d[S],VG.Flash, 16, 12,inf,13,16,-3,1.04,Won
+BOOT-d[S],VG.Flash, 16, 9,d2,22,11,+11,1.43,Won
+BOOT-d[S],VG.Flash, 13, 16,cch,21,21,0,1.06,Won
+BOOT-d[S],Renegades, 8, 16,trn,15,17,-2,0.91,Lost
+BOOT-d[S],Devious , 16, 1,d2,11,8,+3,1.30,Won
+BOOT-d[S],Devious , 16, 7,nuke,29,11,+18,1.67,Won
+BOOT-d[S],Renegades, 7, 16,trn,14,18,-4,0.81,Lost
+BOOT-d[S],Renegades, 8, 16,cch,13,19,-6,0.80,Lost
+BOOT-d[S],FaZe, 9, 16,d2,12,23,-11,0.63,Lost
+BOOT-d[S],Lucid Dream, 16, 11,mrg,30,18,+12,1.48,Won
+BOOT-d[S],Lucid Dream, 16, 14,d2,35,16,+19,1.94,Won
+BOOT-d[S],Lucid Dream, 16, 11,cch,32,15,+17,1.79,Won
+BOOT-d[S],MVP PK, 19, 17,inf,31,21,+10,1.29,Won
+BOOT-d[S],MVP PK, 16, 8,cch,18,13,+5,1.30,Won
+BOOT-d[S],Beyond, 16, 8,mrg,19,15,+4,1.39,Won
+BOOT-d[S],Beyond, 12, 16,cch,16,22,-6,0.94,Won
+BOOT-d[S],Beyond, 16, 6,d2,30,12,+18,2.38,Won
+BOOT-d[S],Signature, 16, 8,mrg,22,12,+10,1.42,Won
+BOOT-d[S],Signature, 16, 8,cch,29,15,+14,1.93,Won
+BOOT-d[S],Lucid Dream, 13, 16,d2,17,22,-5,0.97,Lost
+BOOT-d[S],Lucid Dream, 14, 16,cch,20,22,-2,0.98,Lost
+BOOT-d[S],Lucid Dream, 19, 17,mrg,32,20,+12,1.41,Lost
+BOOT-d[S],5POWER, 22, 25,inf,26,39,-13,0.81,Lost
+BOOT-d[S],5POWER, 16, 12,cch,13,20,-7,0.78,Lost
+BOOT-d[S],5POWER, 13, 16,mrg,14,24,-10,0.91,Lost
+BOOT-d[S],BDO, 16, 5,inf,23,10,+13,1.63,Won
+BOOT-d[S],BDO, 16, 10,trn,28,12,+16,1.82,Won
+BOOT-d[S],TYLOO, 16, 3,cch,17,10,+7,1.61,Won
+BOOT-d[S],TYLOO, 19, 17,mrg,30,30,0,1.30,Won
+BOOT-d[S],TYLOO, 12, 16,d2,21,21,0,1.15,Won
+BOOT-d[S],TYLOO, 16, 1,inf,17,11,+6,1.50,Won
+BOOT-d[S],VG.Flash, 16, 11,cch,21,16,+5,1.38,Won
+BOOT-d[S],VG.Flash, 16, 5,trn,21,12,+9,1.78,Won
+BOOT-d[S],Recca, 16, 8,d2,22,15,+7,1.63,Won
+BOOT-d[S],Recca, 16, 3,cch,22,11,+11,2.09,Won
+BOOT-d[S],MVP PK, 16, 10,trn,21,18,+3,1.21,Won
+BOOT-d[S],MVP PK, 16, 13,cch,23,18,+5,1.22,Won
+BOOT-d[S],MVP PK, 6, 16,inf,9,17,-8,0.71,Won
+BOOT-d[S],TYLOO, 6, 16,inf,10,19,-9,0.72,Lost
+BOOT-d[S],TYLOO, 11, 16,mrg,24,17,+7,1.35,Lost
+BOOT-d[S],Fierce Tiger, 25, 23,mrg,30,31,-1,1.06,Won
+BOOT-d[S],Fierce Tiger, 16, 11,inf,23,19,+4,1.25,Won
+BOOT-d[S],TYLOO, 2, 16,trn,10,17,-7,0.69,Lost
+BOOT-d[S],TYLOO, 16, 8,inf,29,14,+15,1.85,Lost
+BOOT-d[S],TYLOO, 14, 16,mrg,35,21,+14,1.66,Lost
+BOOT-d[S],NRG, 9, 16,inf,22,19,+3,1.08,Lost
+BOOT-d[S],NRG, 5, 16,cch,10,18,-8,0.71,Lost
+BOOT-d[S],mousesports, 6, 16,mrg,9,20,-11,0.60,Lost
+BOOT-d[S],Flash, 16, 7,ovp,12,16,-4,1.08,Won
+BOOT-d[S],Flash, 16, 10,mrg,24,17,+7,1.49,Won
+BOOT-d[S],Signature, 16, 6,cch,23,14,+9,1.57,Won
+BOOT-d[S],Signature, 16, 8,mrg,17,14,+3,1.12,Won
+BOOT-d[S],Recca, 16, 12,nuke,15,20,-5,0.89,Won
+BOOT-d[S],Recca, 16, 8,mrg,15,14,+1,1.15,Won
+BOOT-d[S],Signature, 7, 16,cbl,16,15,+1,1.05,Lost
+BOOT-d[S],Signature, 16, 19,cch,18,27,-9,0.76,Lost
+BOOT-d[S],Signature, 16, 12,mrg,23,18,+5,1.38,Lost
+BOOT-d[S],Recca, 16, 14,cbl,22,19,+3,1.35,Won
+BOOT-d[S],Recca, 16, 8,cch,17,17,0,1.16,Won
+BOOT-d[S],Mineski, 16, 12,trn,19,19,0,1.04,Won
+BOOT-d[S],Mineski, 16, 1,cbl,12,7,+5,1.55,Won
+BOOT-d[S],TYLOO, 5, 16,mrg,9,17,-8,0.68,Lost
+BOOT-d[S],TYLOO, 10, 16,inf,17,19,-2,0.82,Lost
+BOOT-d[S],TYLOO, 16, 5,cch,25,8,+17,2.11,Lost
+BOOT-d[S],TheMongolz, 16, 8,trn,15,16,-1,1.06,Won
+BOOT-d[S],TheMongolz, 16, 3,cbl,14,9,+5,1.24,Won
+BOOT-d[S],TheMongolz, 9, 16,mrg,17,16,+1,1.06,Won
+BOOT-d[S],MVP PK, 13, 16,mrg,25,20,+5,1.23,Lost
+BOOT-d[S],MVP PK, 14, 16,inf,20,21,-1,1.05,Lost
+CAS Lore,CAS Howl, 16, 7,d2,26,10,+16,1.75,Won
+BOOT-d[S],Spirit, 7, 16,cbl,22,17,+5,1.28,Lost
+BOOT-d[S],Spirit, 5, 16,mrg,13,19,-6,0.81,Lost
+BOOT-d[S],Flash, 16, 7,cch,21,19,+2,1.23,Won
+BOOT-d[S],Flash, 16, 6,mrg,15,15,0,1.20,Won
+BOOT-d[S],Flash, 9, 16,cbl,16,18,-2,0.94,Won
+BOOT-d[S],AGO, 6, 16,trn,14,18,-4,0.92,Lost
+BOOT-d[S],Swole Patrol, 16, 14,cch,19,22,-3,0.95,Won
+BOOT-d[S],AGO, 10, 16,mrg,16,21,-5,0.95,Lost
+BOOT-d[S],GODSENT, 1, 16,mrg,6,17,-11,0.43,Lost
+BOOT-d[S],Tainted Minds, 9, 16,cch,20,22,-2,1.00,Lost
+BOOT-d[S],Tainted Minds, 7, 16,mrg,20,20,0,1.11,Lost
+BOOT-d[S],NASR, 16, 3,nuke,18,6,+12,1.85,Won
+BOOT-d[S],NASR, 13, 16,mrg,18,21,-3,0.85,Won
+BOOT-d[S],NASR, 19, 17,cbl,33,24,+9,1.36,Won
+BOOT-d[S],MVP PK, 7, 16,nuke,19,19,0,1.15,Lost
+BOOT-d[S],MVP PK, 16, 5,mrg,19,9,+10,1.50,Lost
+BOOT-d[S],MVP PK, 8, 16,cbl,19,16,+3,1.22,Lost
+BOOT-d[S],Signature, 17, 19,trn,22,27,-5,0.88,Lost
+BOOT-d[S],Signature, 12, 16,mrg,15,21,-6,0.80,Lost
+BOOT-d[S],Signature, 16, 7,inf,23,12,+11,1.64,Lost
+BOOT-d[S],NSPR, 16, 6,mrg,19,10,+9,1.64,Won
+BOOT-d[S],NSPR, 16, 9,inf,17,14,+3,1.04,Won
+BOOT-d[S],MVP PK, 14, 16,nuke,22,23,-1,0.91,Lost
+BOOT-d[S],MVP PK, 3, 16,cbl,10,16,-6,0.61,Lost
+BOOT-d[S],Recca, 16, 14,trn,17,20,-3,0.79,Won
+BOOT-d[S],Recca, 19, 15,nuke,24,23,+1,1.09,Won
+BOOT-d[S],Recca, 10, 16,mrg,29,20,+9,1.63,Won
+BOOT-d[S],SCARZ Absolute, 16, 11,trn,30,17,+13,1.56,Won
+BOOT-d[S],NSPR, 16, 14,mrg,30,18,+12,1.44,Won
+BOOT-d[S],GameTV, 16, 14,mrg,23,20,+3,1.16,Won
+BOOT-d[S],5POWER, 16, 6,trn,12,12,0,1.00,Won
+BOOT-d[S],5POWER, 16, 3,mrg,18,8,+10,1.80,Won
+BOOT-d[S],24BHB, 16, 9,cch,19,12,+7,1.21,Won
+BOOT-d[S],24BHB, 16, 3,mrg,18,10,+8,1.52,Won
+BOOT-d[S],Eclipse, 16, 5,inf,17,9,+8,1.32,Won
+BOOT-d[S],Eclipse, 16, 3,mrg,28,5,+23,2.44,Won
+BOOT-d[S],Recca, 16, 13,cbl,35,20,+15,1.75,Won
+BOOT-d[S],Recca, 16, 10,mrg,18,13,+5,1.14,Won
+BOOT-d[S],ViCi, 16, 3,trn,22,8,+14,1.77,Won
+BOOT-d[S],ViCi, 16, 6,mrg,20,12,+8,1.43,Won
+BOOT-d[S],ViCi, 14, 16,inf,19,19,0,1.01,Won
+BOOT-d[S],ROAR, 16, 6,mrg,21,13,+8,1.48,Won
+BOOT-d[S],Recca, 19, 17,mrg,31,19,+12,1.38,Won
+BOOT-d[S],Signature, 16, 7,mrg,21,14,+7,1.46,Won
+BOOT-d[S],5POWER, 7, 16,cch,18,19,-1,0.95,Lost
+BOOT-d[S],Mineski, 16, 11,mrg,26,18,+8,1.51,Won
+BOOT-d[S],OPERATION.REKT, 16, 9,mrg,24,11,+13,1.62,Won
+BOOT-d[S],OPERATION.REKT, 16, 2,nuke,25,8,+17,2.28,Won
+BOOT-d[S],MVP PK, 6, 16,mrg,17,18,-1,0.99,Lost
+BOOT-d[S],EHOME, 16, 11,trn,21,18,+3,1.27,Won
+BOOT-d[S],Tainted Minds, 13, 16,mrg,26,23,+3,1.28,Lost
+BOOT-d[S],Tainted Minds, 9, 16,ovp,23,18,+5,1.36,Lost
+BOOT-d[S],Flash, 7, 16,inf,13,19,-6,0.67,Lost
+BOOT-d[S],Flash, 13, 16,inf,21,22,-1,1.08,Lost
+BOOT-d[S],Flash, 8, 16,cch,14,18,-4,0.94,Lost
+BOOT-d[S],Entity, 16, 11,inf,30,14,+16,1.70,Won
+BOOT-d[S],Entity, 16, 10,mrg,17,17,0,1.20,Won
+BOOT-d[S],Eclipse, 11, 16,inf,12,20,-8,0.74,Lost
+BOOT-d[S],Entity, 16, 14,trn,33,18,+15,1.78,Won
+BOOT-d[S],Quadruno, 16, 5,cch,16,10,+6,1.38,Won
+BOOT-d[S],Quadruno, 16, 13,inf,20,16,+4,1.18,Won
+BOOT-d[S],Quadruno, 16, 3,mrg,16,9,+7,1.22,Won
+BOOT-d[S],Secret[B]oys, 16, 12,nuke,26,18,+8,1.32,Won
+BOOT-d[S],NASR, 18, 22,inf,19,29,-10,0.77,Lost
+BOOT-d[S],NASR, 12, 16,ovp,18,21,-3,0.91,Lost
+BOOT-d[S],Vega Squadron, 3, 16,mrg,10,18,-8,0.62,Lost
+BOOT-d[S],Vega Squadron, 5, 16,inf,10,18,-8,0.59,Lost
+BOOT-d[S],GoldenMix, 16, 2,inf,11,5,+6,1.39,Won
+BOOT-d[S],GoldenMix, 16, 11,mrg,26,16,+10,1.40,Won
+BOOT-d[S],Vega Squadron, 10, 16,trn,23,22,+1,1.23,Lost
+BOOT-d[S],Vega Squadron, 19, 22,mrg,35,29,+6,1.26,Lost
+BOOT-d[S],Flash, 11, 16,mrg,20,21,-1,1.29,Lost
+BOOT-d[S],Flash, 13, 16,cch,25,21,+4,1.18,Lost
+BOOT-d[S],5POWER, 16, 4,mrg,20,12,+8,1.64,Won
+BOOT-d[S],5POWER, 16, 12,trn,23,18,+5,1.36,Won
+BOOT-d[S],MVP PK, 16, 12,trn,17,22,-5,0.94,Won
+BOOT-d[S],MVP PK, 19, 16,mrg,31,24,+7,1.39,Won
+BOOT-d[S],FIVE, 16, 13,inf,22,20,+2,1.35,Won
+BOOT-d[S],EMP, 5, 16,nuke,19,17,+2,1.17,Lost
+BOOT-d[S],MVP PK, 8, 16,inf,12,15,-3,0.83,Lost
+BOOT-d[S],MVP PK, 16, 8,nuke,26,12,+14,1.70,Won
+BOOT-d[S],5POWER, 12, 16,mrg,23,21,+2,1.15,Lost
+BOOT-d[S],5POWER, 12, 16,cch,13,22,-9,0.74,Lost
+BOOT-d[S],5POWER, 16, 11,mrg,22,15,+7,1.39,Won
+BOOT-d[S],ViCi, 10, 16,inf,10,20,-10,0.63,Lost
+BOOT-d[S],MAX, 16, 7,inf,15,15,0,1.06,Won
+BOOT-d[S],Recca, 16, 2,mrg,19,7,+12,1.89,Won
+BOOT-d[S],Recca, 11, 16,cch,22,22,0,1.12,Lost
+BOOT-d[S],Signature, 16, 11,mrg,22,14,+8,1.32,Won
+BOOT-d[S],Signature, 16, 2,cch,19,10,+9,1.71,Won
+BOOT-d[S],5POWER, 9, 16,inf,16,23,-7,0.75,Lost
+BOOT-d[S],5POWER, 16, 14,cch,22,18,+4,1.22,Lost
+BOOT-d[S],5POWER, 14, 16,mrg,20,25,-5,0.94,Lost
+BOOT-d[S],Cloud9, 2, 16,mrg,3,17,-14,0.26,Lost
+BOOT-d[S],SK, 2, 16,mrg,5,17,-12,0.35,Lost
+BOOT-d[S],ViCi, 6, 16,nuke,10,19,-9,0.70,Lost
+BOOT-d[S],ViCi, 8, 16,inf,15,18,-3,0.90,Lost
+BOOT-d[S],UYA, 16, 14,cch,29,20,+9,1.35,Won
+BOOT-d[S],UYA, 16, 14,trn,21,17,+4,1.15,Won
+BOOT-d[S],Flash, 13, 16,inf,19,19,0,1.06,Lost
+BOOT-d[S],Flash, 9, 16,ovp,14,19,-5,1.03,Lost
+BOOT-d[S],Eclipse.o, 16, 10,inf,20,16,+4,1.17,Won
+BOOT-d[S],Eclipse.o, 16, 9,cch,19,11,+8,1.34,Won
+BOOT-d[S],Chiefs, 14, 16,trn,23,19,+4,1.08,Lost
+BOOT-d[S],Chiefs, 5, 16,mrg,6,19,-13,0.42,Lost
+BOOT-d[S],TheMongolz, 16, 11,cch,17,16,+1,1.11,Won
+BOOT-d[S],TheMongolz, 16, 11,inf,17,17,0,0.93,Won
+BOOT-d[S],TheMongolz, 19, 21,cbl,42,25,+17,1.49,Won
+BOOT-d[S],Chiefs, 11, 16,cbl,19,18,+1,1.05,Lost
+BOOT-d[S],Chiefs, 16, 9,cch,17,14,+3,1.24,Lost
+BOOT-d[S],Chiefs, 14, 16,trn,24,21,+3,1.21,Lost
+BOOT-d[S],Signature, 16, 6,cch,16,11,+5,1.29,Won
+BOOT-d[S],Signature, 16, 10,mrg,24,13,+11,1.57,Won
+BOOT-d[S],Recca, 16, 2,cch,16,6,+10,1.45,Won
+BOOT-d[S],Chiefs, 9, 16,ovp,17,19,-2,0.88,Lost
+BOOT-d[S],TheMongolz, 16, 11,cch,17,19,-2,0.99,Won
+BOOT-d[S],NSPR, 16, 5,trn,18,12,+6,1.56,Won
+BOOT-d[S],Grayhound, 14, 16,trn,24,24,0,1.18,Lost
+BOOT-d[S],7642, 13, 16,trn,13,22,-9,0.63,Lost
+BOOT-d[S],Signature, 16, 6,cch,17,6,+11,1.45,Won
+BOOT-d[S],EHOME, 16, 3,mrg,23,7,+16,1.75,Won
+BOOT-d[S],UYA, 16, 13,cch,18,21,-3,0.97,Won
+BOOT-d[S],nxl, 16, 10,trn,25,12,+13,1.54,Won
+BOOT-d[S],HegemonyPerson, 16, 4,mrg,17,12,+5,1.52,Won
+BOOT-d[S],TYLOO, 16, 8,trn,24,16,+8,1.56,Won
+BOOT-d[S],TYLOO, 6, 16,ovp,13,20,-7,0.86,Won
+BOOT-d[S],TYLOO, 16, 11,cbl,24,17,+7,1.40,Won
+BOOT-d[S],ViCi, 16, 12,mrg,22,18,+4,1.14,Won
+BOOT-d[S],ViCi, 16, 12,ovp,24,17,+7,1.38,Won
+BOOT-d[S],ViCi, 11, 16,trn,15,21,-6,0.75,Won
+BOOT-d[S],Grayhound, 16, 4,inf,9,11,-2,0.92,Won
+BOOT-d[S],Grayhound, 16, 8,trn,23,16,+7,1.45,Won
+BOOT-d[S],Signature, 16, 9,ovp,12,14,-2,0.85,Won
+BOOT-d[S],Signature, 16, 10,cbl,21,14,+7,1.29,Won
+BOOT-d[S],Insidious, 16, 3,ovp,14,10,+4,1.32,Won
+BOOT-d[S],Insidious, 16, 9,mrg,27,14,+13,1.73,Won
+BOOT-d[S],ViCi, 13, 16,mrg,20,21,-1,1.00,Lost
+BOOT-d[S],ViCi, 16, 9,ovp,20,16,+4,1.25,Lost
+BOOT-d[S],ViCi, 11, 16,cch,19,18,+1,1.13,Lost
+BOOT-d[S],Wings.Blue, 16, 3,inf,12,6,+6,1.27,Won
+BOOT-d[S],Wings.Blue, 16, 0,trn,17,4,+13,1.73,Won
+BOOT-d[S],MVP Project, 7, 16,inf,11,18,-7,0.72,Lost
+BOOT-d[S],MVP Project, 21, 25,trn,37,33,+4,1.20,Lost
+BOOT-d[S],Fire Dragoon, 16, 13,ovp,24,19,+5,Nil,Nil
+BOOT-d[S],Fire Dragoon, 13, 16,cch,17,22,-5,Nil,Nil
+BOOT-d[S],UTM, 16, 6,nuke,27,13,+14,1.84,Won
+BOOT-d[S],UTM, 16, 4,mrg,17,13,+4,1.40,Won
+BOOT-d[S],Mineski, 16, 2,ovp,12,6,+6,1.36,Won
+BOOT-d[S],Mineski, 16, 10,nuke,21,10,+11,1.47,Won
+BOOT-d[S],Recca, 16, 14,cch,23,19,+4,Nil,Nil
+BOOT-d[S],Recca, 16, 19,mrg,22,28,-6,Nil,Nil
+BOOT-d[S],Signature, 13, 16,mrg,34,22,+12,1.67,Lost
+BOOT-d[S],Signature, 11, 16,nuke,11,24,-13,0.60,Lost
+BOOT-d[S],NUT, 16, 9,nuke,15,15,0,1.02,Won
+BOOT-d[S],NUT, 16, 9,cch,14,14,0,1.05,Won
+BOOT-d[S],glassysky, 16, 7,mrg,22,15,+7,1.55,Won
+BOOT-d[S],glassysky, 16, 8,nuke,32,15,+17,1.85,Won
+BOOT-d[S],Mineski, 10, 16,nuke,20,21,-1,0.97,Lost
+BOOT-d[S],Mineski, 13, 16,inf,20,19,+1,1.05,Lost
+BOOT-d[S],JYP, 16, 14,trn,35,21,+14,Nil,Nil
+BOOT-d[S],JYP, 18, 22,inf,31,27,+4,Nil,Nil
+BOOT-d[S],MiTH, 16, 12,cch,26,19,+7,1.41,Won
+BOOT-d[S],MiTH, 16, 13,cbl,20,18,+2,1.04,Won
+BOOT-d[S],Sabertooth, 16, 6,mrg,15,12,+3,1.13,Won
+BOOT-d[S],Sabertooth, 16, 5,ovp,18,12,+6,1.47,Won
+BOOT-d[S],5POWER, 16, 9,nuke,18,16,+2,1.15,Won
+BOOT-d[S],5POWER, 19, 15,cch,32,23,+9,1.27,Won
+BOOT-d[S],fnatic Academy, 11, 16,cch,14,19,-5,0.83,Lost
+BOOT-d[S],fnatic Academy, 14, 16,trn,26,19,+7,1.26,Lost
+BOOT-d[S],TYLOO, 2, 16,ovp,13,16,-3,0.86,Lost
+BOOT-d[S],TYLOO, 11, 16,mrg,20,21,-1,1.12,Lost
+BOOT-d[S],Born Of Fire, 16, 10,nuke,25,16,+9,1.58,Won
+BOOT-d[S],Born Of Fire, 16, 11,ovp,22,16,+6,1.37,Won
+BOOT-d[S],Signature, 16, 11,ovp,20,18,+2,Nil,Nil
+BOOT-d[S],Signature, 13, 16,mrg,18,23,-5,Nil,Nil
+BOOT-d[S],7642, 13, 16,ovp,20,22,-2,1.27,Lost
+BOOT-d[S],7642, 13, 16,cch,29,20,+9,1.35,Lost
+BOOT-d[S],7642, 16, 6,mrg,15,13,+2,1.25,Lost
+dream[S]cape,Threats, 16, 2,d2,17,10,+7,1.77,Won
+dream[S]cape,5cent, 16, 5,nuke,17,11,+6,1.39,Won
+dream[S]cape,Signature, 7, 16,mrg,16,21,-5,0.96,Lost
+dream[S]cape,Signature, 3, 16,d2,9,17,-8,0.55,Lost
+dream[S]cape,PnGz, 16, 14,d2,28,18,+10,1.41,Won
+dream[S]cape,PnGz, 16, 5,ovp,17,13,+4,1.25,Won
+dream[S]cape,MiTH, 16, 12,ovp,20,20,0,1.26,Won
+dream[S]cape,TheMongolz, 13, 16,cbl,21,22,-1,1.13,Lost
+dream[S]cape,TheMongolz, 12, 16,mrg,22,24,-2,0.99,Lost
+dream[S]cape,TheMongolz, 4, 16,cch,10,15,-5,0.77,Lost
+dream[S]cape,Risky, 16, 13,mrg,25,21,+4,1.19,Won
+dream[S]cape,Risky, 16, 8,d2,19,16,+3,1.20,Won
+dream[S]cape,5POWER, 19, 17,trn,34,23,+11,1.44,Won
+dream[S]cape,5POWER, 16, 12,cch,26,16,+10,1.43,Won
+dream[S]cape,AVANT, 16, 4,nuke,22,7,+15,1.95,Won
+dream[S]cape,AVANT, 16, 11,d2,22,16,+6,1.37,Won
+dream[S]cape,Sabertooth, 16, 9,cch,21,16,+5,1.47,Won
+dream[S]cape,Sabertooth, 16, 11,trn,20,15,+5,1.20,Won
+dream[S]cape,VG.CyberZen, 7, 16,trn,12,18,-6,0.64,Lost
+dream[S]cape,VG.CyberZen, 7, 16,d2,17,20,-3,1.08,Lost
+dream[S]cape,Fire Dragoon, 11, 16,mrg,23,21,+2,1.32,Lost
+dream[S]cape,TheMongolz, 16, 12,mrg,27,17,+10,1.49,Won
+dream[S]cape,Orange, 16, 9,ovp,20,16,+4,1.42,Won
+dream[S]cape,Orange, 16, 6,nuke,18,10,+8,1.44,Won
+dream[S]cape,nxl, 16, 3,mrg,20,7,+13,1.97,Won
+dream[S]cape,YETTI, 16, 13,cbl,18,22,-4,1.02,Won
+dream[S]cape,TheMongolz, 14, 16,ovp,19,23,-4,0.96,Lost
+dream[S]cape,TheMongolz, 16, 11,mrg,15,18,-3,0.87,Lost
+dream[S]cape,TheMongolz, 3, 16,d2,15,18,-3,1.21,Lost
+dream[S]cape,New4, 16, 6,d2,27,14,+13,1.97,Won
+dream[S]cape,New4, 16, 1,ovp,14,7,+7,1.45,Won
+dream[S]cape,New4, 8, 16,cch,15,17,-2,0.76,Won
+dream[S]cape,MVP.karnal, 10, 16,mrg,22,22,0,1.03,Lost
+dream[S]cape,MVP.karnal, 11, 16,d2,25,22,+3,1.26,Lost
+dream[S]cape,Rebellion, 16, 10,nuke,22,16,+6,1.18,Won
+dream[S]cape,Rebellion, 13, 16,cbl,13,22,-9,0.74,Won
+dream[S]cape,Rebellion, 16, 8,mrg,18,17,+1,1.25,Won
+dream[S]cape,RHD, 16, 3,mrg,16,11,+5,1.32,Won
+dream[S]cape,RHD, 16, 13,trn,29,19,+10,1.64,Won
+Singapore,Denmark, 14, 16,mrg,21,27,-6,0.89,Lost
+Singapore,Denmark, 4, 16,d2,12,17,-5,0.77,Lost
+Singapore,Turkey, 1, 16,cch,6,16,-10,0.53,Lost
+Singapore,Denmark, 7, 16,mrg,17,19,-2,1.19,Lost
+Singapore,France, 7, 16,d2,14,20,-6,0.82,Lost
+Singapore,Canada, 4, 16,cch,16,18,-2,1.06,Lost
+Singapore,Tunisia, 16, 5,trn,20,8,+12,1.51,Won
+Singapore,Sweden, 8, 16,mrg,14,20,-6,0.73,Lost
+Singapore,Argentina, 16, 14,d2,31,20,+11,1.51,Won
+dream[S]cape,Born Of Fire, 16, 2,cbl,19,6,+13,1.67,Won
+dream[S]cape,VG.CyberZen, 9, 16,ovp,19,19,0,1.04,Lost
+dream[S]cape,VG.CyberZen, 9, 16,cch,18,21,-3,1.01,Lost
+dream[S]cape,AllGamers, 16, 10,mrg,29,17,+12,1.55,Won
+dream[S]cape,AllGamers, 16, 14,cbl,31,19,+12,1.39,Won
+dream[S]cape,Risky, 25, 23,cbl,43,29,+14,1.44,Won
+dream[S]cape,Risky, 16, 8,trn,35,14,+21,1.91,Won
+dream[S]cape,MVP.karnal, 22, 20,cch,47,26,+21,1.61,Won
+dream[S]cape,Risky, 8, 16,trn,15,17,-2,0.86,Lost
+dream[S]cape,nxl, 16, 11,trn,27,12,+15,1.63,Won
+dream[S]cape,VG.CyberZen, 11, 16,nuke,22,18,+4,1.09,Lost
+dream[S]cape,VG.CyberZen, 12, 16,ovp,19,24,-5,0.91,Lost
+dream[S]cape,Brutality, 16, 9,cch,27,13,+14,1.65,Won
+dream[S]cape,Brutality, 16, 11,trn,27,15,+12,1.64,Won
+dream[S]cape,Mineski, 16, 10,ovp,24,16,+8,1.56,Won
+dream[S]cape,Mineski, 19, 16,d2,22,22,0,1.04,Won
+dream[S]cape,Mineski, 12, 16,mrg,27,19,+8,1.42,Won
+dream[S]cape,TheMongolz, 7, 16,cch,20,16,+4,1.27,Lost
+dream[S]cape,TheMongolz, 9, 16,cbl,16,18,-2,0.82,Lost
+dream[S]cape,TheMongolz, 16, 14,mrg,25,21,+4,1.15,Lost
+dream[S]cape,MiTH, 16, 10,mrg,30,13,+17,1.68,Won
+dream[S]cape,MiTH, 19, 17,trn,27,28,-1,1.05,Won
+dream[S]cape,Signature, 16, 5,mrg,23,11,+12,1.71,Won
+dream[S]cape,Signature, 16, 1,d2,19,4,+15,2.05,Won
+Singapore,China, 8, 16,cbl,19,21,-2,1.15,Lost
+Singapore,China, 13, 16,mrg,19,24,-5,0.87,Lost
+Singapore,China, 11, 16,d2,18,20,-2,1.06,Lost
+Singapore,Indonesia, 16, 8,mrg,26,13,+13,1.40,Won
+Singapore,Indonesia, 16, 10,cbl,28,12,+16,1.59,Won
+Singapore,Indonesia, 10, 16,d2,25,18,+7,1.46,Won
+Singapore,Vietnam, 16, 13,mrg,29,17,+12,1.58,Won
+Singapore,Vietnam, 11, 16,cbl,23,18,+5,1.34,Won
+Singapore,Vietnam, 16, 12,d2,25,18,+7,1.23,Won
+Singapore,Philippines, 16, 7,cch,17,19,-2,1.10,Won
+Singapore,China, 13, 16,d2,17,24,-7,1.00,Lost
+Singapore,UAE, 16, 8,mrg,27,14,+13,1.79,Won
+Singapore,UAE, 16, 13,nuke,25,19,+6,1.30,Won
+dream[S]cape,TheMongolz, 3, 16,inf,13,15,-2,0.82,Lost
+dream[S]cape,TheMongolz, 5, 16,cch,19,17,+2,1.16,Lost
+dream[S]cape,xqR, 16, 5,inf,20,11,+9,1.51,Won
+dream[S]cape,xqR, 16, 5,trn,15,9,+6,1.37,Won
+dream[S]cape,TYLOO, 8, 16,mrg,19,19,0,1.14,Lost
+dream[S]cape,TYLOO, 9, 16,cbl,19,18,+1,0.97,Lost
+dream[S]cape,Mineski, 16, 10,inf,15,14,+1,1.03,Won
+dream[S]cape,MVP.karnal, 7, 16,mrg,18,18,0,1.14,Lost
+dream[S]cape,MVP.karnal, 4, 16,cch,5,17,-12,0.45,Lost
+dream[S]cape,MVP.karnal, 16, 14,cbl,21,21,0,1.02,Lost
+dream[S]cape,J2G, 16, 7,d2,25,15,+10,1.64,Won
+dream[S]cape,J2G, 16, 6,cbl,21,13,+8,1.57,Won
+dream[S]cape,MiTH, 16, 14,cbl,23,21,+2,1.22,Won
+dream[S]cape,MiTH, 16, 14,d2,24,22,+2,1.18,Won
+dream[S]cape,MiTH, 5, 16,cch,15,17,-2,0.95,Won
+dream[S]cape,MVP.karnal, 7, 16,ovp,15,19,-4,0.89,Lost
+dream[S]cape,MVP.karnal, 10, 16,cch,27,19,+8,1.42,Lost
+dream[S]cape,Risky, 16, 3,cbl,18,7,+11,1.85,Won
+dream[S]cape,MiTH, 8, 16,mrg,21,18,+3,1.37,Lost
+dream[S]cape,nxl, 16, 13,cch,27,20,+7,1.46,Won
+dream[S]cape,EMC, 16, 1,cch,15,6,+9,1.69,Won
+Insidious,T5, 16, 5,d2,23,13,+10,1.61 *,Won
+Insidious,T5, 16, 2,mrg,17,9,+8,1.45 *,Won
+Insidious,nxl, 14, 16,cbl,31,20,+11,1.33 *,Lost
+Insidious,Skyred, 2, 16,mrg,8,15,-7,0.60 *,Lost
+Insidious,Expendables, 16, 8,cch,23,11,+12,1.44 *,Won
+Insidious,Expendables, 16, 10,cbl,26,20,+6,1.49 *,Won
+Insidious,TheMongolz, 2, 16,cch,11,18,-7,0.74 *,Lost
+Insidious,TYLOO, 14, 16,cch,26,25,+1,1.03 *,Lost
+Insidious,Puzzle, 16, 7,trn,22,14,+8,Nil,Nil
+Insidious,TheMongolz, 3, 16,cbl,5,18,-13,0.26 *,Lost
+Insidious,TheMongolz, 6, 16,inf,7,21,-14,0.36 *,Lost
+Insidious,Miraculous Hawks, 16, 9,d2,21,15,+6,1.38 *,Won
+Insidious,Skyred, 5, 16,mrg,17,19,-2,0.92 *,Lost
+Insidious,MOTV, 16, 11,cch,25,15,+10,1.37 *,Won
+Insidious,TYLOO, 8, 16,mrg,17,17,0,0.93 *,Lost
+

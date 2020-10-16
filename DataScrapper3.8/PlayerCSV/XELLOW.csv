@@ -1,0 +1,684 @@
+XELLOW
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Nexus,Singularity, 16, 4,vtg,10,13,-3,0.95,Won
+Nexus,Nemiga, 16, 12,mrg,30,17,+13,1.53,Won
+Nexus,Endpoint, 16, 5,d2,22,9,+13,1.90,Won
+Nexus,PACT, 7, 16,inf,30,14,+16,1.90,Lost
+Nexus,SKADE, 16, 6,d2,14,16,-2,0.96,Won
+Nexus,Secret, 8, 16,d2,11,20,-9,0.54,Lost
+Nexus,Secret, 4, 16,inf,11,18,-7,0.71,Lost
+Nexus,Secret, 16, 9,mrg,16,13,+3,1.26,Lost
+Nexus,HellRaisers, 16, 14,inf,20,17,+3,1.01,Won
+Nexus,HellRaisers, 16, 13,vtg,12,20,-8,0.73,Won
+Nexus,HellRaisers, 13, 16,d2,17,18,-1,0.98,Won
+Nexus,CR4ZY, 16, 14,inf,22,16,+6,1.19,Won
+Nexus,CR4ZY, 7, 16,nuke,19,17,+2,1.16,Won
+Nexus,CR4ZY, 16, 9,d2,29,10,+19,1.95,Won
+Nexus,HellRaisers, 10, 16,inf,22,21,+1,1.13,Lost
+Nexus,HellRaisers, 6, 16,vtg,11,16,-5,0.69,Lost
+Nexus,HellRaisers, 16, 13,mrg,25,20,+5,1.33,Lost
+Nexus,Apeks, 16, 4,mrg,29,8,+21,2.37,Won
+Nexus,Apeks, 19, 17,nuke,28,27,+1,1.09,Won
+Nexus,HellRaisers, 13, 16,d2,14,20,-6,0.70,Lost
+Nexus,forZe, 22, 20,d2,42,32,+10,1.46,Won
+Nexus,SG.pro, 4, 16,vtg,15,17,-2,0.79,Lost
+Nexus,SG.pro, 13, 16,mrg,19,23,-4,1.01,Lost
+Nexus,SG.pro, 16, 14,trn,23,19,+4,1.16,Lost
+Nexus,HellRaisers, 7, 16,mrg,15,19,-4,0.88,Lost
+Nexus,HellRaisers, 11, 16,trn,18,22,-4,0.90,Lost
+Nexus,FATE, 16, 14,inf,21,20,+1,1.22,Won
+Nexus,FATE, 16, 9,vtg,29,13,+16,1.71,Won
+Nexus,FATE, 15, 19,trn,29,26,+3,1.11,Won
+Nexus,Unicorns of Love, 16, 11,nuke,21,19,+2,1.09,Won
+Nexus,Unicorns of Love, 16, 8,inf,25,14,+11,1.61,Won
+Nexus,CeX, 16, 9,inf,26,15,+11,1.38,Won
+Nexus,CeX, 16, 3,d2,20,8,+12,1.92,Won
+Nexus,CeX, 12, 16,ovp,16,24,-8,0.77,Won
+Nexus,x6tence, 13, 16,trn,13,19,-6,0.75,Lost
+Nexus,MAD Lions, 16, 6,inf,29,13,+16,2.01,Won
+Nexus,SJ, 14, 16,ovp,25,21,+4,1.22,Lost
+Nexus,SJ, 17, 19,mrg,41,23,+18,1.66,Lost
+Nexus,HellRaisers, 14, 16,mrg,29,21,+8,1.31,Lost
+Nexus,HellRaisers, 14, 16,inf,26,20,+6,1.26,Lost
+Nexus,Tikitakan, 16, 12,inf,26,17,+9,1.42,Won
+Nexus,Tikitakan, 10, 16,d2,16,19,-3,0.79,Won
+Nexus,Tikitakan, 16, 10,mrg,22,15,+7,1.25,Won
+Nexus,BLUEJAYS, 12, 16,mrg,22,20,+2,1.08,Lost
+Nexus,BLUEJAYS, 8, 16,ovp,19,19,0,1.06,Lost
+Nexus,Lyngby Vikings, 16, 14,trn,26,20,+6,1.39,Won
+Nexus,Lyngby Vikings, 16, 14,vtg,32,18,+14,1.50,Won
+Nexus,Berzerk, 9, 16,d2,12,20,-8,0.67,Lost
+Nexus,Berzerk, 9, 16,trn,18,17,+1,1.07,Lost
+Nexus,Berzerk, 16, 8,mrg,23,14,+9,1.47,Lost
+Nexus,Giants, 19, 16,inf,19,18,+1,1.08,Won
+Nexus,Giants, 16, 11,d2,34,15,+19,1.92,Won
+Nexus,sAw, 6, 16,inf,16,18,-2,0.96,Lost
+Nexus,sAw, 16, 8,d2,26,14,+12,1.63,Lost
+Nexus,sAw, 16, 19,vtg,24,24,0,1.13,Lost
+Nexus,BIG Academy, 16, 5,d2,21,11,+10,1.83,Won
+Nexus,BIG Academy, 16, 14,mrg,25,18,+7,1.27,Won
+Nexus,BIG Academy, 10, 16,ovp,14,21,-7,0.66,Won
+Nexus,Baecon, 16, 12,inf,27,16,+11,1.37,Won
+Nexus,Baecon, 16, 3,mrg,25,10,+15,2.01,Won
+Nexus,LDLC, 16, 6,vtg,19,14,+5,1.32,Won
+Nexus,LDLC, 16, 14,d2,17,19,-2,0.92,Won
+Nexus,LDLC, 11, 16,trn,25,20,+5,1.42,Won
+Nexus,LDLC, 11, 16,d2,20,19,+1,1.11,Lost
+Nexus,LDLC, 17, 19,trn,19,21,-2,1.02,Lost
+Nexus,TheDice, 16, 14,d2,23,20,+3,1.26,Won
+Nexus,TheDice, 16, 4,mrg,18,10,+8,1.69,Won
+Nexus,Wisla Krakow, 16, 19,mrg,28,24,+4,1.25,Lost
+Nexus,Wisla Krakow, 9, 16,trn,14,22,-8,0.68,Lost
+Nexus,AVEZ, 13, 16,ovp,15,22,-7,0.82,Lost
+Nexus,AVEZ, 9, 16,trn,20,18,+2,1.09,Lost
+Nexus,sAw, 11, 16,vtg,16,18,-2,0.91,Lost
+Nexus,sAw, 7, 16,d2,10,17,-7,0.70,Lost
+Nexus,sAw, 16, 7,trn,15,11,+4,1.11,Lost
+Nexus,Winstrike, 16, 12,vtg,27,16,+11,1.42,Won
+Nexus,Winstrike, 16, 12,mrg,24,23,+1,1.22,Won
+Nexus,HellRaisers, 16, 12,vtg,23,20,+3,1.17,Won
+Nexus,HellRaisers, 16, 13,d2,24,19,+5,1.28,Won
+Nexus,AGF, 1, 16,inf,9,14,-5,0.61,Lost
+Nexus,AGF, 9, 16,vtg,11,23,-12,0.61,Lost
+Nexus,HellRaisers, 19, 17,inf,33,24,+9,1.44,Won
+Nexus,HellRaisers, 16, 8,trn,17,14,+3,1.14,Won
+Nexus,HellRaisers, 10, 16,mrg,22,21,+1,1.09,Won
+Nexus,JackBoyz, 16, 8,trn,17,12,+5,1.18,Won
+Nexus,JackBoyz, 10, 16,vtg,26,20,+6,1.18,Won
+Nexus,JackBoyz, 16, 8,mrg,16,14,+2,1.31,Won
+Nexus,JackBoyz, 16, 7,d2,17,15,+2,1.16,Won
+Nexus,LF Org, 19, 16,mrg,30,26,+4,1.25,Won
+Nexus,LF Org, 16, 5,d2,21,9,+12,1.89,Won
+Nexus,LF Org, 13, 16,trn,23,19,+4,1.22,Won
+Nexus,Syman, 11, 16,inf,11,20,-9,0.64,Lost
+Nexus,Syman, 9, 16,ovp,17,21,-4,0.80,Lost
+Nexus,Syman, 22, 20,vtg,35,30,+5,1.20,Lost
+Nexus,Sinners, 16, 10,inf,16,19,-3,0.91,Won
+Nexus,Sinners, 16, 13,mrg,25,16,+9,1.28,Won
+Nexus,Illuminar, 16, 11,inf,17,19,-2,1.05,Won
+Nexus,Illuminar, 16, 11,trn,17,19,-2,0.98,Won
+Nexus,HAVU, 8, 16,ovp,9,20,-11,0.47,Lost
+Nexus,HAVU, 16, 14,d2,25,20,+5,1.17,Lost
+Nexus,HAVU, 14, 16,mrg,24,22,+2,1.19,Lost
+Nexus,SKADE, 14, 16,inf,27,19,+8,1.38,Lost
+Nexus,SKADE, 16, 8,mrg,34,13,+21,2.18,Lost
+Nexus,SKADE, 13, 16,ovp,24,21,+3,1.14,Lost
+Nexus,SKADE, 14, 16,ovp,12,23,-11,0.66,Lost
+Nexus,SKADE, 13, 16,inf,25,21,+4,1.28,Lost
+Nexus,Budapest Five, 16, 14,trn,19,21,-2,0.98,Won
+Nexus,Budapest Five, 13, 16,mrg,22,20,+2,1.07,Won
+Nexus,Budapest Five, 16, 14,inf,23,24,-1,0.97,Won
+Nexus,ARYO, 16, 9,inf,20,17,+3,1.16,Won
+Nexus,ARYO, 16, 7,ovp,17,11,+6,1.22,Won
+Nexus,ARYO, 13, 16,trn,22,23,-1,0.94,Won
+Nexus,ARYO, 6, 16,mrg,11,18,-7,0.55,Won
+Nexus,cooL, 16, 9,nuke,26,15,+11,1.68,Won
+Nexus,cooL, 19, 16,vtg,29,23,+6,1.37,Won
+Nexus,Dawn of Stars, 16, 6,trn,18,13,+5,1.28,Won
+Nexus,Dawn of Stars, 16, 9,inf,27,14,+13,1.62,Won
+Nexus,Dawn of Stars, 12, 16,ovp,9,23,-14,0.54,Won
+Nexus,Salamander, 14, 16,inf,24,22,+2,1.06,Lost
+Nexus,Salamander, 16, 6,mrg,19,13,+6,1.35,Lost
+Nexus,Salamander, 16, 19,nuke,29,27,+2,1.17,Lost
+Nexus,Budapest Five, 14, 16,inf,15,19,-4,0.90,Lost
+Nexus,Doxa, 16, 9,mrg,17,18,-1,1.13,Won
+Nexus,Doxa, 16, 9,inf,19,16,+3,1.25,Won
+Nexus,RedFear.wild, 16, 1,mrg,15,8,+7,1.52,Won
+Nexus,RedFear.wild, 16, 11,trn,22,16,+6,1.30,Won
+Nexus,Copenhagen Flames, 5, 16,trn,16,18,-2,1.08,Lost
+Nexus,Copenhagen Flames, 7, 16,ovp,14,20,-6,0.85,Lost
+Nexus,Copenhagen Flames, 16, 12,mrg,24,17,+7,1.42,Lost
+Nexus,Virtus.pro, 11, 16,mrg,19,18,+1,1.20,Lost
+Nexus,devils.one, 9, 16,mrg,9,19,-10,0.50,Lost
+Nexus,Unicorns of Love, 16, 14,cch,29,16,+13,1.58,Won
+Nexus,HoP, 12, 16,mrg,12,25,-13,0.55,Lost
+Nexus,Bojestvata, 5, 16,inf,17,19,-2,1.06,Lost
+Nexus,pro100, 2, 16,mrg,12,15,-3,0.90,Lost
+Nexus,GamePub, 16, 4,cch,19,8,+11,1.51,Won
+Nexus,Windigo, 10, 16,trn,19,17,+2,0.97,Lost
+Nexus,Windigo, 9, 16,mrg,17,20,-3,0.96,Lost
+Nexus,KUURA, 16, 10,mrg,23,15,+8,1.29,Lost
+Nexus,KUURA, 9, 16,d2,13,21,-8,0.79,Lost
+Nexus,Knock Out, 16, 4,nuke,16,12,+4,1.33,Won
+Nexus,Knock Out, 16, 3,mrg,20,9,+11,1.62,Won
+Nexus,RedFear, 16, 5,mrg,20,11,+9,1.52,Won
+Nexus,RedFear, 16, 10,ovp,21,17,+4,1.15,Won
+Nexus,Knock Out, 10, 16,cch,21,19,+2,1.06,Lost
+Nexus,Knock Out, 15, 19,mrg,23,26,-3,1.02,Lost
+Nexus,Tricked, 2, 16,trn,7,18,-11,0.52,Lost
+Nexus,Tricked, 16, 7,inf,22,12,+10,1.51,Lost
+Nexus,Tricked, 12, 16,mrg,20,20,0,1.00,Lost
+Nexus,Beyond, 16, 12,cch,22,18,+4,1.25,Won
+Nexus,Beyond, 9, 16,mrg,19,18,+1,1.04,Won
+Nexus,Beyond, 16, 14,d2,31,21,+10,1.51,Won
+Nexus,HAVU, 5, 16,mrg,16,19,-3,1.07,Lost
+Nexus,HAVU, 5, 16,nuke,14,20,-6,0.89,Lost
+Nexus,Aequus, 16, 5,mrg,22,11,+11,1.71,Won
+Nexus,Aequus, 16, 11,inf,21,17,+4,1.30,Won
+Nexus,Invictus, 16, 13,mrg,17,20,-3,1.05,Won
+Nexus,Invictus, 16, 9,inf,23,16,+7,1.35,Won
+Nexus,Berzerk, 16, 3,inf,22,9,+13,1.91,Won
+Nexus,Beyond, 16, 9,mrg,22,15,+7,1.38,Won
+Nexus,EURONICS, 17, 19,ovp,28,24,+4,1.19,Lost
+Nexus,EURONICS, 13, 16,inf,19,26,-7,0.93,Lost
+Nexus,EURONICS, 16, 6,mrg,23,16,+7,1.64,Lost
+Nexus,Arena Bulls, 16, 9,ovp,22,17,+5,1.58,Won
+Nexus,Arena Bulls, 8, 16,inf,11,21,-10,0.60,Won
+Nexus,Arena Bulls, 16, 14,cch,26,15,+11,1.35,Won
+Nexus,FCDB, 16, 2,cch,19,5,+14,1.87,Won
+NOM,topnotcheu, 5, 16,mrg,12,19,-7,0.74,Lost
+Nexus,Bpro, 12, 16,mrg,21,22,-1,0.99,Lost
+Nexus,Bpro, 5, 16,ovp,10,19,-9,0.44,Lost
+Nexus,Endpoint, 19, 16,inf,25,20,+5,1.39,Won
+Nexus,Endpoint, 8, 16,ovp,19,20,-1,1.01,Won
+Nexus,Endpoint, 16, 12,mrg,21,19,+2,1.11,Won
+Nexus,DreamEaters, 16, 12,trn,28,16,+12,1.49,Won
+Nexus,No Quarter Cartel, 16, 14,ovp,25,20,+5,1.36,Won
+Nexus,No Quarter Cartel, 16, 13,mrg,27,21,+6,1.42,Won
+Nexus,ALTERNATE aTTaX, 5, 16,inf,11,16,-5,0.79,Lost
+Nexus,ALTERNATE aTTaX, 16, 2,mrg,21,7,+14,1.89,Lost
+Nexus,ALTERNATE aTTaX, 8, 16,ovp,31,17,+14,1.82,Lost
+Nexus,Lyngby Vikings, 16, 7,trn,23,15,+8,1.59,Won
+Nexus,Lyngby Vikings, 3, 16,inf,5,17,-12,0.38,Won
+Nexus,Lyngby Vikings, 16, 3,cch,13,8,+5,1.35,Won
+Nexus,Vulture, 16, 4,mrg,20,12,+8,1.80,Won
+Nexus,Vulture, 16, 4,inf,16,12,+4,1.34,Won
+Nexus,unknown, 5, 16,inf,13,18,-5,0.95,Lost
+Nexus,Nova Academy, 16, 2,mrg,24,10,+14,2.13,Won
+Nexus,Bpro, 19, 15,cch,30,20,+10,1.38,Won
+Nexus,Bpro, 16, 12,mrg,23,18,+5,1.28,Won
+Nexus,Bpro, 8, 16,d2,14,22,-8,0.76,Won
+Nexus,Endpoint, 8, 16,ovp,10,17,-7,0.69,Lost
+Nexus,Endpoint, 10, 16,mrg,17,19,-2,1.11,Lost
+Nexus,Tricked, 9, 16,inf,17,20,-3,1.01,Lost
+Nexus,ALTERNATE aTTaX, 22, 20,mrg,34,27,+7,1.13,Won
+Nexus,Defusekids, 8, 16,inf,15,18,-3,0.94,Lost
+Nexus,LDLC, 2, 16,d2,7,18,-11,0.45,Lost
+Nexus,fish123, 12, 16,mrg,25,22,+3,1.18,Lost
+Nexus,Forge, 16, 2,trn,11,9,+2,1.26,Won
+Nexus,x-kom, 16, 6,mrg,17,10,+7,1.46,Won
+Nexus,Izako Boars, 13, 16,mrg,23,17,+6,1.25,Lost
+Nexus,Bpro, 14, 16,cch,25,19,+6,1.25,Lost
+Nexus,Bpro, 11, 16,mrg,20,17,+3,1.07,Lost
+Nexus,ENCE, 14, 16,ovp,20,19,+1,1.19,Lost
+Nexus,ENCE, 4, 16,mrg,6,18,-12,0.41,Lost
+Nexus,PLINK, 16, 12,mrg,27,18,+9,1.38,Won
+Nexus,PLINK, 16, 8,nuke,20,12,+8,1.25,Won
+Nexus,k1ck, 16, 8,mrg,23,13,+10,1.57,Won
+Nexus,k1ck, 16, 12,trn,29,16,+13,1.51,Won
+Nexus,Wind and Rain, 16, 9,cch,25,19,+6,1.44,Won
+Nexus,PLINK, 16, 3,mrg,16,11,+5,1.36,Won
+Nexus,SinnerS, 16, 2,trn,18,7,+11,1.67,Won
+Nexus,SinnerS, 17, 19,cch,21,26,-5,0.79,Won
+Nexus,SinnerS, 16, 9,mrg,21,13,+8,1.42,Won
+Nexus,Jail On Shooting, 16, 13,inf,33,23,+10,1.63,Won
+Nexus,Jail On Shooting, 16, 11,cch,12,20,-8,0.73,Won
+Nexus,toxic, 16, 5,inf,27,9,+18,2.10,Won
+Nexus,Winstrike, 16, 13,mrg,21,16,+5,Nil,Nil
+Nexus,Winstrike, 6, 16,inf,13,18,-5,Nil,Nil
+Nexus,KlikTech, 16, 12,inf,24,18,+6,1.16,Won
+Nexus,KlikTech, 16, 4,mrg,23,10,+13,1.79,Won
+Nexus,HEADSHOTBG, 16, 9,trn,19,14,+5,1.35,Won
+Nexus,HEADSHOTBG, 16, 11,mrg,20,13,+7,1.28,Won
+Nexus,x-kom, 16, 13,trn,30,19,+11,Nil,Nil
+Nexus,x-kom, 4, 16,mrg,15,18,-3,Nil,Nil
+Nexus,Bpro, 16, 11,mrg,26,14,+12,1.44,Won
+Nexus,Windigo, 10, 16,mrg,22,22,0,1.26,Lost
+Nexus,Bajini Puleni, 16, 13,inf,27,16,+11,1.48,Won
+Nexus,MK, 16, 0,inf,13,3,+10,1.72,Won
+Nexus,GameAgents, 16, 8,inf,19,12,+7,1.36,Won
+Nexus,MK, 4, 16,inf,14,15,-1,1.01,Lost
+Nexus,Bajini Puleni, 16, 11,trn,28,14,+14,1.64,Won
+Nexus,Windigo, 4, 16,trn,3,20,-17,0.23,Lost
+Nexus,Invictus Aquilas, 13, 16,nuke,24,24,0,Nil,Nil
+Nexus,Spirit, 11, 16,nuke,25,21,+4,1.23,Lost
+Nexus,Spirit, 16, 19,cch,28,23,+5,1.16,Lost
+Nexus,GameAgents, 12, 16,inf,30,18,+12,1.70,Lost
+Nexus,Invictus Aquilas, 16, 7,mrg,22,16,+6,1.36,Won
+Nexus,Ha MaSSe, 6, 16,mrg,20,18,+2,Nil,Nil
+Nexus,Ha MaSSe, 16, 9,nuke,21,15,+6,Nil,Nil
+Nexus,Valiance, 11, 16,mrg,16,23,-7,0.75,Lost
+Nexus,PRIDE, 16, 13,cch,30,21,+9,1.45,Won
+Nexus,PRIDE, 16, 13,inf,11,19,-8,0.88,Won
+Nexus,Playing Ducks, 16, 10,mrg,25,19,+6,1.36,Won
+Nexus,Playing Ducks, 16, 5,inf,25,12,+13,1.82,Won
+Nexus,Bpro, 16, 12,inf,24,17,+7,1.36,Won
+Nexus,Valiance, 1, 16,inf,12,15,-3,0.93,Lost
+Nexus,Fragsters, 5, 16,trn,11,20,-9,0.67,Lost
+Nexus,Fragsters, 10, 16,cch,18,20,-2,0.92,Lost
+Nexus,Red Reserve, 16, 11,cch,30,19,+11,1.53,Won
+Nexus,Vexed, 16, 10,inf,21,19,+2,1.25,Won
+Nexus,LDLC, 11, 16,mrg,25,19,+6,1.33,Lost
+Nexus,LDLC, 4, 16,nuke,20,17,+3,1.11,Lost
+Nexus,Izako Boars, 16, 6,mrg,24,10,+14,1.78,Won
+Nexus,Bajini Puleni, 19, 17,cbl,31,28,+3,1.20,Won
+Nexus,Bajini Puleni, 16, 9,inf,22,14,+8,1.36,Won
+Nexus,KlikTech, 16, 5,mrg,19,15,+4,1.34,Won
+Nexus,KlikTech, 16, 4,inf,14,10,+4,1.28,Won
+Nexus,fnatic Academy, 14, 16,cch,27,19,+8,1.34,Lost
+Nexus,GameAgents, 16, 13,cbl,25,21,+4,1.26,Won
+Nexus,Bajini Puleni, 5, 16,inf,15,16,-1,1.10,Lost
+Nexus,EPG, 12, 16,mrg,28,22,+6,1.38,Lost
+Nexus,EPG, 5, 16,nuke,9,18,-9,0.48,Lost
+Nexus,Izako Boars, 16, 13,nuke,22,16,+6,1.20,Won
+Nexus,Royal Bandits, 11, 16,inf,26,15,+11,1.42,Lost
+Nexus,Royal Bandits, 12, 16,mrg,16,21,-5,0.89,Lost
+Nexus,LDLC, 3, 16,cch,13,17,-4,0.96,Lost
+Nexus,Nemiga, 20, 22,inf,37,31,+6,1.27,Lost
+Nexus,Nemiga, 11, 16,cbl,19,19,0,1.08,Lost
+Nexus,Berzerk, 16, 9,mrg,28,11,+17,2.05,Won
+Nexus,Berzerk, 16, 6,cch,22,13,+9,1.58,Won
+Nexus,Berzerk, 6, 16,cbl,17,16,+1,1.04,Won
+Nexus,Vexed, 16, 10,cbl,28,16,+12,1.76,Won
+Nexus,XPC, 16, 10,cbl,18,16,+2,1.11,Won
+Nexus,XPC, 16, 13,cch,21,23,-2,1.16,Won
+Nexus,Wind and Rain, 10, 16,mrg,19,22,-3,1.08,Lost
+Nexus,EURONICS, 6, 16,cbl,21,16,+5,1.35,Lost
+Nexus,Bpro, 16, 3,mrg,16,9,+7,1.48,Won
+Nexus,Bpro, 16, 11,inf,21,10,+11,1.48,Won
+Nexus,Bpro, 14, 16,mrg,26,21,+5,1.17,Lost
+Nexus,Bpro, 4, 16,inf,11,16,-5,0.73,Lost
+Nexus,Bpro, 16, 2,nuke,25,10,+15,2.15,Won
+Nexus,Bpro, 16, 10,mrg,19,15,+4,1.28,Won
+Nexus,WE HAWT, 16, 13,inf,24,21,+3,1.24,Won
+Nexus,WE HAWT, 16, 5,cch,23,13,+10,1.59,Won
+Nexus,Epiphany Bolt, 16, 9,mrg,19,14,+5,1.27,Won
+Nexus,Epiphany Bolt, 16, 10,cch,22,16,+6,1.29,Won
+Nexus,Epsilon, 16, 12,cbl,17,14,+3,Nil,Nil
+Nexus,Epsilon, 12, 16,mrg,18,21,-3,Nil,Nil
+Nexus,Vexed, 5, 16,mrg,21,17,+4,1.33,Lost
+Nexus,Vexed, 16, 19,cbl,24,26,-2,1.10,Lost
+Nexus,Fragsters, 16, 6,mrg,22,11,+11,1.64,Won
+Nexus,Fragsters, 22, 18,inf,36,31,+5,1.26,Won
+Nexus,WASD, 6, 16,inf,9,18,-9,0.64,Lost
+Nexus,WASD, 16, 8,cbl,18,10,+8,1.35,Lost
+Nexus,WASD, 14, 16,nuke,26,21,+5,1.44,Lost
+Nexus,Asterion, 16, 9,inf,22,16,+6,1.25,Won
+Nexus,Asterion, 5, 16,cbl,20,16,+4,1.31,Won
+Nexus,Asterion, 16, 8,mrg,20,16,+4,1.34,Won
+Nexus,EPG, 17, 19,mrg,22,28,-6,0.79,Lost
+Nexus,PRIDE, 22, 20,inf,30,23,+7,1.09,Won
+Nexus,PRIDE, 16, 5,mrg,19,15,+4,1.48,Won
+Nexus,PRIDE, 9, 16,cch,20,21,-1,1.19,Won
+Nexus,DreamEaters, 16, 7,cbl,25,14,+11,1.61,Won
+Nexus,PRIDE, 11, 16,cch,19,21,-2,1.05,Lost
+Nexus,GODSENT, 6, 16,mrg,17,19,-2,1.02,Lost
+Nexus,BIG, 11, 16,cbl,23,18,+5,1.36,Lost
+Nexus,FlipSid3, 16, 10,mrg,25,16,+9,1.72,Won
+Nexus,EnVyUs Academy, 11, 16,cbl,15,21,-6,0.81,Lost
+Nexus,AVANGAR, 6, 16,mrg,10,18,-8,0.70,Lost
+Nexus,Kinguin, 12, 16,cbl,24,15,+9,1.43,Lost
+Nexus,Enyoy, 13, 16,mrg,28,20,+8,1.38,Lost
+Nexus,DreamEaters, 16, 5,mrg,16,16,0,1.09,Won
+Nexus,DreamEaters, 16, 10,inf,23,15,+8,1.30,Won
+Nexus,Virtus.pro, 14, 16,cbl,22,22,0,1.04,Lost
+Nexus,Property, 16, 6,mrg,30,11,+19,1.94,Won
+Nexus,forZe, 16, 4,mrg,23,13,+10,1.83,Won
+Nexus,k0pfsache, 16, 4,mrg,16,11,+5,1.27,Won
+Nexus,k0pfsache, 16, 3,cch,17,10,+7,1.42,Won
+Nexus,Nemiga, 4, 16,mrg,17,16,+1,0.97,Lost
+Nexus,Nemiga, 14, 16,ovp,23,24,-1,1.06,Lost
+Nexus,Pompa, 16, 6,mrg,25,15,+10,1.71,Won
+Nexus,Pompa, 19, 15,cbl,30,21,+9,1.33,Won
+Nexus,GameAgents, 9, 16,cbl,23,16,+7,1.27,Lost
+Nexus,GameAgents, 10, 16,cch,26,16,+10,1.51,Lost
+Nexus,Bpro, 2, 16,nuke,5,18,-13,0.24,Lost
+Nexus,Bpro, 16, 10,cch,24,18,+6,1.34,Lost
+Nexus,Bpro, 12, 16,inf,13,19,-6,0.71,Lost
+Nexus,No Quarter Cartel, 16, 7,cbl,28,14,+14,1.81,Won
+Nexus,No Quarter Cartel, 16, 8,mrg,34,12,+22,2.06,Won
+Nexus,Royal Bandits, 5, 16,mrg,15,19,-4,1.06,Lost
+Nexus,Royal Bandits, 10, 16,cbl,21,20,+1,1.04,Lost
+Nexus,Space Jam, 16, 12,mrg,24,16,+8,1.40,Won
+Nexus,Space Jam, 16, 8,cbl,18,13,+5,1.44,Won
+Nexus,ALTERNATE aTTaX, 16, 10,mrg,20,16,+4,1.13,Won
+Nexus,Singularity, 14, 16,cbl,21,20,+1,1.14,Lost
+Nexus,Singularity, 10, 16,mrg,23,17,+6,1.26,Lost
+Nexus,PRIDE, 16, 11,mrg,30,21,+9,1.67,Won
+Nexus,KPI, 16, 12,mrg,23,17,+6,1.19,Won
+Nexus,Asterion, 16, 14,cbl,30,19,+11,1.53,Won
+Nexus,Red Reserve, 11, 16,mrg,28,21,+7,1.44,Lost
+Nexus,Fragsters, 5, 16,mrg,11,17,-6,0.82,Lost
+Nexus,Fragsters, 8, 16,inf,12,19,-7,0.64,Lost
+Nexus,FORTHEBOYS, 16, 10,ovp,40,16,+24,2.43,Won
+Nexus,FORTHEBOYS, 16, 13,cbl,18,18,0,1.05,Won
+Nexus,DreamEaters, 16, 4,nuke,20,11,+9,1.41,Won
+Nexus,DreamEaters, 16, 8,mrg,28,12,+16,1.64,Won
+Nexus,Spirit, 12, 16,cbl,25,21,+4,1.37,Lost
+Nexus,Singularity, 4, 16,ovp,15,19,-4,1.00,Lost
+Nexus,SEAL, 12, 16,mrg,20,23,-3,Nil,Nil
+Nexus,SEAL, 16, 14,nuke,33,18,+15,Nil,Nil
+Nexus,Pompa, 16, 5,ovp,19,13,+6,Nil,Nil
+Nexus,Pompa, 12, 16,nuke,26,20,+6,Nil,Nil
+Nexus,Espada, 16, 5,nuke,23,11,+12,1.66,Won
+Nexus,koppxd, 16, 11,nuke,27,20,+7,1.35,Won
+Nexus,koppxd, 16, 19,cch,31,27,+4,1.13,Won
+Nexus,koppxd, 19, 16,mrg,35,25,+10,1.49,Won
+Nexus,XPC, 22, 20,cbl,41,32,+9,1.32,Won
+Nexus,Windigo, 5, 16,ovp,11,20,-9,0.50,Lost
+Nexus,eXtatus, 14, 16,cch,29,20,+9,1.34,Lost
+Nexus,SJ, 12, 16,inf,27,21,+6,1.38,Lost
+Nexus,SJ, 9, 16,mrg,23,20,+3,1.31,Lost
+Nexus,x6tence, 20, 22,mrg,31,31,0,1.16,Lost
+Nexus,Windigo, 3, 16,trn,6,19,-13,0.28,Lost
+Nexus,Windigo, 14, 16,mrg,16,22,-6,0.90,Lost
+Nexus,pro100, 16, 9,cbl,22,16,+6,1.34,Won
+Nexus,pro100, 13, 16,mrg,24,21,+3,1.21,Won
+Nexus,pro100, 16, 7,cch,24,9,+15,1.69,Won
+Nexus,MK, 16, 6,mrg,15,13,+2,1.07,Won
+Nexus,MK, 16, 9,cch,22,17,+5,1.48,Won
+Nexus,MK, 9, 16,trn,26,18,+8,1.29,Won
+Nexus,Valiance, 9, 16,cbl,15,19,-4,0.80,Lost
+Nexus,Valiance, 3, 16,inf,11,18,-7,0.69,Lost
+Nexus,PRIDE, 16, 6,cch,18,15,+3,1.13,Won
+Nexus,PRIDE, 16, 13,mrg,28,19,+9,1.37,Won
+Nexus,PRIDE, 11, 16,cbl,19,21,-2,0.88,Won
+Nexus,Vexed, 11, 16,cbl,22,21,+1,1.15,Lost
+Nexus,AGO, 7, 16,ovp,11,20,-9,0.67,Lost
+Nexus,AGO, 9, 16,trn,23,22,+1,1.15,Lost
+Nexus,AGO, 16, 14,cch,23,20,+3,1.18,Lost
+SinnerS,Without Warning, 15, 19,inf,36,23,+13,1.54,Lost
+SinnerS,Without Warning, 16, 3,cch,18,11,+7,1.67,Lost
+SinnerS,Without Warning, 14, 16,ovp,20,20,0,1.11,Lost
+Nexus,WASD, 11, 16,inf,21,20,+1,1.04,Lost
+Nexus,WASD, 16, 10,cbl,23,14,+9,1.31,Lost
+Nexus,WASD, 11, 16,trn,24,22,+2,1.16,Lost
+Nexus,Spirit Academy, 16, 6,mrg,23,14,+9,1.76,Won
+Nexus,GameAgents, 16, 9,cch,17,14,+3,1.19,Won
+Nexus,5balls, 16, 6,ovp,20,13,+7,1.64,Won
+Nexus,Orion, 16, 8,cch,29,16,+13,1.80,Won
+Nexus,Orion, 16, 13,cbl,26,18,+8,1.33,Won
+Nexus,Windigo, 16, 14,cbl,21,19,+2,1.02,Won
+Nexus,x6tence, 16, 9,ovp,23,16,+7,1.58,Won
+Nexus,x6tence, 14, 16,cch,19,21,-2,0.84,Won
+Nexus,x6tence, 16, 8,inf,26,16,+10,1.51,Won
+Nexus,Next Generation, 16, 5,inf,27,11,+16,2.13,Won
+Nexus,Next Generation, 16, 13,cbl,21,22,-1,1.09,Won
+Nexus,WASD, 4, 16,nuke,9,19,-10,0.66,Lost
+Nexus,VenatoreS, 16, 14,mrg,28,21,+7,1.23,Won
+Nexus,WASD, 13, 16,ovp,24,20,+4,1.15,Lost
+Nexus,ZetMac, 16, 9,cch,17,17,0,1.24,Won
+Nexus,ZetMac, 16, 10,mrg,24,19,+5,1.41,Won
+Nexus,GameAgents, 8, 16,cch,18,18,0,1.20,Lost
+Nexus,forZe, 10, 16,cbl,15,21,-6,0.77,Lost
+Nexus,forZe, 16, 10,mrg,30,15,+15,1.71,Lost
+Nexus,forZe, 13, 16,trn,20,20,0,1.06,Lost
+Nexus,duttdutt, 16, 10,ovp,19,16,+3,1.13,Won
+Nexus,duttdutt, 16, 9,mrg,20,18,+2,1.24,Won
+Nexus,duttdutt, 11, 16,cch,24,22,+2,1.28,Won
+Nexus,Chiefs, 16, 6,ovp,23,10,+13,1.57,Won
+Nexus,Chiefs, 16, 13,mrg,25,17,+8,1.24,Won
+Nexus,Fire Dragoon, 16, 5,mrg,12,9,+3,1.11,Won
+Nexus,PROTEA, 16, 1,cbl,19,11,+8,1.63,Won
+Nexus,MVP PK, 13, 16,mrg,22,19,+3,1.09,Lost
+Nexus,SJ, 8, 16,cch,16,18,-2,0.86,Lost
+Nexus,Kinguin, 16, 13,cbl,24,21,+3,1.23,Won
+Nexus,Crowns, 16, 7,cch,25,15,+10,1.66,Won
+Nexus,ALTERNATE aTTaX, 7, 16,cbl,13,19,-6,0.74,Lost
+Nexus,Seed, 19, 17,mrg,33,24,+9,1.25,Won
+Nexus,Endpoint, 14, 16,mrg,24,20,+4,1.16,Lost
+Nexus,Gambit, 6, 16,mrg,12,16,-4,0.73,Lost
+Nexus,aAa, 16, 11,cch,17,15,+2,1.11,Won
+Nexus,Red Reserve, 16, 11,cbl,11,20,-9,0.67,Won
+Nexus,TEAM5, 14, 16,cch,24,22,+2,1.21,Lost
+Nexus,iGame.com, 13, 16,mrg,25,19,+6,1.32,Lost
+Nexus,RESISTANCE, 16, 13,trn,18,20,-2,0.93,Won
+Nexus,RESISTANCE, 16, 11,cbl,21,18,+3,1.13,Won
+Nexus,RESISTANCE, 14, 16,mrg,21,20,+1,1.03,Won
+Nexus,eXtatus, 16, 13,cbl,25,18,+7,1.37,Won
+Nexus,EnVyUs Academy, 9, 16,cch,12,18,-6,0.79,Lost
+Nexus,EnVyUs Academy, 11, 16,inf,17,22,-5,0.94,Lost
+Nexus,ex-Outlaws, 14, 16,trn,29,21,+8,1.42,Lost
+Nexus,ex-Outlaws, 8, 16,cbl,19,17,+2,1.21,Lost
+Nexus,Virtus.pro, 16, 13,cch,35,17,+18,1.80,Won
+Nexus,MK, 10, 16,inf,17,21,-4,1.12,Lost
+Nexus,MK, 10, 16,trn,15,18,-3,0.95,Lost
+Nexus,MK, 22, 18,cbl,37,28,+9,1.37,Lost
+Nexus,Spirit Academy, 16, 8,cch,32,11,+21,2.15,Won
+Nexus,Spirit Academy, 16, 14,inf,20,19,+1,1.14,Won
+Nexus,FlipSid3, 4, 16,nuke,12,18,-6,0.73,Lost
+Nexus,Spirit, 19, 15,cbl,26,22,+4,1.28,Won
+Nexus,Binary Dragons, 6, 16,mrg,17,21,-4,0.94,Lost
+Nexus,Binary Dragons, 16, 13,cbl,22,20,+2,1.21,Lost
+Nexus,Binary Dragons, 4, 16,cch,18,18,0,1.34,Lost
+Nexus,GoodJob, 16, 13,cch,22,17,+5,1.18,Won
+Nexus,Method, 19, 17,cch,23,26,-3,1.02,Won
+Nexus,Invictus Aquilas, 12, 16,cbl,23,23,0,1.28,Lost
+Nexus,Binary Dragons, 16, 13,mrg,13,21,-8,0.75,Won
+Nexus,Binary Dragons, 19, 17,trn,19,22,-3,0.76,Won
+Nexus,Binary Dragons, 7, 16,cch,9,18,-9,0.67,Won
+Nexus,Squared, 16, 11,mrg,25,18,+7,1.26,Won
+Nexus,Squared, 16, 7,trn,21,16,+5,1.49,Won
+Nexus,FCSB, 16, 6,trn,16,10,+6,1.35,Won
+Nexus,FCSB, 16, 14,cch,28,17,+11,1.46,Won
+Nexus,Turning Point, 16, 4,mrg,28,13,+15,2.16,Won
+Nexus,Turning Point, 16, 4,cbl,13,7,+6,1.16,Won
+Nexus,GameAgents, 19, 17,cbl,26,25,+1,1.02,Won
+Nexus,GameAgents, 16, 7,mrg,26,12,+14,1.67,Won
+Nexus,ex-Outlaws, 9, 16,inf,18,20,-2,0.98,Lost
+Nexus,ex-Outlaws, 16, 14,mrg,24,16,+8,1.25,Lost
+Nexus,ex-Outlaws, 11, 16,cbl,18,20,-2,0.96,Lost
+Nexus,KlikTech, 16, 4,mrg,20,10,+10,1.63,Won
+Nexus,KlikTech, 16, 7,trn,24,17,+7,1.57,Won
+Nexus,AVANGAR, 8, 16,cch,5,20,-15,0.30,Lost
+Nexus,AVANGAR, 16, 7,mrg,25,13,+12,1.61,Lost
+Nexus,AVANGAR, 4, 16,cbl,12,18,-6,0.65,Lost
+Nexus,Izako Boars, 11, 16,mrg,12,23,-11,0.59,Lost
+Nexus,AVANGAR, 10, 16,cch,14,19,-5,0.74,Lost
+Nexus,AVANGAR, 15, 19,cbl,23,23,0,0.99,Lost
+Nexus,AVANGAR, 16, 12,mrg,22,21,+1,1.10,Lost
+Nexus,VITALIS, 16, 14,cch,26,21,+5,1.27,Won
+Nexus,VITALIS, 16, 6,cbl,17,16,+1,1.14,Won
+Nexus,VITALIS, 10, 16,cch,18,20,-2,1.06,Lost
+Nexus,VITALIS, 3, 16,ovp,10,17,-7,0.67,Lost
+Nexus,VITALIS, 16, 4,mrg,29,10,+19,2.38,Lost
+Nexus,pro100, 25, 21,ovp,36,33,+3,1.09,Won
+Nexus,PENTA, 14, 16,cch,29,21,+8,1.36,Lost
+Nexus,Epsilon, 6, 16,ovp,16,17,-1,0.99,Lost
+Nexus,PRIDE, 9, 16,trn,11,19,-8,0.82,Lost
+Nexus,ARYO, 16, 8,trn,14,14,0,0.95,Won
+Nexus,ARYO, 16, 6,ovp,16,10,+6,1.20,Won
+Nexus,ARYO, 13, 16,mrg,32,19,+13,1.57,Won
+Nexus,Airwalk, 16, 5,cbl,20,11,+9,1.51,Won
+Nexus,Airwalk, 16, 3,inf,18,9,+9,1.50,Won
+Nexus,Spirit, 16, 11,inf,18,17,+1,1.13,Won
+Nexus,Space Soldiers, 11, 16,inf,15,21,-6,0.91,Lost
+Nexus,HAVU, 13, 16,mrg,26,23,+3,1.16,Lost
+Nexus,HAVU, 11, 16,inf,14,20,-6,0.92,Lost
+Nexus,Team123, 16, 5,cch,19,11,+8,1.59,Won
+Nexus,EURONICS, 16, 7,cbl,19,13,+6,1.38,Won
+Nexus,EURONICS, 5, 16,mrg,11,17,-6,0.84,Won
+Nexus,EURONICS, 16, 4,trn,16,9,+7,1.53,Won
+Nexus,Gatekeepers, 10, 16,cbl,12,17,-5,0.97,Lost
+Nexus,Spartak, 16, 5,cbl,13,9,+4,1.23,Won
+Nexus,Spartak, 16, 12,ovp,19,16,+3,1.15,Won
+Nexus,OPAA, 9, 16,cch,17,20,-3,1.04,Lost
+Nexus,OPAA, 16, 2,mrg,15,10,+5,1.21,Won
+Nexus,Planetkey, 16, 8,mrg,19,15,+4,1.19,Won
+Nexus,SkitLite, 16, 11,mrg,17,19,-2,0.90,Won
+Nexus,ALTERNATE aTTaX, 16, 13,cbl,21,19,+2,1.11,Won
+Nexus,Imperial, 9, 16,mrg,17,19,-2,1.03,Lost
+Nexus,Imperial, 7, 16,ovp,14,21,-7,0.79,Lost
+Nexus,Binary Dragons, 12, 16,inf,31,17,+14,1.44,Lost
+Nexus,Binary Dragons, 13, 16,mrg,26,26,0,1.13,Lost
+Nexus,Kinguin, 16, 9,ovp,14,11,+3,1.09,Won
+Nexus,North Academy, 16, 7,ovp,16,14,+2,1.24,Won
+Nexus,Imperial, 13, 16,inf,19,17,+2,1.05,Lost
+Nexus,Imperial, 9, 16,mrg,17,17,0,0.92,Lost
+Nexus,ex-Fury, 16, 13,nuke,26,16,+10,1.41,Won
+Nexus,iGame.com, 12, 16,nuke,18,20,-2,0.93,Lost
+Nexus,Outlaws, 16, 2,nuke,10,10,0,1.10,Won
+Nexus,Outlaws, 16, 5,mrg,16,14,+2,1.45,Won
+Nexus,Outlaws, 9, 16,cbl,22,16,+6,1.36,Won
+Nexus,spray'n'pray, 16, 9,cch,16,13,+3,1.22,Won
+Nexus,spray'n'pray, 16, 9,mrg,26,17,+9,1.59,Won
+Nexus,Bpro, 16, 7,cbl,24,16,+8,1.52,Won
+Nexus,Bpro, 16, 9,inf,19,13,+6,1.22,Won
+Nexus,Bpro, 15, 19,mrg,18,23,-5,0.84,Won
+Nexus,GameplayDNA, 16, 5,inf,24,11,+13,1.93,Won
+Nexus,GameplayDNA, 16, 5,cch,23,11,+12,1.58,Won
+Nexus,GameplayDNA, 17, 19,cbl,17,24,-7,0.80,Won
+Nexus,HoP, 16, 12,cbl,23,16,+7,1.33,Won
+Nexus,HoP, 16, 12,cch,20,18,+2,1.21,Won
+Nexus,Veneera, 16, 4,inf,18,12,+6,1.45,Won
+Nexus,Veneera, 16, 8,cch,28,14,+14,1.70,Won
+Nexus,RESISTANCE, 16, 8,cbl,21,17,+4,1.36,Won
+Nexus,RESISTANCE, 16, 6,mrg,25,10,+15,1.84,Won
+Nexus,Outlaws, 3, 16,cbl,11,19,-8,0.64,Lost
+Nexus,Outlaws, 11, 16,trn,17,20,-3,0.99,Lost
+Nexus,Outlaws, 16, 10,mrg,25,16,+9,1.55,Lost
+Nexus,Squared, 16, 10,cbl,24,14,+10,1.61,Won
+Nexus,Squared, 16, 11,mrg,20,15,+5,1.23,Won
+Nexus,eXtatus, 16, 13,cbl,21,19,+2,1.08,Won
+Nexus,eXtatus, 16, 9,cch,17,14,+3,1.20,Won
+Nexus,eXtatus, 12, 16,inf,22,19,+3,1.15,Won
+Nexus,Forcebuy, 17, 19,cbl,22,21,+1,1.01,Lost
+Nexus,Forcebuy, 16, 8,mrg,24,14,+10,1.61,Lost
+Nexus,Saltbae, 16, 6,mrg,27,9,+18,1.96,Won
+Nexus,Saltbae, 16, 6,cch,26,9,+17,2.00,Won
+Nexus,G2V, 17, 19,mrg,23,27,-4,0.93,Lost
+Nexus,G2V, 13, 16,cch,18,21,-3,0.92,Lost
+Nexus,Budapest Corvini, 16, 4,cch,18,10,+8,1.55,Won
+Nexus,Budapest Corvini, 16, 6,inf,6,10,-4,0.82,Won
+Nexus,Granted, 16, 14,inf,14,22,-8,0.86,Won
+Nexus,Granted, 16, 2,mrg,17,10,+7,1.52,Won
+Nexus,Arcade, 16, 7,mrg,24,15,+9,1.48,Won
+Nexus,Binary Dragons, 9, 16,mrg,14,18,-4,0.91,Lost
+Nexus,Binary Dragons, 13, 16,cch,21,21,0,0.98,Lost
+Nexus,Playing Ducks, 16, 7,mrg,30,10,+20,2.02,Won
+Nexus,Playing Ducks, 16, 3,cch,22,10,+12,1.76,Won
+Nexus,Imperial, 16, 6,cch,17,17,0,1.10,Won
+Nexus,Imperial, 16, 9,cbl,18,15,+3,1.18,Won
+Nexus,Sensei, 16, 12,cbl,31,16,+15,1.65,Won
+Nexus,Sensei, 16, 4,mrg,21,11,+10,1.76,Won
+Nexus,Singularity, 12, 16,nuke,25,20,+5,1.23,Lost
+Nexus,Singularity, 12, 16,mrg,23,18,+5,1.28,Lost
+Nexus,HoP, 12, 16,inf,31,19,+12,1.50,Lost
+Nexus,HoP, 16, 19,cbl,26,22,+4,1.10,Lost
+Nexus,HoP, 14, 16,inf,20,20,0,1.02,Lost
+Nexus,HoP, 19, 17,trn,24,24,0,1.08,Lost
+Nexus,HoP, 13, 16,cbl,21,22,-1,0.99,Lost
+Nexus,Binary Dragons, 16, 14,mrg,24,18,+6,1.14,Won
+Nexus,Binary Dragons, 16, 11,inf,28,15,+13,1.72,Won
+Nexus,Invictus Aquilas, 16, 9,cbl,12,15,-3,1.02,Won
+Nexus,Invictus Aquilas, 16, 5,cch,19,12,+7,1.52,Won
+Nexus,Zero Respect, 16, 5,mrg,27,12,+15,1.99,Won
+Nexus,Zero Respect, 16, 6,cch,22,13,+9,1.74,Won
+Nexus,Tortues Ninja, 16, 4,nuke,20,13,+7,1.39,Won
+Nexus,Tortues Ninja, 16, 2,cch,19,12,+7,1.58,Won
+Nexus,Bpro, 16, 9,inf,18,10,+8,1.45,Won
+Nexus,Bpro, 16, 7,mrg,24,12,+12,1.79,Won
+Nexus,WORTEX, 16, 3,cbl,16,6,+10,1.57,Won
+Nexus,WORTEX, 16, 14,cch,27,20,+7,1.26,Won
+Nexus,Above the Rest, 16, 7,mrg,26,16,+10,1.58,Won
+Nexus,Above the Rest, 16, 7,trn,27,11,+16,1.77,Won
+Nexus,EPG, 16, 5,cbl,22,8,+14,1.72,Won
+Nexus,EPG, 16, 4,cch,15,9,+6,1.44,Won
+Nexus,iNation, 13, 16,nuke,20,22,-2,0.97,Lost
+Nexus,iNation, 13, 16,cch,26,20,+6,1.28,Lost
+Nexus,Outlaws, 16, 13,nuke,20,23,-3,0.95,Won
+Nexus,Outlaws, 19, 16,mrg,25,20,+5,1.11,Won
+Nexus,Outlaws, 12, 16,trn,20,20,0,1.07,Won
+Nexus,Outlaws, 16, 13,cch,24,19,+5,1.18,Won
+Nexus,Outlaws, 3, 16,trn,16,18,-2,1.08,Won
+Nexus,Outlaws, 16, 10,mrg,33,15,+18,1.88,Won
+Nexus,Playing Ducks, 16, 8,d2,14,13,+1,1.09,Won
+Nexus,Playing Ducks, 16, 6,cch,36,11,+25,2.30,Won
+Nexus,Playing Ducks, 9, 16,mrg,26,20,+6,1.38,Won
+Nexus,DarkPassage, 11, 16,ovp,20,20,0,1.05,Lost
+Nexus,DarkPassage, 10, 16,mrg,17,18,-1,0.99,Lost
+Nexus,Outlaws, 16, 5,nuke,18,11,+7,1.58,Won
+Nexus,Outlaws, 16, 13,cbl,23,17,+6,1.29,Won
+Nexus,iNation, 13, 16,mrg,23,21,+2,0.98,Lost
+Nexus,iNation, 16, 19,nuke,36,26,+10,1.50,Lost
+Nexus,Fragsport, 9, 16,cbl,17,21,-4,0.96,Lost
+Nexus,Brewtopia, 17, 19,cch,32,27,+5,1.24,Lost
+Nexus,Brewtopia, 2, 16,cbl,7,18,-11,0.40,Lost
+Nexus,Outlaws, 12, 16,nuke,23,19,+4,1.24,Lost
+Nexus,Outlaws, 16, 2,mrg,18,10,+8,1.58,Lost
+Nexus,Outlaws, 8, 16,cbl,12,16,-4,0.82,Lost
+Nexus,Bpro, 16, 5,cbl,23,9,+14,1.88,Won
+Nexus,Bpro, 14, 16,cch,16,22,-6,0.77,Lost
+Nexus,Revolte, 16, 9,cch,19,14,+5,1.10,Won
+Nexus,Revolte, 16, 14,mrg,30,19,+11,1.41,Won
+Nexus,DarkPassage, 8, 16,mrg,13,22,-9,0.76,Lost
+Nexus,DarkPassage, 16, 1,cch,16,8,+8,1.80,Won
+Nexus,Pixel, 16, 13,cch,24,19,+5,1.28,Won
+Nexus,Pixel, 16, 10,mrg,32,19,+13,1.77,Won
+Nexus,iNation, 13, 16,nuke,19,23,-4,1.00,Lost
+Nexus,iNation, 10, 16,cch,17,20,-3,1.00,Lost
+Nexus,Brewtopia, 16, 13,mrg,30,20,+10,1.62,Won
+Nexus,Brewtopia, 16, 8,cch,21,18,+3,1.21,Won
+Nexus,Outlaws, 16, 11,mrg,26,13,+13,1.47,Won
+Nexus,Outlaws, 11, 16,trn,21,20,+1,1.18,Lost
+XPC,fruits, 5, 16,ovp,8,18,-10,0.45,Lost
+XPC,fruits, 11, 16,mrg,19,20,-1,0.86,Lost
+XPC,VenatoreS, 16, 9,d2,30,13,+17,1.78,Won
+XPC,VenatoreS, 11, 16,cbl,26,17,+9,1.40,Won
+XPC,VenatoreS, 16, 5,cch,15,10,+5,1.34,Won
+XPC,Epiphany Bolt, 16, 10,cch,26,16,+10,1.47,Won
+XPC,Red Instinct RS, 12, 16,cbl,12,22,-10,0.65,Lost
+XPC,Bpro, 9, 16,d2,14,18,-4,0.75,Lost
+XPC,Bpro, 19, 16,cch,27,25,+2,1.16,Lost
+XPC,Bpro, 9, 16,ovp,17,18,-1,0.98,Lost
+XPC,HEADSHOTBG, 16, 8,mrg,23,14,+9,1.51,Won
+XPC,HEADSHOTBG, 16, 13,cbl,21,24,-3,1.05,Won
+XPC,PRIDE, 16, 19,cbl,24,27,-3,0.86,Lost
+XPC,PRIDE, 6, 16,ovp,13,19,-6,0.71,Lost
+XPC,GODSENT Academy, 16, 5,mrg,18,11,+7,1.32,Won
+XPC,Nexus, 16, 4,cbl,28,8,+20,2.19,Won
+XPC,Nexus, 16, 5,ovp,27,13,+14,2.02,Won
+XPC,Nexus, 11, 16,nuke,21,19,+2,1.03,Won
+XPC,Infused, 16, 4,ovp,14,11,+3,1.22,Won
+XPC,Infused, 6, 16,cbl,18,19,-1,0.98,Won
+XPC,Infused, 11, 16,cch,18,16,+2,1.09,Won
+XPC,Infused, 19, 17,d2,31,28,+3,1.20,Won
+XPC,Preparation, 16, 19,cbl,27,23,+4,1.19,Lost
+XPC,Preparation, 16, 13,mrg,22,20,+2,1.07,Lost
+XPC,Preparation, 6, 16,trn,11,18,-7,0.73,Lost
+XPC,AlienTech, 16, 6,mrg,26,9,+17,2.04,Won
+Romania,Lithuania, 16, 19,cch,24,22,+2,0.94,Lost
+Romania,Lithuania, 10, 16,mrg,25,19,+6,1.37,Lost
+Romania,Macedonia, 16, 8,cch,20,16,+4,1.42,Won
+Romania,Macedonia, 16, 7,mrg,18,15,+3,1.21,Won
+XPC,Bpro, 7, 16,ovp,14,20,-6,0.71,Lost
+XPC,Bpro, 14, 16,cch,22,23,-1,0.96,Lost
+XPC,aimclub, 16, 8,cch,12,18,-6,0.83,Won
+XPC,aimclub, 12, 16,cbl,20,27,-7,0.83,Won
+XPC,aimclub, 16, 7,mrg,27,15,+12,1.66,Won
+XPC,Bpro, 19, 17,d2,29,26,+3,1.14,Won
+XPC,Bpro, 16, 6,ovp,23,12,+11,1.87,Won
+XPC,neXtPlease!, 16, 10,ovp,24,16,+8,1.42,Won
+XPC,Bpro, 14, 16,cch,32,23,+9,1.44,Lost
+XPC,GameAgents, 16, 13,mrg,26,23,+3,1.27,Won
+XPC,GameAgents, 16, 2,cch,21,5,+16,1.98,Won
+XPC,RB, 16, 12,cch,24,20,+4,1.25,Won
+XPC,neXtPlease!, 16, 11,cbl,14,17,-3,0.90,Won
+XPC,neXtPlease!, 16, 5,cch,8,10,-2,0.87,Won
+XPC,cooL, 16, 9,cch,19,17,+2,1.21,Won
+XPC,neXtPlease!, 16, 9,cbl,24,14,+10,1.58,Won
+XPC,CS-GO.rs, 16, 8,cbl,20,12,+8,1.33,Won
+XPC,aimclub, 20, 22,cch,34,31,+3,1.10,Lost
+XPC,Pixel, 16, 6,mrg,26,11,+15,1.86,Won
+XPC,Deathtrap, 16, 6,cch,18,12,+6,1.23,Won
+XPC,GG1337, 16, 6,mrg,14,10,+4,1.31,Won
+XPC,GG1337, 16, 10,inf,18,19,-1,1.13,Won
+XPC,SuperMassive, 12, 16,cbl,25,20,+5,1.16,Lost
+XPC,Dignitas, 4, 16,ovp,11,17,-6,0.79,Lost
+XPC,Dignitas, 15, 19,mrg,25,28,-3,0.95,Lost
+XPC,iNation, 16, 11,cch,31,19,+12,1.60,Won
+XPC,neXtPlease!, 16, 8,trn,31,13,+18,1.77,Won
+XPC,GameAgents, 9, 16,cch,19,18,+1,1.06,Lost
+XPC,Bpro, 12, 16,mrg,23,21,+2,1.15,Lost
+XPC,noKappa, 9, 16,cbl,15,20,-5,0.74,Lost
+XPC,CSGL, 16, 11,mrg,23,21,+2,1.04,Won
+XPC,Pixel, 5, 16,d2,11,20,-9,0.61,Lost
+XPC,iNation, 16, 7,mrg,29,10,+19,1.88,Won
+XPC,ENRAGE, 16, 11,mrg,23,20,+3,1.31,Won
+XPC,PENTA, 2, 16,mrg,4,17,-13,0.23 *,Lost
+XPC,PENTA, 7, 16,cch,11,21,-10,0.52 *,Lost
+XPC,Phenomenon, 6, 16,cbl,15,19,-4,Nil,Nil
+XPC,Phenomenon, 26, 24,mrg,33,36,-3,Nil,Nil
+XPC,Phenomenon, 12, 16,cch,13,20,-7,Nil,Nil
+XPC,London Conspiracy, 16, 7,cch,19,12,+7,1.36 *,Won
+

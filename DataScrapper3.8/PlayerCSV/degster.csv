@@ -1,0 +1,331 @@
+degster
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Espada,GODSENT, 10, 16,inf,17,17,0,0.95,Lost
+Espada,GODSENT, 16, 10,nuke,26,13,+13,1.62,Lost
+Espada,GODSENT, 6, 16,ovp,23,17,+6,1.42,Lost
+Espada,Winstrike, 16, 4,nuke,23,6,+17,1.94,Won
+Espada,Winstrike, 16, 11,ovp,17,16,+1,1.03,Won
+Espada,SKADE, 16, 11,mrg,29,10,+19,1.62,Won
+Espada,SKADE, 16, 6,d2,26,7,+19,2.13,Won
+Espada,SKADE, 13, 16,inf,21,17,+4,1.20,Won
+Espada,Imperial, 16, 13,mrg,13,20,-7,0.75,Won
+Espada,Imperial, 16, 7,nuke,25,11,+14,1.86,Won
+Espada,SJ, 19, 15,nuke,26,18,+8,1.28,Won
+Espada,SJ, 16, 10,mrg,27,12,+15,1.54,Won
+Espada,SG.pro, 14, 16,mrg,13,22,-9,0.69,Lost
+Espada,SG.pro, 9, 16,nuke,19,18,+1,1.10,Lost
+Espada,Secret, 19, 22,nuke,37,28,+9,1.20,Lost
+Espada,Secret, 16, 14,d2,29,17,+12,1.35,Lost
+Espada,Secret, 16, 19,mrg,24,20,+4,1.09,Lost
+Espada,MAD Lions, 9, 16,nuke,9,18,-9,0.59,Lost
+Espada,MAD Lions, 3, 16,ovp,9,16,-7,0.74,Lost
+Espada,AGF, 16, 10,trn,19,17,+2,1.24,Won
+Espada,AGF, 16, 14,mrg,28,19,+9,1.44,Won
+Espada,Dignitas, 16, 10,inf,19,16,+3,1.12,Won
+Espada,Dignitas, 20, 22,nuke,40,25,+15,1.39,Won
+Espada,Dignitas, 16, 8,ovp,14,14,0,1.13,Won
+Espada,c0ntact, 16, 11,inf,20,13,+7,1.20,Won
+Espada,Spirit, 14, 16,mrg,18,22,-4,0.92,Lost
+Espada,Spirit, 14, 16,trn,24,17,+7,1.26,Lost
+Espada,Apeks, 16, 9,ovp,25,12,+13,1.57,Won
+Espada,Apeks, 16, 13,mrg,11,19,-8,0.78,Won
+Espada,Apeks, 12, 16,nuke,26,21,+5,1.32,Won
+Espada,NAVI Junior, 16, 13,d2,23,16,+7,1.37,Won
+Espada,NAVI Junior, 16, 9,ovp,27,11,+16,1.57,Won
+Espada,FATE, 16, 5,d2,14,9,+5,1.30,Won
+Espada,FATE, 16, 10,mrg,15,19,-4,0.85,Won
+Espada,FATE, 6, 16,trn,18,17,+1,1.03,Won
+Espada,CR4ZY, 16, 8,trn,29,12,+17,1.81,Won
+Espada,CR4ZY, 13, 16,nuke,28,22,+6,1.37,Won
+Espada,CR4ZY, 16, 8,ovp,27,16,+11,1.69,Won
+Espada,FATE, 9, 16,inf,25,16,+9,1.41,Lost
+Espada,AVEZ, 16, 12,ovp,19,12,+7,1.14,Won
+Espada,AVEZ, 16, 8,d2,18,12,+6,1.38,Won
+Espada,AVEZ, 13, 16,nuke,19,18,+1,1.04,Won
+Espada,Galaxy Racer, 22, 19,d2,33,24,+9,1.15,Won
+Espada,Galaxy Racer, 16, 8,ovp,24,13,+11,1.51,Won
+Espada,Apeks, 16, 14,d2,25,19,+6,1.32,Won
+Espada,Apeks, 16, 8,mrg,23,13,+10,1.45,Won
+Espada,Apeks, 13, 16,nuke,24,20,+4,1.20,Won
+Espada,Singularity, 16, 7,inf,20,11,+9,1.64,Won
+Espada,Singularity, 16, 7,d2,29,12,+17,2.17,Won
+Espada,Winstrike, 16, 10,ovp,26,16,+10,1.45,Won
+Espada,Winstrike, 16, 9,d2,21,11,+10,1.44,Won
+Espada,Winstrike, 5, 16,mrg,16,15,+1,1.05,Won
+Espada,Singularity, 10, 16,inf,9,15,-6,0.69,Lost
+Espada,Nemiga, 12, 16,mrg,11,18,-7,0.87,Lost
+Espada,Nemiga, 16, 5,d2,20,9,+11,1.53,Lost
+Espada,Nemiga, 9, 16,inf,15,15,0,0.88,Lost
+Espada,PACT, 16, 13,inf,22,17,+5,1.24,Won
+Espada,PACT, 16, 8,nuke,20,9,+11,1.59,Won
+Espada,HAVU, 8, 16,d2,17,20,-3,0.93,Lost
+Espada,HAVU, 23, 25,nuke,34,30,+4,1.08,Lost
+Espada,HAVU, 16, 7,mrg,26,7,+19,1.85,Lost
+Espada,forZe, 7, 16,inf,19,18,+1,1.22,Lost
+Espada,forZe, 14, 16,mrg,18,20,-2,0.90,Lost
+Espada,Gambit Youngsters, 16, 9,mrg,14,14,0,0.92,Won
+Espada,Gambit Youngsters, 16, 13,ovp,19,17,+2,1.17,Won
+Espada,AGF, 2, 16,trn,7,17,-10,0.61,Lost
+Espada,AGF, 16, 9,inf,22,12,+10,1.43,Lost
+Espada,AGF, 12, 16,d2,19,16,+3,1.04,Lost
+Espada,Spirit, 7, 16,ovp,13,18,-5,0.83,Lost
+Espada,Spirit, 5, 16,nuke,10,12,-2,0.90,Lost
+Espada,KOVA, 16, 3,ovp,18,9,+9,1.68,Won
+Espada,KOVA, 20, 22,nuke,25,26,-1,0.97,Won
+Espada,KOVA, 16, 5,d2,21,8,+13,1.72,Won
+Espada,Winstrike, 16, 14,ovp,27,15,+12,1.33,Won
+Espada,Winstrike, 16, 14,mrg,25,19,+6,1.25,Won
+Espada,Winstrike, 10, 16,d2,19,21,-2,1.11,Won
+Espada,Spirit, 11, 16,mrg,19,23,-4,0.85,Lost
+Espada,Spirit, 13, 16,nuke,15,21,-6,0.81,Lost
+Espada,PACT, 16, 19,trn,26,24,+2,1.09,Lost
+Espada,PACT, 8, 16,d2,11,17,-6,0.80,Lost
+Espada,PACT, 16, 12,nuke,33,10,+23,1.85,Lost
+Espada,Gambit Youngsters, 16, 2,ovp,15,5,+10,1.67,Won
+Espada,Gambit Youngsters, 16, 14,mrg,23,20,+3,1.26,Won
+Espada,Nemiga, 16, 7,nuke,22,16,+6,1.47,Won
+Espada,Nemiga, 16, 11,d2,18,17,+1,1.14,Won
+Espada,HellRaisers, 28, 24,inf,38,27,+11,1.34,Won
+Espada,HellRaisers, 10, 16,d2,12,22,-10,0.79,Won
+Espada,HellRaisers, 16, 14,trn,21,17,+4,1.05,Won
+Espada,Gambit Youngsters, 11, 16,ovp,16,18,-2,0.88,Lost
+Espada,Gambit Youngsters, 14, 16,mrg,18,20,-2,0.87,Lost
+Espada,CR4ZY, 16, 11,trn,21,15,+6,1.13,Won
+Espada,Hard4U, 16, 9,nuke,24,11,+13,1.57,Won
+Espada,Hard4U, 10, 16,ovp,20,16,+4,1.22,Won
+Espada,Hard4U, 16, 9,mrg,23,17,+6,1.37,Won
+Espada,NAVI Junior, 16, 13,d2,23,20,+3,1.42,Won
+Espada,NAVI Junior, 16, 8,ovp,18,13,+5,1.25,Won
+Espada,NAVI Junior, 8, 16,inf,10,21,-11,0.53,Won
+Espada,Hard Legion, 7, 16,d2,26,16,+10,1.50,Lost
+Espada,Hard Legion, 10, 16,inf,18,17,+1,1.01,Lost
+Espada,Hard Legion, 16, 6,d2,26,10,+16,1.84,Won
+Espada,Hard Legion, 19, 16,inf,25,20,+5,1.21,Won
+Espada,NAVI Junior, 16, 11,mrg,27,17,+10,1.56,Won
+Espada,FATE, 16, 11,inf,28,11,+17,1.64,Won
+Espada,NAVI Junior, 16, 13,ovp,22,18,+4,1.17,Won
+Espada,NAVI Junior, 19, 16,inf,22,25,-3,0.98,Won
+Espada,HellRaisers, 16, 4,inf,14,8,+6,1.23,Won
+Espada,HellRaisers, 16, 5,d2,23,7,+16,1.82,Won
+Espada,NAVI Junior, 3, 16,inf,12,16,-4,0.92,Lost
+Espada,NAVI Junior, 13, 16,trn,24,19,+5,1.17,Lost
+Espada,AGF, 14, 16,ovp,28,20,+8,1.56,Lost
+Espada,forZe, 9, 16,inf,21,14,+7,1.37,Lost
+Espada,forZe, 12, 16,trn,23,19,+4,1.16,Lost
+Espada,Winstrike, 16, 10,mrg,19,13,+6,1.31,Won
+Espada,Winstrike, 14, 16,nuke,26,20,+6,1.22,Won
+Espada,Winstrike, 16, 9,ovp,29,12,+17,1.83,Won
+Espada,SKADE, 16, 10,trn,26,13,+13,1.51,Won
+Espada,NAVI Junior, 16, 3,ovp,15,8,+7,1.47,Won
+Espada,NAVI Junior, 16, 11,d2,18,15,+3,1.38,Won
+Espada,NAVI Junior, 18, 22,trn,23,28,-5,0.94,Won
+Espada,Complexity, 6, 16,inf,11,16,-5,0.84,Lost
+Espada,Complexity, 3, 16,d2,8,18,-10,0.45,Lost
+Espada,Complexity, 16, 13,mrg,26,15,+11,1.49,Lost
+Espada,Secret, 7, 16,mrg,19,19,0,1.14,Lost
+Espada,Pompa, 16, 9,mrg,28,13,+15,1.75,Won
+Espada,Pompa, 16, 9,trn,22,15,+7,1.48,Won
+Espada,Virtus.pro, 11, 16,inf,18,16,+2,1.00,Lost
+Espada,Virtus.pro, 10, 16,d2,21,14,+7,1.24,Lost
+Espada,pro100, 16, 14,d2,20,18,+2,1.16,Won
+Espada,pro100, 16, 10,trn,25,16,+9,1.43,Won
+Espada,Hard Legion, 16, 2,ovp,18,8,+10,1.62,Won
+Espada,Hard Legion, 16, 6,d2,28,8,+20,2.10,Won
+Espada,Gambit Youngsters, 13, 16,d2,20,18,+2,1.05,Lost
+Espada,Gambit Youngsters, 16, 12,ovp,18,14,+4,1.15,Lost
+Espada,Gambit Youngsters, 9, 16,mrg,14,16,-2,0.91,Lost
+Espada,Syman, 6, 16,ovp,12,15,-3,0.74,Lost
+Espada,Syman, 15, 19,mrg,27,22,+5,1.23,Lost
+Espada,Syman, 16, 12,inf,28,12,+16,1.55,Lost
+Espada,Natus Vincere, 17, 19,nuke,27,23,+4,1.22,Lost
+Espada,Natus Vincere, 7, 16,inf,14,14,0,0.89,Lost
+Espada,Endpoint, 16, 13,inf,22,15,+7,1.32,Won
+Espada,Endpoint, 16, 19,mrg,21,26,-5,0.90,Won
+Espada,Endpoint, 16, 13,d2,12,19,-7,0.76,Won
+Espada,pro100, 16, 12,mrg,21,14,+7,1.18,Won
+Espada,pro100, 16, 10,d2,23,13,+10,1.58,Won
+Espada,FATE, 9, 16,d2,15,17,-2,0.94,Lost
+Espada,FATE, 12, 16,ovp,18,21,-3,0.86,Lost
+Espada,Illuminar, 16, 9,trn,15,16,-1,0.99,Won
+Espada,Hard Legion, 22, 25,mrg,40,32,+8,1.23,Lost
+Espada,Hard Legion, 9, 16,inf,16,17,-1,1.06,Lost
+Espada,Winstrike, 12, 16,d2,19,18,+1,0.98,Lost
+Espada,Winstrike, 11, 16,trn,19,15,+4,1.05,Lost
+Espada,Winstrike, 16, 9,mrg,25,10,+15,1.63,Lost
+Espada,SKADE, 13, 16,mrg,20,21,-1,1.02,Lost
+Espada,SKADE, 13, 16,trn,22,19,+3,1.01,Lost
+Espada,SKADE, 13, 16,ovp,18,21,-3,0.87,Lost
+Espada,SKADE, 19, 17,nuke,28,18,+10,1.30,Lost
+Espada,Tricked, 16, 14,trn,18,21,-3,0.92,Won
+Espada,Tricked, 16, 8,d2,30,10,+20,1.92,Won
+Espada,Pompa, 16, 7,trn,16,12,+4,1.12,Won
+Espada,Pompa, 16, 6,mrg,25,9,+16,1.87,Won
+Espada,Tricked, 16, 10,nuke,22,14,+8,1.37,Won
+Espada,Tricked, 16, 10,d2,20,12,+8,1.44,Won
+Espada,Singularity, 16, 9,d2,25,17,+8,1.45,Won
+Espada,Singularity, 16, 11,mrg,19,16,+3,1.16,Won
+Espada,Singularity, 11, 16,nuke,15,19,-4,0.92,Won
+Espada,HellRaisers, 16, 12,d2,20,22,-2,1.03,Won
+Espada,HellRaisers, 16, 9,mrg,19,11,+8,1.36,Won
+Espada,Spirit, 14, 16,nuke,22,19,+3,1.18,Lost
+Espada,Spirit, 14, 16,mrg,14,20,-6,0.75,Lost
+Espada,pro100, 16, 11,mrg,28,15,+13,1.48,Won
+Espada,pro100, 17, 19,ovp,23,26,-3,0.94,Won
+Espada,pro100, 16, 8,trn,30,10,+20,1.89,Won
+Espada,Gambit Youngsters, 13, 16,mrg,17,16,+1,1.02,Lost
+Espada,Gambit Youngsters, 14, 16,ovp,26,19,+7,1.25,Lost
+Espada,EXTREMUM, 16, 9,inf,22,11,+11,1.57,Won
+Espada,EXTREMUM, 11, 16,trn,23,18,+5,1.32,Won
+Espada,EXTREMUM, 16, 3,nuke,21,5,+16,1.96,Won
+Espada,pro100, 22, 25,trn,32,33,-1,0.99,Lost
+Espada,pro100, 12, 16,mrg,22,21,+1,1.00,Lost
+Espada,Space Jam, 16, 10,mrg,20,11,+9,1.33,Won
+Espada,Space Jam, 16, 8,inf,21,18,+3,1.44,Won
+Espada,Space Jam, 10, 16,trn,26,19,+7,1.31,Won
+Espada,DreamEaters, 16, 11,inf,19,13,+6,1.22,Won
+Espada,Gambit Youngsters, 1, 16,d2,3,15,-12,0.15,Lost
+Espada,Gambit Youngsters, 16, 6,mrg,24,11,+13,1.82,Lost
+Espada,Gambit Youngsters, 12, 16,inf,20,14,+6,1.23,Lost
+Espada,Hard Legion, 16, 8,mrg,22,12,+10,1.52,Won
+Espada,Hard Legion, 22, 18,trn,32,21,+11,1.31,Won
+Espada,Akatsuki, 16, 10,ovp,23,13,+10,1.48,Won
+Espada,Akatsuki, 16, 11,nuke,24,15,+9,1.40,Won
+Espada,Nemiga, 16, 14,ovp,28,19,+9,1.31,Won
+Espada,Nemiga, 16, 13,nuke,15,17,-2,0.91,Won
+Espada,KOVA, 16, 10,ovp,23,9,+14,1.49,Won
+Espada,KOVA, 14, 16,d2,23,14,+9,1.33,Won
+Espada,KOVA, 16, 8,mrg,27,16,+11,1.66,Won
+Espada,spray'n'pray, 16, 6,trn,19,11,+8,1.28,Won
+Espada,spray'n'pray, 16, 8,inf,19,13,+6,1.24,Won
+Espada,BIG Academy, 16, 7,inf,26,8,+18,2.06,Won
+Espada,BIG Academy, 16, 4,d2,19,10,+9,1.55,Won
+Espada,BIG Academy, 8, 16,mrg,15,15,0,0.91,Won
+Espada,Akatsuki, 13, 16,d2,16,17,-1,0.99,Lost
+Espada,Akatsuki, 8, 16,ovp,26,19,+7,1.48,Lost
+Espada,OFFSET, 16, 13,inf,22,16,+6,1.34,Won
+Espada,OFFSET, 16, 2,d2,16,7,+9,1.66,Won
+Espada,EXTREMUM, 14, 16,d2,16,22,-6,0.84,Lost
+Espada,EXTREMUM, 9, 16,mrg,26,15,+11,1.41,Lost
+Espada,Project X, 14, 16,nuke,26,16,+10,1.31,Lost
+Espada,Project X, 20, 22,mrg,33,30,+3,1.18,Lost
+Espada,Project X, 16, 8,d2,17,9,+8,1.32,Lost
+Espada,HAVU, 16, 19,nuke,22,26,-4,0.82,Lost
+Espada,HAVU, 4, 16,d2,14,16,-2,1.01,Lost
+Espada,MAJESTY, 16, 2,d2,20,7,+13,1.91,Won
+Espada,MAJESTY, 16, 7,vtg,21,11,+10,1.38,Won
+Espada,Project X, 10, 16,trn,14,15,-1,0.83,Lost
+Espada,Project X, 16, 14,nuke,20,17,+3,0.98,Lost
+Espada,Project X, 12, 16,d2,24,18,+6,1.21,Lost
+Espada,ex-Windigo, 19, 15,trn,23,19,+4,1.11,Won
+Espada,ex-Windigo, 17, 19,d2,27,26,+1,1.01,Won
+Espada,ex-Windigo, 19, 17,ovp,23,16,+7,1.16,Won
+Espada,Dracarys, 16, 8,mrg,19,12,+7,1.30,Won
+Espada,Dracarys, 16, 2,d2,27,5,+22,2.38,Won
+Espada,Dracarys, 16, 8,nuke,18,11,+7,1.38,Won
+Espada,MELBET, 14, 16,d2,22,21,+1,1.15,Lost
+Espada,Dracarys, 16, 11,d2,19,12,+7,1.30,Won
+Espada,Dracarys, 16, 13,nuke,22,13,+9,1.17,Won
+Espada,Izako Boars, 2, 16,trn,9,14,-5,0.54,Lost
+Espada,Izako Boars, 7, 16,nuke,12,22,-10,0.69,Lost
+Espada,Izako Boars, 16, 10,ovp,35,10,+25,2.15,Lost
+Espada,EXTREMUM, 16, 13,mrg,31,15,+16,1.75,Won
+Espada,EXTREMUM, 16, 5,d2,19,10,+9,1.48,Won
+Espada,SKADE, 10, 16,mrg,19,21,-2,0.99,Lost
+Espada,SKADE, 9, 16,nuke,23,17,+6,1.27,Lost
+Espada,SKADE, 16, 4,d2,21,9,+12,1.76,Lost
+Espada,Nemiga, 11, 16,d2,20,21,-1,0.88,Lost
+Espada,Nemiga, 4, 16,nuke,10,14,-4,0.87,Lost
+Espada,GamerLegion, 12, 16,mrg,30,20,+10,1.39,Lost
+Espada,SKADE, 16, 14,d2,23,18,+5,1.12,Won
+Espada,SKADE, 16, 8,trn,22,11,+11,1.38,Won
+Espada,Heretics, 16, 10,mrg,22,18,+4,1.20,Won
+Espada,Heretics, 16, 7,vtg,19,13,+6,1.46,Won
+Espada,Heretics, 5, 16,d2,9,17,-8,0.49,Won
+Espada,Unique, 6, 16,d2,16,16,0,1.15,Lost
+Espada,Unique, 11, 16,trn,16,18,-2,0.86,Lost
+Espada,Unique, 16, 11,ovp,24,15,+9,1.35,Lost
+Espada,pro100, 12, 16,d2,21,18,+3,1.19,Lost
+Espada,pro100, 16, 13,ovp,24,14,+10,1.31,Lost
+Espada,pro100, 11, 16,mrg,19,21,-2,0.96,Lost
+Espada,Virtus.pro, 4, 16,nuke,13,18,-5,0.74,Lost
+Espada,Virtus.pro, 16, 9,d2,25,14,+11,1.44,Lost
+Espada,Virtus.pro, 14, 16,mrg,15,20,-5,0.85,Lost
+Espada,SKADE, 12, 16,mrg,16,19,-3,0.94,Lost
+Espada,SKADE, 12, 16,ovp,15,19,-4,0.78,Lost
+Espada,HAVU, 6, 16,vtg,20,15,+5,1.34,Lost
+Espada,HAVU, 12, 16,trn,20,19,+1,1.08,Lost
+Espada,Heretics, 16, 9,d2,28,14,+14,1.61,Won
+Espada,Heretics, 19, 17,vtg,31,22,+9,1.31,Won
+Espada,Se7en, 10, 16,nuke,17,18,-1,1.10,Lost
+Espada,Se7en, 2, 16,d2,16,13,+3,1.23,Lost
+Espada,Se7en, 19, 17,mrg,26,20,+6,1.30,Lost
+Espada,NewBALLS, 6, 16,mrg,10,19,-9,0.65,Lost
+Espada,NewBALLS, 16, 13,trn,19,19,0,1.14,Lost
+Espada,NewBALLS, 18, 22,vtg,32,26,+6,1.19,Lost
+Espada,Moscow CreepZ, 16, 8,d2,19,11,+8,1.28,Won
+Espada,Unique, 7, 16,d2,17,18,-1,0.94,Lost
+Espada,Moscow CreepZ, 16, 12,d2,17,18,-1,1.11,Won
+Espada,Ambush, 16, 14,mrg,21,18,+3,1.16,Won
+Espada,Ambush, 16, 13,trn,20,16,+4,1.12,Won
+Espada,BLUEJAYS, 16, 14,d2,22,20,+2,1.06,Won
+Espada,BLUEJAYS, 10, 16,nuke,27,18,+9,1.46,Won
+Espada,BLUEJAYS, 16, 6,mrg,21,10,+11,1.54,Won
+Espada,Windigo, 5, 16,trn,10,17,-7,0.56,Lost
+Espada,Windigo, 14, 16,mrg,29,19,+10,1.42,Lost
+Espada,BIG, 3, 16,ovp,14,16,-2,0.83,Lost
+Espada,BIG, 7, 16,trn,15,19,-4,0.82,Lost
+Espada,GamerLegion, 18, 22,ovp,28,31,-3,1.03,Lost
+Espada,GamerLegion, 18, 22,mrg,30,28,+2,1.08,Lost
+Espada,FATE, 16, 7,vtg,28,16,+12,1.80,Won
+Espada,FATE, 11, 16,ovp,22,16,+6,1.31,Won
+Espada,FATE, 16, 7,d2,22,9,+13,1.58,Won
+Espada,Brute, 16, 14,mrg,26,20,+6,1.24,Won
+Espada,expert, 16, 8,ovp,26,12,+14,1.72,Won
+Espada,expert, 16, 13,mrg,32,16,+16,1.72,Won
+Espada,potatosquad, 16, 11,nuke,14,14,0,1.07,Won
+Espada,potatosquad, 16, 3,vtg,27,7,+20,2.00,Won
+Espada,potatosquad, 17, 19,d2,27,21,+6,1.18,Won
+Espada,Gambit Youngsters, 20, 22,mrg,29,28,+1,1.05,Lost
+Espada,Gambit Youngsters, 22, 25,vtg,36,39,-3,1.06,Lost
+Espada,eL'quvet, 16, 8,d2,18,9,+9,1.44,Won
+Espada,eL'quvet, 16, 2,vtg,16,5,+11,1.65,Won
+Espada,Bpro, 9, 16,ovp,21,17,+4,1.16,Lost
+Espada,Bpro, 7, 16,d2,20,20,0,1.08,Lost
+Espada,pro100, 19, 17,nuke,25,22,+3,1.08,Won
+Espada,pro100, 13, 16,ovp,20,15,+5,1.19,Won
+Espada,pro100, 16, 11,d2,24,18,+6,1.36,Won
+Espada,magazynpeek, 16, 14,mrg,22,16,+6,1.17,Won
+Espada,magazynpeek, 16, 9,d2,19,13,+6,1.26,Won
+Espada,bootcampPARTY, 16, 6,vtg,17,12,+5,1.33,Won
+Espada,bootcampPARTY, 6, 16,nuke,11,18,-7,0.71,Won
+Espada,bootcampPARTY, 16, 13,mrg,15,20,-5,0.85,Won
+Espada,pro100, 7, 16,ovp,11,19,-8,0.67,Lost
+Espada,pro100, 2, 16,trn,6,17,-11,0.34,Lost
+Espada,forZe, 8, 16,mrg,12,18,-6,0.73,Lost
+Espada,forZe, 6, 16,nuke,16,19,-3,0.93,Lost
+Espada,forZe, 16, 13,ovp,18,23,-5,0.95,Lost
+Espada,Nordavind, 11, 16,ovp,19,17,+2,1.12,Lost
+Espada,Nordavind, 17, 19,d2,32,29,+3,1.26,Lost
+Espada,Syman, 19, 17,vtg,36,26,+10,1.43,Won
+Espada,Syman, 16, 4,ovp,17,10,+7,1.83,Won
+Espada,NOTBAD, 16, 12,nuke,26,16,+10,1.55,Won
+Espada,NOTBAD, 10, 16,mrg,22,19,+3,1.12,Won
+Espada,NOTBAD, 16, 2,d2,12,9,+3,1.39,Won
+Espada,Sprout, 4, 16,nuke,21,19,+2,1.32,Lost
+Espada,Sprout, 10, 16,ovp,20,19,+1,1.00,Lost
+Espada,jmihmix, 16, 5,d2,18,10,+8,1.48,Won
+Espada,jmihmix, 16, 8,trn,19,15,+4,1.11,Won
+Espada,Tricked, 2, 16,trn,7,16,-9,0.46,Lost
+Espada,gEgE, 16, 3,d2,27,8,+19,2.26,Won
+Espada,Nordavind, 10, 16,ovp,14,18,-4,0.87,Lost
+Espada,Warthox, 11, 16,d2,18,20,-2,0.97,Lost
+NorBant,Monolith, 4, 16,nuke,6,18,-12,0.40,Lost
+NorBant,Monolith, 9, 16,trn,10,19,-9,0.65,Lost
+NorBant,GoodJob, 16, 4,cch,18,6,+12,1.55,Won
+NorBant,GoodJob, 16, 6,mrg,27,6,+21,2.05,Won
+PEY,Winstrike, 8, 16,mrg,9,21,-12,0.53,Lost
+PEY,Winstrike, 11, 16,trn,22,24,-2,1.04,Lost
+PEY,CYBERSABLE, 16, 12,mrg,25,19,+6,1.28,Won
+PEY,CYBERSABLE, 16, 7,ovp,17,15,+2,1.30,Won
+PEY,GoodJob, 16, 14,inf,23,21,+2,1.03,Won
+

@@ -1,0 +1,476 @@
+sh1ro
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+Gambit Youngsters,GODSENT, 16, 12,vtg,19,16,+3,1.02,Won
+Gambit Youngsters,GODSENT, 17, 19,d2,20,21,-1,0.96,Won
+Gambit Youngsters,GODSENT, 22, 20,trn,31,19,+12,1.24,Won
+Gambit Youngsters,Virtus.pro, 16, 13,ovp,22,16,+6,1.27,Won
+Gambit Youngsters,Virtus.pro, 16, 14,d2,24,13,+11,1.37,Won
+Gambit Youngsters,Virtus.pro, 10, 16,vtg,10,19,-9,0.59,Won
+Gambit Youngsters,Sprout, 16, 8,mrg,15,10,+5,1.25,Won
+Gambit Youngsters,Sprout, 14, 16,vtg,29,18,+11,1.21,Won
+Gambit Youngsters,Sprout, 22, 20,trn,39,23,+16,1.37,Won
+Gambit Youngsters,GODSENT, 11, 16,trn,21,19,+2,1.18,Lost
+Gambit Youngsters,GODSENT, 16, 19,ovp,39,22,+17,1.54,Lost
+Gambit Youngsters,MIBR, 16, 11,d2,12,9,+3,1.01,Won
+Gambit Youngsters,MIBR, 6, 16,vtg,13,13,0,0.93,Won
+Gambit Youngsters,MIBR, 16, 8,mrg,17,10,+7,1.23,Won
+Gambit Youngsters,Virtus.pro, 16, 10,vtg,15,17,-2,0.99,Won
+Gambit Youngsters,Virtus.pro, 16, 14,inf,23,13,+10,1.25,Won
+Gambit Youngsters,Hard Legion, 19, 16,inf,23,19,+4,1.04,Won
+Gambit Youngsters,Hard Legion, 16, 12,ovp,19,11,+8,1.30,Won
+Gambit Youngsters,Hard Legion, 13, 16,d2,25,16,+9,1.28,Won
+Gambit Youngsters,x6tence, 11, 16,vtg,14,18,-4,0.86,Lost
+Gambit Youngsters,x6tence, 16, 12,mrg,20,15,+5,1.17,Lost
+Gambit Youngsters,x6tence, 7, 16,ovp,12,16,-4,0.85,Lost
+Gambit Youngsters,Apeks, 16, 11,mrg,20,16,+4,1.23,Won
+Gambit Youngsters,Apeks, 16, 14,d2,17,13,+4,1.14,Won
+Gambit Youngsters,HellRaisers, 16, 12,vtg,19,14,+5,1.17,Won
+Gambit Youngsters,MIBR, 21, 25,d2,40,26,+14,1.41,Lost
+Gambit Youngsters,MIBR, 17, 19,vtg,35,21,+14,1.41,Lost
+Gambit Youngsters,HellRaisers, 16, 9,d2,13,13,0,0.94,Won
+Gambit Youngsters,HellRaisers, 16, 12,inf,22,11,+11,1.45,Won
+Gambit Youngsters,forZe, 6, 16,d2,17,16,+1,1.10,Lost
+Gambit Youngsters,Spirit, 15, 19,ovp,24,18,+6,1.11,Lost
+Gambit Youngsters,Spirit, 12, 16,mrg,21,14,+7,1.20,Lost
+Gambit Youngsters,Spirit, 16, 9,d2,26,12,+14,1.66,Lost
+Gambit Youngsters,HellRaisers, 16, 13,inf,28,10,+18,1.61,Won
+Gambit Youngsters,HellRaisers, 16, 5,d2,15,10,+5,1.35,Won
+Gambit Youngsters,Apeks, 10, 16,trn,26,17,+9,1.50,Lost
+Gambit Youngsters,Apeks, 13, 16,vtg,24,19,+5,1.17,Lost
+Gambit Youngsters,forZe, 16, 13,d2,22,17,+5,1.16,Won
+Gambit Youngsters,forZe, 19, 17,inf,31,20,+11,1.31,Won
+Gambit Youngsters,forZe, 13, 16,ovp,24,16,+8,1.27,Won
+Gambit Youngsters,PACT, 16, 14,ovp,22,15,+7,1.20,Won
+Gambit Youngsters,Syman, 16, 6,trn,26,9,+17,1.82,Won
+Gambit Youngsters,Syman, 16, 6,d2,19,12,+7,1.48,Won
+Gambit Youngsters,LDLC, 16, 11,d2,18,12,+6,1.19,Won
+Gambit Youngsters,LDLC, 16, 7,inf,10,11,-1,1.03,Won
+Gambit Youngsters,Nordavind, 16, 7,ovp,20,8,+12,1.67,Won
+Gambit Youngsters,Nordavind, 16, 13,inf,17,19,-2,1.06,Won
+Gambit Youngsters,NAVI Junior, 16, 3,vtg,13,9,+4,1.36,Won
+Gambit Youngsters,NAVI Junior, 16, 6,mrg,25,11,+14,1.80,Won
+Gambit Youngsters,Tikitakan, 16, 8,mrg,18,11,+7,1.37,Won
+Gambit Youngsters,Tikitakan, 16, 3,ovp,12,9,+3,1.22,Won
+Gambit Youngsters,ALTERNATE aTTaX, 16, 7,d2,20,11,+9,1.50,Won
+Gambit Youngsters,ALTERNATE aTTaX, 16, 5,vtg,15,8,+7,1.30,Won
+Gambit Youngsters,BLUEJAYS, 16, 12,trn,33,15,+18,1.70,Won
+Gambit Youngsters,BLUEJAYS, 16, 8,ovp,13,14,-1,1.02,Won
+Gambit Youngsters,Cyber Legacy, 19, 15,inf,32,16,+16,1.50,Won
+Gambit Youngsters,Cyber Legacy, 16, 6,d2,22,6,+16,1.89,Won
+Gambit Youngsters,Cyber Legacy, 16, 5,mrg,19,9,+10,1.51,Won
+Gambit Youngsters,NAVI Junior, 16, 10,mrg,23,12,+11,1.49,Won
+Gambit Youngsters,NAVI Junior, 16, 14,vtg,24,17,+7,1.22,Won
+Gambit Youngsters,AVEZ, 16, 4,d2,24,6,+18,2.26,Won
+Gambit Youngsters,AVEZ, 16, 8,vtg,19,12,+7,1.25,Won
+Gambit Youngsters,NAVI Junior, 16, 11,vtg,17,10,+7,1.19,Won
+Gambit Youngsters,Tikitakan, 16, 13,vtg,17,18,-1,1.02,Won
+Gambit Youngsters,Tikitakan, 16, 10,d2,24,13,+11,1.51,Won
+Gambit Youngsters,Izako Boars, 16, 10,trn,22,11,+11,1.40,Won
+Gambit Youngsters,Izako Boars, 16, 10,d2,25,10,+15,1.72,Won
+Gambit Youngsters,LDLC, 22, 20,ovp,31,18,+13,1.20,Won
+Gambit Youngsters,LDLC, 16, 9,inf,25,12,+13,1.77,Won
+Gambit Youngsters,LDLC, 16, 5,d2,16,11,+5,1.51,Won
+Gambit Youngsters,LDLC, 16, 10,vtg,20,17,+3,1.15,Won
+Gambit Youngsters,LDLC, 12, 16,inf,23,18,+5,1.33,Won
+Gambit Youngsters,Syman, 16, 11,d2,20,17,+3,1.09,Won
+Gambit Youngsters,Syman, 16, 12,inf,23,14,+9,1.37,Won
+Gambit Youngsters,Lyngby Vikings, 16, 11,mrg,21,14,+7,1.45,Won
+Gambit Youngsters,Lyngby Vikings, 16, 8,inf,21,5,+16,1.70,Won
+Gambit Youngsters,LDLC, 16, 3,d2,25,8,+17,2.36,Won
+Gambit Youngsters,LDLC, 16, 9,ovp,14,12,+2,1.19,Won
+Gambit Youngsters,Budapest Five, 16, 10,mrg,25,11,+14,1.62,Won
+Gambit Youngsters,FATE, 7, 16,mrg,13,18,-5,0.81,Lost
+Gambit Youngsters,FATE, 5, 16,trn,11,16,-5,0.77,Lost
+Gambit Youngsters,FATE, 16, 4,inf,19,7,+12,1.78,Lost
+Gambit Youngsters,AVEZ, 16, 10,trn,22,15,+7,1.39,Won
+Gambit Youngsters,AVEZ, 16, 9,vtg,19,13,+6,1.12,Won
+Gambit Youngsters,AVEZ, 16, 19,d2,27,23,+4,1.14,Won
+Gambit Youngsters,Illuminar, 11, 16,mrg,30,15,+15,1.57,Lost
+Gambit Youngsters,Illuminar, 15, 19,trn,24,22,+2,1.02,Lost
+Gambit Youngsters,Lyngby Vikings, 16, 9,d2,20,10,+10,1.33,Won
+Gambit Youngsters,Hard Legion, 16, 9,mrg,23,12,+11,1.48,Won
+Gambit Youngsters,Hard Legion, 16, 9,inf,13,11,+2,1.10,Won
+Gambit Youngsters,ALTERNATE aTTaX, 19, 17,trn,26,22,+4,1.10,Won
+Gambit Youngsters,ALTERNATE aTTaX, 19, 17,inf,21,22,-1,0.97,Won
+Gambit Youngsters,ALTERNATE aTTaX, 3, 16,ovp,11,16,-5,0.74,Won
+Gambit Youngsters,Syman, 16, 3,trn,17,10,+7,1.69,Won
+Gambit Youngsters,Syman, 16, 8,ovp,20,12,+8,1.17,Won
+Gambit Youngsters,Nordavind, 7, 16,inf,9,14,-5,0.77,Lost
+Gambit Youngsters,Nordavind, 23, 25,vtg,39,34,+5,1.20,Lost
+Gambit Youngsters,SKADE, 16, 10,trn,24,11,+13,1.69,Won
+Gambit Youngsters,SKADE, 16, 8,mrg,23,14,+9,1.41,Won
+Gambit Youngsters,Singularity, 16, 7,d2,28,10,+18,1.90,Won
+Gambit Youngsters,Singularity, 16, 8,vtg,20,10,+10,1.51,Won
+Gambit Youngsters,SKADE, 7, 16,d2,11,18,-7,0.77,Lost
+Gambit Youngsters,Espada, 9, 16,mrg,19,16,+3,1.12,Lost
+Gambit Youngsters,Espada, 13, 16,ovp,16,16,0,1.03,Lost
+Gambit Youngsters,Natus Vincere, 8, 16,trn,18,16,+2,1.26,Lost
+Gambit Youngsters,Natus Vincere, 16, 19,inf,23,19,+4,1.19,Lost
+Gambit Youngsters,Virtus.pro, 8, 16,ovp,18,13,+5,1.03,Lost
+Gambit Youngsters,Virtus.pro, 5, 16,d2,7,14,-7,0.66,Lost
+Gambit Youngsters,Virtus.pro, 16, 10,vtg,23,15,+8,1.32,Lost
+Gambit Youngsters,Natus Vincere, 16, 11,d2,24,14,+10,1.50,Won
+Gambit Youngsters,Natus Vincere, 12, 16,trn,21,19,+2,1.05,Won
+Gambit Youngsters,Natus Vincere, 19, 17,ovp,27,14,+13,1.30,Won
+Gambit Youngsters,Nemiga, 16, 11,mrg,20,15,+5,1.22,Won
+Gambit Youngsters,Nemiga, 12, 16,inf,18,15,+3,1.15,Won
+Gambit Youngsters,Nemiga, 22, 20,vtg,40,20,+20,1.53,Won
+Gambit Youngsters,forZe, 16, 8,inf,20,8,+12,1.66,Won
+Gambit Youngsters,forZe, 16, 8,ovp,18,12,+6,1.32,Won
+Gambit Youngsters,Espada, 2, 16,ovp,10,17,-7,0.61,Lost
+Gambit Youngsters,Espada, 14, 16,mrg,18,19,-1,0.99,Lost
+Gambit Youngsters,Syman, 16, 8,inf,16,14,+2,1.23,Won
+Gambit Youngsters,Syman, 16, 11,ovp,23,13,+10,1.47,Won
+Gambit Youngsters,forZe, 10, 16,ovp,15,18,-3,0.92,Lost
+Gambit Youngsters,forZe, 11, 16,inf,11,17,-6,0.78,Lost
+Gambit Youngsters,Syman, 16, 7,ovp,17,11,+6,1.44,Won
+Gambit Youngsters,Syman, 16, 13,trn,30,15,+15,1.67,Won
+Gambit Youngsters,Espada, 16, 11,ovp,16,12,+4,1.18,Won
+Gambit Youngsters,Espada, 16, 14,mrg,22,13,+9,1.43,Won
+Gambit Youngsters,Heroic, 7, 16,inf,9,15,-6,0.76,Lost
+Gambit Youngsters,Heroic, 12, 16,vtg,21,18,+3,1.21,Lost
+Gambit Youngsters,HAVU, 16, 8,ovp,25,12,+13,1.50,Won
+Gambit Youngsters,HAVU, 16, 4,vtg,22,5,+17,1.78,Won
+Gambit Youngsters,HAVU, 13, 16,d2,26,16,+10,1.55,Won
+Gambit Youngsters,Complexity, 10, 16,d2,23,19,+4,1.26,Lost
+Gambit Youngsters,Complexity, 13, 16,vtg,24,18,+6,1.24,Lost
+Gambit Youngsters,Complexity, 19, 16,mrg,30,21,+9,1.23,Lost
+Gambit Youngsters,HAVU, 16, 12,d2,21,15,+6,1.32,Won
+Gambit Youngsters,HAVU, 16, 10,vtg,21,12,+9,1.57,Won
+Gambit Youngsters,North, 16, 14,vtg,23,18,+5,1.22,Won
+Gambit Youngsters,Complexity, 13, 16,d2,17,17,0,0.93,Lost
+Gambit Youngsters,Complexity, 8, 16,vtg,12,16,-4,0.91,Lost
+Gambit Youngsters,Complexity, 16, 12,mrg,20,16,+4,1.05,Lost
+Gambit Youngsters,Secret, 16, 11,mrg,30,18,+12,1.52,Won
+Gambit Youngsters,Secret, 16, 14,ovp,28,15,+13,1.36,Won
+Gambit Youngsters,Sprout, 7, 16,d2,13,14,-1,0.93,Lost
+Gambit Youngsters,Sprout, 16, 12,mrg,30,14,+16,1.70,Lost
+Gambit Youngsters,Sprout, 8, 16,vtg,18,16,+2,1.21,Lost
+Gambit Youngsters,Excellency, 16, 7,inf,21,12,+9,1.57,Won
+Gambit Youngsters,Excellency, 16, 9,ovp,11,12,-1,1.05,Won
+Gambit Youngsters,HAVU, 16, 13,ovp,23,14,+9,1.40,Won
+Gambit Youngsters,HAVU, 16, 19,trn,32,21,+11,1.21,Won
+Gambit Youngsters,HAVU, 16, 2,vtg,23,7,+16,2.13,Won
+Gambit Youngsters,Ambush, 16, 8,d2,24,12,+12,1.74,Won
+Gambit Youngsters,Ambush, 16, 11,trn,26,13,+13,1.57,Won
+Gambit Youngsters,HAVU, 14, 16,d2,22,17,+5,1.13,Lost
+Gambit Youngsters,pro100, 16, 9,vtg,16,12,+4,1.07,Won
+Gambit Youngsters,pro100, 16, 3,mrg,22,4,+18,1.73,Won
+Gambit Youngsters,Secret, 12, 16,d2,14,19,-5,0.86,Lost
+Gambit Youngsters,Secret, 14, 16,mrg,19,18,+1,1.00,Lost
+Gambit Youngsters,Secret, 16, 6,ovp,18,9,+9,1.47,Lost
+Gambit Youngsters,Hard Legion, 9, 16,inf,15,15,0,1.00,Lost
+Gambit Youngsters,Hard Legion, 6, 16,d2,5,17,-12,0.39,Lost
+Gambit Youngsters,Hard Legion, 16, 7,ovp,14,9,+5,1.21,Lost
+Gambit Youngsters,Copenhagen Flames, 16, 14,inf,23,18,+5,1.17,Won
+Gambit Youngsters,Copenhagen Flames, 19, 17,vtg,24,19,+5,1.15,Won
+Gambit Youngsters,AVEZ, 16, 14,ovp,18,18,0,0.95,Won
+Gambit Youngsters,AVEZ, 16, 3,d2,16,6,+10,1.69,Won
+Gambit Youngsters,Sprout, 14, 16,inf,20,16,+4,1.05,Lost
+Gambit Youngsters,BIG, 16, 14,vtg,25,17,+8,1.29,Won
+Gambit Youngsters,BIG, 16, 8,d2,15,11,+4,1.12,Won
+Gambit Youngsters,forZe, 16, 9,trn,26,11,+15,1.70,Won
+Gambit Youngsters,forZe, 17, 19,inf,23,23,0,1.15,Won
+Gambit Youngsters,forZe, 16, 11,ovp,29,12,+17,1.80,Won
+Gambit Youngsters,Winstrike, 11, 16,d2,22,15,+7,1.37,Lost
+Gambit Youngsters,Winstrike, 11, 16,vtg,16,22,-6,0.86,Lost
+Gambit Youngsters,Nemiga, 3, 16,mrg,8,11,-3,0.74,Lost
+Gambit Youngsters,Nemiga, 16, 13,d2,21,13,+8,1.26,Lost
+Gambit Youngsters,Nemiga, 16, 19,inf,19,18,+1,1.08,Lost
+Gambit Youngsters,forZe, 16, 6,ovp,14,8,+6,1.37,Won
+Gambit Youngsters,forZe, 16, 12,inf,35,16,+19,1.76,Won
+Gambit Youngsters,Espada, 16, 13,d2,18,13,+5,1.18,Won
+Gambit Youngsters,Espada, 12, 16,ovp,21,15,+6,1.22,Won
+Gambit Youngsters,Espada, 16, 9,mrg,18,14,+4,1.22,Won
+Gambit Youngsters,Unique, 16, 4,vtg,19,9,+10,1.64,Won
+Gambit Youngsters,Unique, 16, 9,d2,25,10,+15,1.76,Won
+Gambit Youngsters,Spirit, 9, 16,d2,15,15,0,1.15,Lost
+Gambit Youngsters,Spirit, 8, 16,ovp,14,14,0,0.94,Lost
+Gambit Youngsters,Nordavind, 19, 15,mrg,35,17,+18,1.64,Won
+Gambit Youngsters,Nordavind, 16, 8,d2,22,10,+12,1.67,Won
+Gambit Youngsters,SKADE, 14, 16,d2,24,19,+5,1.40,Lost
+Gambit Youngsters,SKADE, 14, 16,trn,20,20,0,1.12,Lost
+Gambit Youngsters,SKADE, 16, 13,inf,31,14,+17,1.78,Lost
+Gambit Youngsters,Copenhagen Flames, 6, 16,inf,19,13,+6,1.36,Lost
+Gambit Youngsters,Endpoint, 16, 11,vtg,20,14,+6,1.38,Won
+Gambit Youngsters,Endpoint, 16, 10,ovp,22,14,+8,1.43,Won
+Gambit Youngsters,Virtus.pro, 10, 16,trn,20,13,+7,1.28,Lost
+Gambit Youngsters,Virtus.pro, 16, 14,vtg,24,13,+11,1.30,Lost
+Gambit Youngsters,Virtus.pro, 4, 16,d2,13,11,+2,1.09,Lost
+Gambit Youngsters,forZe, 6, 16,d2,6,18,-12,0.40,Lost
+Gambit Youngsters,forZe, 10, 16,inf,14,17,-3,0.85,Lost
+Gambit Youngsters,Virtus.pro, 16, 11,ovp,15,12,+3,1.23,Won
+Gambit Youngsters,Heretics, 13, 16,d2,28,13,+15,1.43,Lost
+Gambit Youngsters,Heretics, 12, 16,vtg,31,16,+15,1.56,Lost
+Gambit Youngsters,SMASH, 16, 9,ovp,25,11,+14,1.75,Won
+Gambit Youngsters,SMASH, 16, 12,d2,28,9,+19,1.65,Won
+Gambit Youngsters,SMASH, 14, 16,mrg,16,15,+1,0.91,Won
+Gambit Youngsters,1WIN, 16, 9,mrg,18,11,+7,1.40,Won
+Gambit Youngsters,1WIN, 16, 6,d2,22,10,+12,1.74,Won
+Gambit Youngsters,eL'quvet, 19, 16,trn,29,19,+10,1.27,Won
+Gambit Youngsters,eL'quvet, 16, 7,mrg,19,10,+9,1.51,Won
+Gambit Youngsters,AGO, 17, 19,d2,27,21,+6,1.17,Lost
+Gambit Youngsters,AGO, 16, 13,vtg,29,19,+10,1.44,Lost
+Gambit Youngsters,AGO, 12, 16,trn,14,20,-6,0.88,Lost
+Gambit Youngsters,Nemiga, 16, 10,d2,23,16,+7,1.48,Won
+Gambit Youngsters,Nemiga, 16, 12,vtg,23,13,+10,1.47,Won
+Gambit Youngsters,FATE, 16, 8,ovp,28,12,+16,1.85,Won
+Gambit Youngsters,FATE, 13, 16,trn,29,16,+13,1.59,Won
+Gambit Youngsters,FATE, 16, 6,d2,20,10,+10,1.45,Won
+Gambit Youngsters,Hard Legion, 16, 7,d2,23,10,+13,1.73,Won
+Gambit Youngsters,Hard Legion, 19, 15,trn,23,16,+7,1.07,Won
+Gambit Youngsters,AGO, 11, 16,trn,19,16,+3,1.13,Lost
+Gambit Youngsters,AGO, 5, 16,mrg,14,17,-3,0.84,Lost
+Gambit Youngsters,AGO, 16, 8,d2,15,9,+6,1.35,Lost
+Gambit Youngsters,Spirit, 14, 16,mrg,16,22,-6,0.80,Lost
+Gambit Youngsters,Spirit, 13, 16,trn,16,19,-3,0.82,Lost
+Gambit Youngsters,Winstrike, 16, 9,d2,17,13,+4,1.22,Won
+Gambit Youngsters,Winstrike, 22, 18,mrg,35,26,+9,1.16,Won
+Gambit Youngsters,Winstrike, 12, 16,ovp,15,19,-4,0.88,Won
+Gambit Youngsters,HAVU, 16, 4,trn,17,9,+8,1.28,Won
+Gambit Youngsters,HAVU, 16, 13,vtg,23,17,+6,1.40,Won
+Gambit Youngsters,HAVU, 9, 16,d2,12,17,-5,0.94,Won
+Gambit Youngsters,sAw, 16, 9,d2,21,13,+8,1.48,Won
+Gambit Youngsters,sAw, 14, 16,ovp,17,19,-2,0.86,Won
+Gambit Youngsters,sAw, 16, 11,vtg,20,21,-1,1.05,Won
+Gambit Youngsters,Movistar Riders, 16, 10,trn,19,13,+6,1.20,Won
+Gambit Youngsters,Movistar Riders, 23, 25,mrg,41,28,+13,1.28,Won
+Gambit Youngsters,Movistar Riders, 19, 17,inf,27,15,+12,1.31,Won
+Gambit Youngsters,pro100, 16, 14,mrg,16,19,-3,0.95,Won
+Gambit Youngsters,pro100, 16, 10,inf,21,17,+4,1.23,Won
+Gambit Youngsters,AGO, 16, 13,trn,25,17,+8,1.33,Won
+Gambit Youngsters,AGO, 16, 3,vtg,17,9,+8,1.66,Won
+Gambit Youngsters,sAw, 4, 16,trn,17,13,+4,1.21,Lost
+Gambit Youngsters,sAw, 16, 10,inf,30,12,+18,1.73,Lost
+Gambit Youngsters,sAw, 16, 19,d2,23,22,+1,1.03,Lost
+Gambit Youngsters,Spirit, 6, 16,d2,16,12,+4,1.10,Lost
+Gambit Youngsters,Spirit, 16, 14,mrg,19,18,+1,1.04,Lost
+Gambit Youngsters,Spirit, 12, 16,inf,20,16,+4,1.18,Lost
+Gambit Youngsters,pro100, 16, 14,d2,25,14,+11,1.46,Won
+Gambit Youngsters,pro100, 16, 11,trn,20,18,+2,1.09,Won
+Gambit Youngsters,pro100, 14, 16,inf,24,18,+6,1.12,Won
+Gambit Youngsters,Unique, 16, 5,ovp,25,11,+14,1.89,Won
+Gambit Youngsters,Unique, 16, 8,trn,33,12,+21,1.98,Won
+Gambit Youngsters,Espada, 16, 13,mrg,17,17,0,1.06,Won
+Gambit Youngsters,Espada, 16, 14,ovp,23,16,+7,1.26,Won
+Gambit Youngsters,Spirit, 14, 16,d2,23,16,+7,1.30,Lost
+Gambit Youngsters,Spirit, 4, 16,mrg,18,14,+4,1.26,Lost
+Gambit Youngsters,Spirit, 16, 12,ovp,19,10,+9,1.28,Lost
+Gambit Youngsters,SG.pro, 19, 16,d2,28,17,+11,1.35,Won
+Gambit Youngsters,SG.pro, 16, 7,trn,20,8,+12,1.48,Won
+Gambit Youngsters,Espada, 16, 1,d2,8,5,+3,1.32,Won
+Gambit Youngsters,Espada, 6, 16,mrg,15,16,-1,1.06,Won
+Gambit Youngsters,Espada, 16, 12,inf,25,9,+16,1.49,Won
+Gambit Youngsters,EXTREMUM, 16, 14,inf,31,13,+18,1.63,Won
+Gambit Youngsters,EXTREMUM, 28, 24,mrg,36,32,+4,1.16,Won
+Gambit Youngsters,Akatsuki, 16, 9,inf,19,13,+6,1.24,Won
+Gambit Youngsters,Akatsuki, 16, 12,trn,15,12,+3,0.99,Won
+Gambit Youngsters,Akatsuki, 13, 16,d2,32,16,+16,1.85,Won
+Gambit Youngsters,SKADE, 12, 16,trn,22,14,+8,1.19,Lost
+Gambit Youngsters,spray'n'pray, 16, 5,mrg,22,7,+15,1.81,Won
+Gambit Youngsters,spray'n'pray, 16, 2,d2,27,2,+25,2.27,Won
+Gambit Youngsters,Heroic, 10, 16,ovp,15,18,-3,0.86,Lost
+Gambit Youngsters,Heroic, 11, 16,trn,10,17,-7,0.72,Lost
+Gambit Youngsters,Heretics, 25, 23,ovp,36,30,+6,1.12,Won
+Gambit Youngsters,Heretics, 16, 14,inf,18,14,+4,1.05,Won
+Gambit Youngsters,Heretics, 14, 16,d2,32,17,+15,1.53,Won
+Gambit Youngsters,Winstrike, 16, 10,ovp,23,13,+10,1.52,Won
+Gambit Youngsters,Winstrike, 16, 11,d2,32,15,+17,1.81,Won
+Gambit Youngsters,Copenhagen Flames, 16, 7,mrg,16,12,+4,1.04,Won
+Gambit Youngsters,North, 8, 16,mrg,14,20,-6,0.78,Lost
+Gambit Youngsters,sAw, 16, 6,vtg,23,6,+17,1.78,Won
+Gambit Youngsters,Phoenix, 10, 16,mrg,14,20,-6,0.79,Lost
+Gambit Youngsters,Phoenix, 11, 16,ovp,24,18,+6,1.21,Lost
+Gambit Youngsters,GODSENT, 14, 16,d2,9,19,-10,0.66,Lost
+Gambit Youngsters,GODSENT, 16, 14,trn,20,17,+3,1.03,Lost
+Gambit Youngsters,GODSENT, 14, 16,ovp,24,18,+6,1.30,Lost
+Gambit Youngsters,MAD Lions, 7, 16,d2,12,15,-3,0.73,Lost
+Gambit Youngsters,forZe, 12, 16,inf,7,16,-9,0.72,Lost
+Gambit Youngsters,forZe, 20, 22,vtg,27,26,+1,1.08,Lost
+Gambit Youngsters,MELBET, 16, 12,ovp,20,16,+4,1.32,Won
+Gambit Youngsters,MELBET, 19, 17,d2,26,19,+7,1.29,Won
+Gambit Youngsters,Syman, 16, 6,trn,18,12,+6,1.32,Won
+Gambit Youngsters,Syman, 16, 5,mrg,20,9,+11,1.65,Won
+Gambit Youngsters,Copenhagen Flames, 16, 9,mrg,20,8,+12,1.47,Won
+Gambit Youngsters,Copenhagen Flames, 16, 11,ovp,19,14,+5,1.26,Won
+Gambit Youngsters,GODSENT, 7, 16,ovp,17,17,0,1.25,Lost
+Gambit Youngsters,GODSENT, 9, 16,d2,14,14,0,0.90,Lost
+Gambit Youngsters,Heretics, 16, 9,d2,12,12,0,1.01,Won
+Gambit Youngsters,Heretics, 9, 16,inf,15,16,-1,0.94,Won
+Gambit Youngsters,Heretics, 16, 9,vtg,26,11,+15,1.69,Won
+Gambit Youngsters,Tricked, 7, 16,trn,13,16,-3,0.91,Lost
+Gambit Youngsters,Copenhagen Flames, 16, 6,inf,13,10,+3,1.15,Won
+Gambit Youngsters,Winstrike, 16, 5,d2,19,8,+11,1.75,Won
+Gambit Youngsters,Winstrike, 16, 8,vtg,22,8,+14,1.60,Won
+Gambit Youngsters,Sprout, 7, 16,ovp,20,17,+3,1.22,Lost
+Gambit Youngsters,Sprout, 16, 14,mrg,25,16,+9,1.33,Lost
+Gambit Youngsters,Sprout, 9, 16,d2,12,18,-6,0.87,Lost
+Gambit Youngsters,Syman, 16, 7,inf,25,7,+18,1.74,Won
+Gambit Youngsters,Syman, 16, 8,d2,26,11,+15,1.90,Won
+Gambit Youngsters,Sprout, 16, 4,ovp,18,10,+8,1.36,Won
+Gambit Youngsters,Sprout, 16, 11,inf,17,13,+4,1.26,Won
+Gambit Youngsters,Sprout, 6, 16,d2,14,14,0,0.92,Won
+Gambit Youngsters,Nordavind, 14, 16,ovp,17,19,-2,0.92,Lost
+Gambit Youngsters,HAVU, 7, 16,d2,19,17,+2,1.00,Lost
+Gambit Youngsters,HAVU, 11, 16,ovp,25,19,+6,1.38,Lost
+Gambit Youngsters,Movistar Riders, 16, 14,inf,29,14,+15,1.58,Won
+Gambit Youngsters,x6tence, 16, 9,d2,20,12,+8,1.51,Won
+Gambit Youngsters,Nemiga, 16, 12,ovp,13,11,+2,1.08,Won
+Gambit Youngsters,Nemiga, 16, 7,d2,22,7,+15,1.76,Won
+Gambit Youngsters,DreamEaters, 16, 11,trn,27,12,+15,1.74,Won
+Gambit Youngsters,DreamEaters, 16, 12,ovp,22,13,+9,1.33,Won
+Gambit Youngsters,ex-Epsilon, 16, 13,mrg,34,12,+22,1.93,Won
+Gambit Youngsters,ex-Epsilon, 16, 11,d2,20,10,+10,1.36,Won
+Gambit Youngsters,ViCi, 16, 11,ovp,23,12,+11,1.38,Won
+Gambit Youngsters,DreamEaters, 12, 16,ovp,18,16,+2,0.97,Lost
+Gambit Youngsters,DreamEaters, 6, 16,d2,17,13,+4,1.14,Lost
+Gambit Youngsters,Illuminar, 16, 9,vtg,18,10,+8,1.28,Won
+Gambit Youngsters,Illuminar, 19, 16,mrg,20,20,0,1.11,Won
+Gambit Youngsters,BIG, 5, 16,mrg,11,18,-7,0.67,Lost
+Gambit Youngsters,BIG, 11, 16,d2,19,18,+1,1.26,Lost
+Gambit Youngsters,Illuminar, 16, 12,trn,21,14,+7,1.17,Won
+Gambit Youngsters,Illuminar, 16, 9,ovp,32,13,+19,1.92,Won
+Gambit Youngsters,FATE, 17, 19,trn,33,23,+10,1.30,Lost
+Gambit Youngsters,Apeks, 19, 17,d2,33,22,+11,1.51,Won
+Gambit Youngsters,maquinas, 13, 16,trn,18,21,-3,0.92,Lost
+Gambit Youngsters,maquinas, 16, 14,mrg,32,15,+17,1.72,Lost
+Gambit Youngsters,maquinas, 11, 16,inf,20,17,+3,1.22,Lost
+Gambit Youngsters,Dracarys, 16, 2,d2,16,4,+12,1.66,Won
+Gambit Youngsters,Chaos, 6, 16,ovp,17,14,+3,1.13,Lost
+Gambit Youngsters,Chaos, 12, 16,mrg,18,15,+3,1.10,Lost
+Gambit Youngsters,Heretics, 10, 16,inf,16,16,0,0.90,Lost
+Gambit Youngsters,Heretics, 16, 13,mrg,37,18,+19,1.85,Lost
+Gambit Youngsters,Heretics, 5, 16,d2,12,15,-3,1.08,Lost
+Gambit Youngsters,Playing Ducks, 16, 4,trn,16,5,+11,1.54,Won
+Gambit Youngsters,Playing Ducks, 16, 6,inf,21,10,+11,1.78,Won
+Gambit Youngsters,Illuminar, 18, 22,vtg,38,24,+14,1.33,Lost
+Gambit Youngsters,Illuminar, 19, 15,mrg,25,17,+8,1.26,Lost
+Gambit Youngsters,Illuminar, 10, 16,ovp,15,16,-1,0.92,Lost
+Gambit Youngsters,Unique, 17, 19,d2,21,21,0,0.99,Lost
+Gambit Youngsters,Unique, 11, 16,trn,19,17,+2,1.01,Lost
+Gambit Youngsters,HAVU, 16, 14,ovp,25,17,+8,1.36,Won
+Gambit Youngsters,HAVU, 21, 25,d2,29,26,+3,1.12,Won
+Gambit Youngsters,HAVU, 16, 14,trn,28,14,+14,1.63,Won
+Gambit Youngsters,raregods, 16, 6,mrg,21,13,+8,1.52,Won
+Gambit Youngsters,Espada, 22, 20,mrg,44,20,+24,1.66,Won
+Gambit Youngsters,Espada, 25, 22,vtg,31,28,+3,1.03,Won
+Gambit Youngsters,Nemiga, 13, 16,inf,24,17,+7,1.38,Lost
+Gambit Youngsters,Nemiga, 16, 9,mrg,28,11,+17,1.82,Lost
+Gambit Youngsters,Se7en, 16, 6,d2,11,11,0,1.17,Won
+Gambit Youngsters,Se7en, 16, 6,inf,22,13,+9,1.55,Won
+Gambit Youngsters,Vexed, 16, 12,mrg,29,15,+14,1.50,Won
+Gambit Youngsters,Vexed, 19, 15,d2,18,17,+1,1.08,Won
+Gambit Youngsters,Izako Boars, 16, 13,trn,27,17,+10,1.52,Won
+Gambit Youngsters,Izako Boars, 16, 11,inf,16,12,+4,1.13,Won
+Gambit Youngsters,pro100, 16, 9,mrg,22,10,+12,1.39,Won
+Gambit Youngsters,pro100, 16, 7,ovp,26,9,+17,1.80,Won
+Gambit Youngsters,AVANGAR, 19, 16,inf,32,11,+21,1.59,Won
+Gambit Youngsters,AVANGAR, 16, 14,d2,30,18,+12,1.60,Won
+Gambit Youngsters,teamasd, 16, 13,trn,17,12,+5,1.05,Won
+Gambit Youngsters,teamasd, 16, 5,mrg,21,10,+11,1.57,Won
+Gambit Youngsters,EXTREMUM, 16, 13,vtg,20,19,+1,0.96,Won
+Gambit Youngsters,EXTREMUM, 16, 8,inf,20,11,+9,1.18,Won
+Gambit Youngsters,Vega Squadron, 16, 12,inf,18,16,+2,1.06,Won
+Gambit Youngsters,Vega Squadron, 15, 19,d2,31,15,+16,1.50,Won
+Gambit Youngsters,Vega Squadron, 16, 8,mrg,23,11,+12,1.54,Won
+Gambit Youngsters,NorBant, 16, 5,mrg,19,9,+10,1.43,Won
+Gambit Youngsters,Winstrike, 16, 11,mrg,16,14,+2,0.97,Won
+Gambit Youngsters,Winstrike, 5, 16,ovp,13,16,-3,0.97,Won
+Gambit Youngsters,Winstrike, 16, 1,trn,22,2,+20,2.17,Won
+Gambit Youngsters,AVANGAR, 5, 16,ovp,8,17,-9,0.54,Lost
+Gambit Youngsters,Future Perfect, 16, 8,vtg,22,15,+7,1.43,Won
+Gambit Youngsters,5balls, 16, 6,d2,30,4,+26,2.53,Won
+Gambit Youngsters,Winstrike, 16, 6,mrg,20,6,+14,1.76,Won
+Gambit Youngsters,Winstrike, 16, 14,vtg,27,21,+6,1.25,Won
+Gambit Youngsters,Syman, 2, 16,d2,8,14,-6,0.66,Lost
+Gambit Youngsters,Syman, 3, 16,mrg,6,16,-10,0.52,Lost
+Gambit Youngsters,Syman, 16, 5,ovp,18,8,+10,1.58,Lost
+Gambit Youngsters,forZe, 9, 16,d2,17,18,-1,0.97,Lost
+Gambit Youngsters,forZe, 7, 16,inf,15,12,+3,1.10,Lost
+Gambit Youngsters,Unique, 16, 4,d2,13,8,+5,1.41,Won
+Gambit Youngsters,Lyngby Vikings, 8, 16,trn,17,16,+1,1.01,Lost
+Gambit Youngsters,Lyngby Vikings, 10, 16,mrg,18,19,-1,0.96,Lost
+Gambit Youngsters,Lyngby Vikings, 16, 8,inf,24,7,+17,1.75,Lost
+Gambit Youngsters,PACT, 11, 16,vtg,21,20,+1,1.05,Lost
+Gambit Youngsters,PACT, 11, 16,trn,16,15,+1,0.90,Lost
+Gambit Youngsters,buaksib, 16, 4,mrg,16,8,+8,1.49,Won
+Gambit Youngsters,buaksib, 16, 13,trn,21,18,+3,1.05,Won
+Gambit Youngsters,Se7en, 16, 8,vtg,23,9,+14,1.69,Won
+Gambit Youngsters,Se7en, 16, 10,mrg,24,13,+11,1.49,Won
+Gambit Youngsters,Se7en, 12, 16,inf,22,14,+8,1.39,Won
+Gambit Youngsters,Nemiga, 8, 16,ovp,13,14,-1,0.95,Lost
+Gambit Youngsters,Nemiga, 13, 16,inf,16,19,-3,0.97,Lost
+Gambit Youngsters,Warthox, 16, 6,ovp,24,5,+19,1.88,Won
+Gambit Youngsters,Warthox, 16, 5,inf,14,8,+6,1.23,Won
+Gambit Youngsters,Syman, 9, 16,mrg,22,17,+5,1.24,Lost
+Gambit Youngsters,famous5, 16, 10,ovp,21,10,+11,1.44,Won
+Gambit Youngsters,Söderberg & Partners, 10, 16,nuke,16,17,-1,0.88,Lost
+Gambit Youngsters,Söderberg & Partners, 16, 13,inf,15,18,-3,0.85,Lost
+Gambit Youngsters,Söderberg & Partners, 8, 16,mrg,15,17,-2,0.93,Lost
+Gambit Youngsters,Tricked, 12, 16,nuke,20,18,+2,1.06,Lost
+Gambit Youngsters,Tricked, 9, 16,inf,18,15,+3,1.21,Lost
+Gambit Youngsters,Tricked, 16, 14,ovp,24,16,+8,1.49,Lost
+Gambit Youngsters,Sprout, 3, 16,inf,12,18,-6,0.83,Lost
+Gambit Youngsters,Sprout, 16, 19,mrg,19,24,-5,0.87,Lost
+Gambit Youngsters,GODSENT, 16, 14,nuke,33,18,+15,1.63,Won
+Gambit Youngsters,GODSENT, 16, 7,mrg,26,10,+16,1.79,Won
+Gambit Youngsters,SJ, 16, 8,mrg,21,7,+14,1.57,Won
+Gambit Youngsters,SJ, 5, 16,inf,4,12,-8,0.52,Won
+Gambit Youngsters,SJ, 16, 9,ovp,32,10,+22,2.07,Won
+Gambit Youngsters,EsportsAdviser, 19, 16,mrg,35,16,+19,1.56,Won
+Gambit Youngsters,EsportsAdviser, 16, 7,ovp,17,13,+4,1.19,Won
+Vyalie Pitoni,LAN DODGERS, 15, 19,mrg,30,23,+7,1.28,Lost
+Vyalie Pitoni,LAN DODGERS, 16, 11,d2,14,18,-4,0.98,Lost
+Vyalie Pitoni,LAN DODGERS, 13, 16,inf,23,18,+5,1.18,Lost
+Vyalie Pitoni,de_aztec, 19, 16,mrg,30,21,+9,1.38,Won
+Vyalie Pitoni,Vitality, 11, 16,d2,27,15,+12,1.56,Lost
+Vyalie Pitoni,Vitality, 4, 16,inf,10,17,-7,0.80,Lost
+Vyalie Pitoni,Valiance, 16, 4,inf,14,8,+6,1.27,Won
+Vyalie Pitoni,Valiance, 16, 13,nuke,28,18,+10,1.40,Won
+Vyalie Pitoni,Valiance, 11, 16,d2,18,21,-3,1.00,Won
+Vyalie Pitoni,Vega Squadron, 16, 11,cch,19,11,+8,1.30,Won
+Vyalie Pitoni,Vega Squadron, 16, 4,inf,13,8,+5,1.27,Won
+Vyalie Pitoni,Vega Squadron, 4, 16,mrg,9,17,-8,0.70,Won
+Vyalie Pitoni,PRIDE, 19, 16,cch,28,23,+5,1.20,Won
+Vyalie Pitoni,Represent, 16, 11,mrg,23,14,+9,1.37,Won
+Vyalie Pitoni,skipping school, 9, 16,ovp,14,21,-7,0.80,Lost
+Vyalie Pitoni,forZe, 5, 16,ovp,16,17,-1,1.03,Lost
+Vyalie Pitoni,forZe, 9, 16,d2,12,19,-7,0.81,Lost
+Vyalie Pitoni,Winstrike, 16, 5,ovp,20,16,+4,1.47,Won
+Vyalie Pitoni,Winstrike, 16, 11,cch,21,16,+5,1.39,Won
+Vyalie Pitoni,Winstrike, 9, 16,inf,18,18,0,1.00,Won
+Vyalie Pitoni,DreamEaters, 16, 8,mrg,20,10,+10,1.40,Won
+Vyalie Pitoni,DreamEaters, 16, 11,inf,21,19,+2,1.20,Won
+Vyalie Pitoni,Winstrike, 16, 19,inf,31,23,+8,1.19,Lost
+Vyalie Pitoni,Winstrike, 16, 6,mrg,22,13,+9,1.58,Lost
+Vyalie Pitoni,Winstrike, 14, 16,trn,30,23,+7,1.39,Lost
+aimg0d,forZe, 13, 16,d2,26,19,+7,1.37,Lost
+aimg0d,5balls, 16, 3,trn,12,11,+1,1.24,Won
+aimg0d,5balls, 16, 9,mrg,21,13,+8,1.33,Won
+aimg0d,Evolution, 16, 7,trn,22,11,+11,1.50,Won
+FLuffy Gangsters,PLINK, 9, 16,inf,19,20,-1,1.02,Lost
+FLuffy Gangsters,PLINK, 4, 16,mrg,14,18,-4,0.83,Lost
+FLuffy Gangsters,Ha MaSSe, 16, 10,mrg,19,17,+2,0.97,Won
+FLuffy Gangsters,Ha MaSSe, 16, 11,ovp,27,12,+15,1.60,Won
+FLuffy Gangsters,DreamEaters, 12, 16,mrg,20,21,-1,0.99,Lost
+FLuffy Gangsters,HOLLYWOOD, 10, 16,ovp,21,19,+2,1.20,Lost
+FLuffy Gangsters,HOLLYWOOD, 9, 16,nuke,18,19,-1,1.22,Lost
+FLuffy Gangsters,HOLLYWOOD, 16, 13,mrg,29,19,+10,1.45,Lost
+FLuffy Gangsters,Syman, 9, 16,trn,17,21,-4,0.84,Lost
+FLuffy Gangsters,Syman, 16, 13,mrg,26,17,+9,1.37,Lost
+FLuffy Gangsters,Syman, 12, 16,nuke,17,21,-4,0.87,Lost
+FLuffy Gangsters,AVANGAR, 11, 16,mrg,13,17,-4,0.80,Lost
+FLuffy Gangsters,AVANGAR, 16, 12,cch,19,18,+1,1.16,Lost
+FLuffy Gangsters,AVANGAR, 12, 16,trn,25,21,+4,1.26,Lost
+FLuffy Gangsters,WINside, 16, 7,mrg,19,14,+5,1.24,Won
+FLuffy Gangsters,WINside, 16, 7,d2,30,12,+18,1.82,Won
+FLuffy Gangsters,HEY, 16, 5,trn,17,12,+5,1.31,Won
+FLuffy Gangsters,HEY, 19, 16,ovp,28,23,+5,1.15,Won
+FLuffy Gangsters,HEY, 16, 19,mrg,28,20,+8,1.25,Won
+team7,HOLLYWOOD, 8, 16,trn,22,15,+7,1.34,Lost
+team7,HOLLYWOOD, 16, 13,mrg,18,20,-2,1.00,Lost
+team7,HOLLYWOOD, 8, 16,nuke,17,20,-3,1.04,Lost
+team7,Evolution, 16, 3,trn,19,7,+12,1.58,Won
+team7,Evolution, 10, 16,ovp,18,17,+1,0.99,Won
+team7,Evolution, 16, 7,cch,14,16,-2,1.07,Won
+

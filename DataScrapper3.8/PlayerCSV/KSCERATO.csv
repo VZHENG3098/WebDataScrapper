@@ -1,0 +1,619 @@
+KSCERATO
+Player's Team,Player's Opponent,Rounds Won,Rounds Lost,Map,Kills,Deaths,+/-,Rating,Outcome
+FURIA,Evil Geniuses, 16, 7,nuke,15,13,+2,1.15,Won
+FURIA,Evil Geniuses, 16, 5,inf,17,10,+7,1.42,Won
+FURIA,Chaos, 3, 16,ovp,18,18,0,1.13,Lost
+FURIA,Chaos, 10, 16,inf,17,15,+2,0.99,Lost
+FURIA,Chaos, 16, 8,nuke,22,11,+11,1.55,Lost
+FURIA,100 Thieves, 8, 16,nuke,14,18,-4,1.06,Lost
+FURIA,100 Thieves, 12, 16,trn,15,19,-4,0.85,Lost
+FURIA,Gen.G, 16, 7,inf,26,12,+14,1.77,Won
+FURIA,Gen.G, 16, 10,nuke,14,13,+1,0.90,Won
+FURIA,Evil Geniuses, 16, 14,inf,20,16,+4,1.20,Won
+FURIA,Evil Geniuses, 16, 8,nuke,19,11,+8,1.37,Won
+FURIA,Liquid, 16, 8,vtg,20,12,+8,1.41,Won
+FURIA,Liquid, 16, 8,nuke,16,13,+3,1.29,Won
+FURIA,Triumph, 16, 2,inf,15,8,+7,1.44,Won
+FURIA,Triumph, 16, 13,trn,24,19,+5,1.18,Won
+FURIA,Cloud9, 16, 14,vtg,19,17,+2,0.97,Won
+FURIA,Cloud9, 14, 16,inf,14,17,-3,0.94,Won
+FURIA,Cloud9, 19, 15,ovp,15,19,-4,0.88,Won
+FURIA,Evil Geniuses, 10, 16,nuke,18,17,+1,0.94,Lost
+FURIA,Evil Geniuses, 10, 16,vtg,16,15,+1,1.12,Lost
+FURIA,100 Thieves, 16, 7,vtg,22,13,+9,1.45,Won
+FURIA,100 Thieves, 13, 16,mrg,26,20,+6,1.22,Won
+FURIA,100 Thieves, 16, 1,inf,13,6,+7,1.31,Won
+FURIA,Gen.G, 16, 10,inf,15,10,+5,1.20,Won
+FURIA,Gen.G, 16, 14,trn,30,19,+11,1.35,Won
+FURIA,Chaos, 19, 22,inf,28,26,+2,1.15,Lost
+FURIA,Chaos, 11, 16,nuke,15,21,-6,0.83,Lost
+FURIA,Liquid, 16, 11,inf,13,16,-3,1.02,Won
+FURIA,Liquid, 19, 16,nuke,19,19,0,1.03,Won
+FURIA,Liquid, 11, 16,vtg,21,20,+1,0.98,Won
+FURIA,Chaos, 16, 11,inf,21,16,+5,1.33,Won
+FURIA,Chaos, 16, 8,nuke,25,12,+13,1.59,Won
+FURIA,TeamOne, 16, 7,nuke,17,9,+8,1.36,Won
+FURIA,TeamOne, 9, 16,mrg,14,18,-4,0.83,Won
+FURIA,TeamOne, 16, 9,trn,18,13,+5,1.26,Won
+FURIA,Yeah, 16, 14,mrg,18,19,-1,0.93,Won
+FURIA,Yeah, 16, 2,inf,14,7,+7,1.44,Won
+FURIA,Cloud9, 10, 16,trn,25,19,+6,1.23,Lost
+FURIA,Cloud9, 16, 1,vtg,17,10,+7,1.63,Lost
+FURIA,Cloud9, 10, 16,inf,9,18,-9,0.66,Lost
+FURIA,Liquid, 10, 16,nuke,16,15,+1,0.97,Lost
+FURIA,Liquid, 8, 16,vtg,16,16,0,0.99,Lost
+FURIA,MIBR, 16, 6,inf,22,12,+10,1.55,Won
+FURIA,MIBR, 16, 8,vtg,17,9,+8,1.24,Won
+FURIA,Evil Geniuses, 13, 16,inf,19,19,0,1.07,Lost
+FURIA,Evil Geniuses, 13, 16,vtg,14,20,-6,0.89,Lost
+FURIA,Evil Geniuses, 16, 14,nuke,17,15,+2,1.03,Lost
+FURIA,Evil Geniuses, 12, 16,trn,20,19,+1,1.08,Lost
+FURIA,Evil Geniuses, 14, 16,inf,23,18,+5,1.20,Lost
+FURIA,Evil Geniuses, 16, 14,vtg,16,18,-2,0.90,Lost
+FURIA,Liquid, 16, 8,mrg,22,11,+11,1.62,Won
+FURIA,Liquid, 10, 16,nuke,11,20,-9,0.65,Won
+FURIA,Liquid, 16, 10,vtg,20,13,+7,1.41,Won
+FURIA,MIBR, 9, 16,vtg,14,15,-1,1.05,Lost
+FURIA,MIBR, 14, 16,inf,15,17,-2,0.94,Lost
+FURIA,Liquid, 16, 5,vtg,16,9,+7,1.35,Won
+FURIA,Liquid, 16, 12,mrg,23,15,+8,1.33,Won
+FURIA,100 Thieves, 16, 14,trn,17,18,-1,0.99,Won
+FURIA,100 Thieves, 16, 11,vtg,22,10,+12,1.41,Won
+FURIA,100 Thieves, 4, 16,inf,8,17,-9,0.69,Won
+FURIA,Triumph, 16, 6,mrg,18,8,+10,1.38,Won
+FURIA,Triumph, 16, 10,inf,17,16,+1,1.02,Won
+FURIA,Triumph, 11, 16,ovp,14,17,-3,0.90,Won
+FURIA,Infinity, 16, 7,ovp,19,11,+8,1.38,Won
+FURIA,Infinity, 16, 4,mrg,13,8,+5,1.18,Won
+FURIA,Gen.G, 16, 12,inf,18,16,+2,1.16,Won
+FURIA,Gen.G, 16, 10,trn,20,15,+5,1.42,Won
+FURIA,Chaos, 16, 5,inf,15,9,+6,1.27,Won
+FURIA,Gen.G, 16, 8,inf,27,11,+16,1.77,Won
+FURIA,MIBR, 13, 16,inf,19,23,-4,0.88,Lost
+FURIA,Chaos, 16, 8,ovp,15,10,+5,1.13,Won
+FURIA,Chaos, 17, 19,nuke,24,20,+4,1.16,Won
+FURIA,Chaos, 16, 11,inf,23,11,+12,1.35,Won
+FURIA,Liquid, 22, 20,mrg,27,27,0,0.96,Won
+FURIA,Liquid, 16, 14,nuke,19,21,-2,1.08,Won
+FURIA,Liquid, 9, 16,vtg,16,16,0,0.99,Won
+FURIA,MIBR, 16, 12,trn,17,19,-2,1.03,Won
+FURIA,MIBR, 16, 11,vtg,14,15,-1,1.13,Won
+FURIA,Gen.G, 9, 16,inf,13,18,-5,0.84,Lost
+FURIA,Gen.G, 16, 12,vtg,14,15,-1,1.02,Lost
+FURIA,Gen.G, 6, 16,trn,11,14,-3,0.77,Lost
+FURIA,Liquid, 16, 12,vtg,22,15,+7,1.24,Won
+FURIA,Liquid, 16, 14,ovp,26,18,+8,1.37,Won
+FURIA,MIBR, 16, 10,vtg,19,13,+6,1.14,Won
+FURIA,MIBR, 16, 14,inf,34,18,+16,1.60,Won
+FURIA,Liquid, 16, 13,inf,20,17,+3,1.15,Won
+FURIA,Liquid, 16, 5,vtg,20,10,+10,1.57,Won
+FURIA,Yeah, 16, 9,nuke,23,12,+11,1.34,Won
+FURIA,Yeah, 16, 12,mrg,16,13,+3,1.12,Won
+FURIA,Yeah, 14, 16,inf,23,18,+5,1.16,Won
+FURIA,Bad News Bears, 16, 8,mrg,28,10,+18,1.79,Won
+FURIA,Bad News Bears, 16, 12,inf,18,15,+3,1.10,Won
+FURIA,Envy, 16, 6,inf,21,9,+12,1.36,Won
+FURIA,Envy, 16, 9,mrg,22,10,+12,1.68,Won
+FURIA,Envy, 20, 22,nuke,32,25,+7,1.17,Won
+FURIA,Evil Geniuses, 14, 16,inf,27,21,+6,1.27,Lost
+FURIA,Evil Geniuses, 10, 16,vtg,15,19,-4,0.83,Lost
+FURIA,MIBR, 16, 14,mrg,15,17,-2,0.92,Won
+FURIA,MIBR, 16, 4,vtg,14,6,+8,1.45,Won
+FURIA,100 Thieves, 16, 12,nuke,24,15,+9,1.40,Won
+FURIA,100 Thieves, 5, 16,vtg,10,15,-5,0.79,Won
+FURIA,100 Thieves, 16, 4,mrg,19,6,+13,1.83,Won
+FURIA,Swole Patrol, 7, 16,nuke,16,18,-2,0.92,Lost
+FURIA,Swole Patrol, 12, 16,vtg,12,17,-5,0.76,Lost
+FURIA,Evil Geniuses, 13, 16,nuke,22,19,+3,1.08,Lost
+FURIA,Evil Geniuses, 14, 16,trn,20,17,+3,1.10,Lost
+FURIA,Evil Geniuses, 16, 8,mrg,19,11,+8,1.30,Lost
+FURIA,MIBR, 16, 8,mrg,23,10,+13,1.57,Won
+FURIA,MIBR, 6, 16,inf,21,17,+4,1.24,Won
+FURIA,MIBR, 16, 4,trn,17,9,+8,1.39,Won
+FURIA,Liquid, 16, 13,mrg,22,17,+5,1.17,Won
+FURIA,Liquid, 16, 11,inf,31,9,+22,2.08,Won
+FURIA,Liquid, 10, 16,nuke,12,17,-5,0.76,Won
+FURIA,Envy, 16, 7,nuke,15,10,+5,1.32,Won
+FURIA,Envy, 16, 11,mrg,17,12,+5,1.22,Won
+FURIA,Triumph, 16, 11,inf,20,14,+6,1.27,Won
+FURIA,Triumph, 16, 14,ovp,23,18,+5,1.16,Won
+FURIA,Gen.G, 15, 19,inf,25,22,+3,1.15,Lost
+FURIA,Gen.G, 7, 16,nuke,20,18,+2,1.21,Lost
+FURIA,Complexity, 16, 14,nuke,24,17,+7,1.41,Won
+FURIA,Complexity, 16, 11,ovp,12,15,-3,0.85,Won
+FURIA,Complexity, 11, 16,mrg,19,15,+4,1.10,Won
+FURIA,North, 16, 3,ovp,22,9,+13,1.70,Won
+FURIA,Endpoint, 16, 6,inf,17,11,+6,1.26,Won
+FURIA,Gen.G, 9, 16,inf,14,19,-5,0.77,Lost
+FURIA,Gen.G, 13, 16,trn,23,19,+4,1.19,Lost
+FURIA,Chaos, 14, 16,mrg,12,18,-6,0.77,Lost
+FURIA,Chaos, 14, 16,trn,20,18,+2,1.15,Lost
+FURIA,Spirit, 11, 16,nuke,13,18,-5,0.82,Lost
+FURIA,Spirit, 4, 16,mrg,13,15,-2,0.84,Lost
+FURIA,Movistar Riders, 16, 13,nuke,23,18,+5,1.28,Won
+FURIA,Movistar Riders, 16, 10,inf,14,14,0,1.06,Won
+FURIA,TYLOO, 16, 14,mrg,18,20,-2,1.04,Won
+FURIA,mousesports, 5, 16,vtg,8,19,-11,0.45,Lost
+FURIA,mousesports, 9, 16,mrg,16,18,-2,0.93,Lost
+FURIA,OG, 7, 16,inf,12,15,-3,0.95,Lost
+FURIA,OG, 14, 16,ovp,18,21,-3,1.01,Lost
+FURIA,MIBR, 19, 17,inf,41,20,+21,1.70,Won
+FURIA,MIBR, 16, 9,mrg,24,11,+13,1.43,Won
+FURIA,G2, 11, 16,nuke,26,17,+9,1.38,Lost
+FURIA,G2, 14, 16,vtg,22,16,+6,1.15,Lost
+FURIA,Virtus.pro, 5, 16,nuke,11,15,-4,0.95,Lost
+FURIA,Virtus.pro, 16, 9,mrg,17,12,+5,1.21,Won
+FURIA,forZe, 7, 16,mrg,19,20,-1,1.13,Lost
+FURIA,forZe, 17, 19,nuke,42,25,+17,1.70,Lost
+FURIA,forZe, 16, 14,inf,14,18,-4,0.79,Lost
+FURIA,Tricked, 14, 16,ovp,23,19,+4,1.08,Lost
+FURIA,Marskalk, 16, 10,nuke,12,17,-5,0.91,Won
+FURIA,100 Thieves, 11, 16,inf,18,16,+2,1.08,Lost
+FURIA,100 Thieves, 6, 16,vtg,11,18,-7,0.63,Lost
+FURIA,eUnited, 8, 16,vtg,14,15,-1,0.88,Lost
+FURIA,eUnited, 13, 16,ovp,22,17,+5,1.23,Lost
+FURIA,Isurus, 16, 8,nuke,21,11,+10,1.62,Won
+FURIA,Isurus, 16, 4,ovp,11,6,+5,1.19,Won
+FURIA,fnatic, 15, 19,mrg,30,21,+9,1.20,Lost
+FURIA,fnatic, 14, 16,nuke,24,16,+8,1.31,Lost
+FURIA,fnatic, 16, 11,inf,24,13,+11,1.40,Lost
+FURIA,Renegades, 16, 11,mrg,18,13,+5,1.22,Won
+FURIA,Renegades, 16, 9,nuke,14,10,+4,1.14,Won
+FURIA,G2, 16, 14,mrg,16,18,-2,0.96,Won
+FURIA,G2, 16, 14,vtg,19,21,-2,0.99,Won
+FURIA,Vitality, 16, 9,nuke,35,13,+22,2.12,Won
+FURIA,Vitality, 16, 5,mrg,16,7,+9,1.50,Won
+FURIA,Evil Geniuses, 13, 16,trn,15,22,-7,0.88,Lost
+FURIA,Evil Geniuses, 12, 16,mrg,24,16,+8,1.29,Lost
+FURIA,AVANGAR, 16, 13,ovp,29,13,+16,1.64,Won
+FURIA,AVANGAR, 13, 16,mrg,17,15,+2,0.93,Won
+FURIA,AVANGAR, 16, 12,inf,21,14,+7,1.32,Won
+FURIA,5POWER, 16, 7,mrg,23,8,+15,1.66,Won
+FURIA,5POWER, 16, 1,inf,18,6,+12,1.69,Won
+FURIA,NiP, 5, 16,nuke,15,17,-2,0.84,Lost
+FURIA,NiP, 13, 16,trn,25,16,+9,1.46,Lost
+FURIA,Cloud9, 8, 16,ovp,16,19,-3,0.89,Lost
+FURIA,Cloud9, 11, 16,trn,16,18,-2,0.85,Lost
+FURIA,Cloud9, 16, 12,mrg,16,16,0,0.98,Lost
+FURIA,Riot Squad, 16, 10,nuke,24,14,+10,1.57,Won
+FURIA,Riot Squad, 13, 16,inf,17,18,-1,0.98,Won
+FURIA,Riot Squad, 16, 14,mrg,24,15,+9,1.29,Won
+FURIA,MIBR, 16, 14,mrg,24,17,+7,1.33,Won
+FURIA,MIBR, 11, 16,trn,19,19,0,1.02,Won
+FURIA,MIBR, 16, 5,ovp,19,11,+8,1.48,Won
+FURIA,Envy, 14, 16,vtg,18,17,+1,1.01,Lost
+FURIA,Envy, 14, 16,mrg,19,15,+4,1.11,Lost
+FURIA,Envy, 16, 9,nuke,13,11,+2,1.11,Lost
+FURIA,Swole Patrol, 16, 13,vtg,20,19,+1,1.26,Won
+FURIA,Swole Patrol, 16, 12,inf,14,17,-3,0.93,Won
+FURIA,fnatic, 5, 16,inf,17,14,+3,1.10,Lost
+FURIA,fnatic, 32, 34,ovp,36,40,-4,0.93,Lost
+FURIA,ENCE, 16, 9,trn,24,14,+10,1.64,Won
+FURIA,ENCE, 16, 13,mrg,31,14,+17,1.55,Won
+FURIA,Envy, 16, 9,mrg,20,12,+8,1.42,Won
+FURIA,Envy, 10, 16,nuke,17,16,+1,1.19,Won
+FURIA,Envy, 16, 8,vtg,23,13,+10,1.57,Won
+FURIA,G2, 14, 16,trn,20,20,0,1.04,Lost
+FURIA,Sprout, 13, 16,trn,21,21,0,1.21,Lost
+FURIA,Sprout, 8, 16,mrg,9,19,-10,0.57,Lost
+FURIA,Sprout, 16, 9,inf,23,9,+14,1.53,Lost
+FURIA,BIG, 16, 13,nuke,23,13,+10,1.38,Won
+FURIA,BIG, 16, 9,trn,18,11,+7,1.34,Won
+FURIA,Illuminar, 14, 16,vtg,25,18,+7,1.29,Lost
+FURIA,BIG, 16, 7,ovp,15,10,+5,1.27,Won
+FURIA,CR4ZY, 16, 9,mrg,21,11,+10,1.47,Won
+FURIA,CR4ZY, 16, 11,vtg,23,15,+8,1.36,Won
+FURIA,Cloud9, 16, 10,mrg,11,14,-3,0.89,Won
+FURIA,Cloud9, 16, 12,trn,19,18,+1,1.10,Won
+FURIA,Syman, 7, 16,inf,16,16,0,0.88,Lost
+FURIA,Syman, 9, 16,trn,21,16,+5,1.32,Lost
+FURIA,forZe, 10, 16,nuke,10,19,-9,0.58,Lost
+FURIA,CR4ZY, 11, 16,trn,18,20,-2,0.97,Lost
+FURIA,HellRaisers, 16, 6,inf,19,11,+8,1.26,Won
+FURIA,AVANGAR, 16, 10,ovp,15,15,0,0.98,Won
+FURIA,AVANGAR, 16, 9,mrg,20,16,+4,1.12,Won
+FURIA,AVANGAR, 16, 11,vtg,17,12,+5,1.16,Won
+FURIA,AVANGAR, 6, 16,inf,8,16,-8,0.54,Won
+FURIA,INTZ, 16, 6,mrg,11,9,+2,1.10,Won
+FURIA,INTZ, 14, 16,nuke,24,15,+9,1.29,Won
+FURIA,INTZ, 16, 5,trn,12,8,+4,1.11,Won
+FURIA,Sharks, 16, 12,trn,23,14,+9,1.32,Won
+FURIA,Sharks, 16, 9,nuke,20,14,+6,1.19,Won
+FURIA,NRG, 19, 22,nuke,29,23,+6,1.07,Lost
+FURIA,NRG, 7, 16,trn,11,18,-7,0.75,Lost
+FURIA,Luminosity, 16, 11,mrg,22,14,+8,1.53,Won
+FURIA,Luminosity, 16, 12,vtg,20,19,+1,1.22,Won
+FURIA,eUnited, 16, 12,ovp,27,16,+11,1.49,Won
+FURIA,eUnited, 16, 9,nuke,18,12,+6,1.16,Won
+FURIA,INTZ, 13, 16,ovp,17,19,-2,0.90,Lost
+FURIA,Spirit, 16, 5,vtg,24,10,+14,1.65,Won
+FURIA,Spirit, 16, 10,nuke,22,14,+8,1.33,Won
+FURIA,Vitality, 16, 4,inf,24,11,+13,1.80,Won
+FURIA,Vitality, 16, 10,trn,29,16,+13,1.63,Won
+FURIA,Chiefs, 16, 11,nuke,25,17,+8,1.37,Won
+FURIA,Chiefs, 19, 16,trn,26,20,+6,1.16,Won
+FURIA,Sprout, 8, 16,inf,14,16,-2,1.01,Lost
+FURIA,Chiefs, 16, 6,nuke,26,9,+17,1.81,Won
+FURIA,Singularity, 16, 14,nuke,21,17,+4,1.26,Won
+FURIA,Singularity, 16, 11,trn,16,16,0,1.06,Won
+FURIA,Natus Vincere, 14, 16,ovp,22,20,+2,1.16,Lost
+FURIA,Natus Vincere, 12, 16,nuke,24,13,+11,1.32,Lost
+FURIA,Renegades, 16, 12,mrg,28,13,+15,1.57,Won
+FURIA,Renegades, 16, 9,nuke,19,13,+6,1.33,Won
+FURIA,NRG, 7, 16,nuke,17,17,0,0.92,Lost
+FURIA,eUnited, 14, 16,vtg,25,21,+4,1.21,Lost
+FURIA,eUnited, 3, 16,ovp,14,15,-1,0.85,Lost
+FURIA,Lazarus, 16, 14,ovp,32,18,+14,1.54,Won
+FURIA,Lazarus, 16, 8,mrg,26,10,+16,1.71,Won
+FURIA,TeamOne, 16, 8,vtg,16,15,+1,1.17,Won
+FURIA,TeamOne, 12, 16,mrg,26,15,+11,1.47,Won
+FURIA,TeamOne, 16, 4,trn,19,8,+11,1.56,Won
+FURIA,Party Astronauts, 16, 8,nuke,15,12,+3,1.19,Won
+FURIA,Party Astronauts, 16, 10,ovp,19,14,+5,1.30,Won
+FURIA,TeamOne, 16, 9,ovp,21,10,+11,1.44,Won
+FURIA,TeamOne, 16, 5,inf,18,9,+9,1.60,Won
+FURIA,TeamOne, 10, 16,trn,18,17,+1,0.92,Won
+FURIA,GamerLegion, 12, 16,vtg,15,19,-4,0.89,Lost
+FURIA,GamerLegion, 11, 16,inf,24,15,+9,1.41,Lost
+FURIA,TeamOne, 16, 13,ovp,12,20,-8,0.73,Won
+FURIA,TeamOne, 16, 3,nuke,16,8,+8,1.44,Won
+FURIA,Prospects, 16, 1,nuke,10,5,+5,1.21,Won
+FURIA,Party Astronauts, 8, 16,ovp,16,19,-3,0.91,Lost
+FURIA,Vitality, 4, 16,ovp,13,18,-5,0.75,Lost
+FURIA,Vitality, 9, 16,inf,14,18,-4,1.03,Lost
+FURIA,North, 22, 20,ovp,20,31,-11,0.83,Won
+FURIA,North, 16, 11,inf,25,11,+14,1.46,Won
+FURIA,Astralis, 16, 13,nuke,17,15,+2,0.94,Won
+FURIA,Astralis, 16, 10,mrg,15,17,-2,0.98,Won
+FURIA,Astralis, 12, 16,inf,20,20,0,1.05,Won
+FURIA,NRG, 9, 16,nuke,19,17,+2,1.10,Lost
+FURIA,NRG, 13, 16,trn,18,20,-2,0.97,Lost
+FURIA,Astralis, 16, 14,nuke,29,17,+12,1.42,Won
+FURIA,Liquid, 4, 16,ovp,12,14,-2,0.95,Lost
+FURIA,Liquid, 13, 16,nuke,19,19,0,0.96,Lost
+FURIA,Vitality, 16, 8,nuke,19,13,+6,1.25,Won
+FURIA,Vitality, 16, 8,inf,13,15,-2,0.92,Won
+FURIA,ENCE, 9, 16,nuke,9,14,-5,0.74,Lost
+FURIA,ENCE, 16, 11,trn,21,16,+5,1.16,Lost
+FURIA,ENCE, 9, 16,ovp,18,17,+1,1.13,Lost
+FURIA,fnatic, 16, 12,nuke,30,13,+17,1.62,Won
+FURIA,fnatic, 16, 12,mrg,10,15,-5,0.74,Won
+FURIA,NRG, 16, 7,ovp,16,14,+2,1.00,Won
+FURIA,The Quest, 16, 13,nuke,24,16,+8,1.25,Won
+FURIA,Polar Ace, 16, 11,nuke,29,15,+14,1.58,Won
+FURIA,Singularity, 16, 12,nuke,33,14,+19,1.78,Won
+FURIA,BLITZKRIEG, 16, 4,ovp,22,8,+14,1.77,Won
+FURIA,Ange's Big Toe, 16, 5,ovp,21,10,+11,1.58,Won
+FURIA,Bad News Bears, 7, 16,mrg,15,15,0,0.91,Lost
+FURIA,Mythic, 16, 8,ovp,8,11,-3,0.76,Won
+FURIA,Rugratz, 16, 6,ovp,16,7,+9,1.24,Won
+FURIA,Ascent, 16, 6,nuke,17,11,+6,1.32,Won
+FURIA,Variance, 16, 8,mrg,17,11,+6,1.26,Won
+FURIA,ATK, 16, 13,vtg,16,17,-1,0.89,Won
+FURIA,Chris and the boys, 16, 1,ovp,18,3,+15,1.78,Won
+FURIA,Ghost, 16, 8,cch,23,12,+11,1.50,Won
+FURIA,Ghost, 14, 16,ovp,22,20,+2,0.99,Won
+FURIA,Ghost, 16, 11,nuke,32,15,+17,1.96,Won
+FURIA,Ghost, 16, 9,inf,16,16,0,1.15,Won
+FURIA,Lazarus, 16, 9,mrg,22,11,+11,1.50,Won
+FURIA,Lazarus, 16, 9,nuke,24,10,+14,1.56,Won
+FURIA,Complexity, 16, 9,mrg,10,11,-1,0.97,Won
+FURIA,Complexity, 16, 13,nuke,22,21,+1,1.14,Won
+FURIA,Envy, 16, 14,mrg,24,17,+7,1.25,Won
+FURIA,Envy, 16, 12,nuke,29,15,+14,1.49,Won
+FURIA,Bad News Bears, 19, 16,ovp,32,26,+6,1.34,Won
+FURIA,Bad News Bears, 16, 10,inf,16,13,+3,1.29,Won
+FURIA,Bad News Bears, 14, 16,mrg,20,17,+3,1.12,Won
+FURIA,Lazarus, 9, 16,inf,13,18,-5,0.82,Lost
+FURIA,Lazarus, 15, 19,mrg,24,22,+2,1.08,Lost
+FURIA,Lazarus, 16, 10,ovp,17,11,+6,1.12,Lost
+FURIA,MASSIVEimpact, 11, 16,inf,12,17,-5,Nil,Nil
+FURIA,Spacestation, 16, 7,vtg,21,10,+11,1.52,Won
+FURIA,TeamOne, 12, 16,inf,16,16,0,1.11,Lost
+FURIA,INTZ, 19, 15,mrg,21,19,+2,1.12,Won
+FURIA,INTZ, 12, 16,trn,18,17,+1,1.10,Won
+FURIA,INTZ, 16, 4,inf,35,4,+31,2.55,Won
+FURIA,Luminosity, 16, 7,ovp,15,18,-3,0.98,Won
+FURIA,Luminosity, 16, 11,inf,11,14,-3,0.87,Won
+FURIA,Luminosity, 15, 19,cch,13,25,-12,0.61,Won
+FURIA,Spacestation, 16, 3,nuke,11,10,+1,0.95,Won
+FURIA,Spacestation, 16, 6,cch,16,12,+4,1.03,Won
+FURIA,Luminosity, 16, 5,inf,13,11,+2,1.21,Won
+FURIA,Luminosity, 16, 14,cch,25,16,+9,1.43,Won
+FURIA,Luminosity, 17, 19,ovp,19,26,-7,0.71,Won
+FURIA,Variance, 16, 9,ovp,21,15,+6,1.35,Won
+FURIA,AVANGAR, 16, 19,trn,16,23,-7,0.80,Lost
+FURIA,AVANGAR, 8, 16,inf,8,18,-10,0.63,Lost
+FURIA,AVANGAR, 16, 2,vtg,20,9,+11,1.52,Lost
+FURIA,Sharks, 16, 4,vtg,20,11,+9,1.49,Won
+FURIA,Sharks, 16, 13,inf,15,19,-4,0.80,Won
+FURIA,INTZ, 16, 4,trn,15,10,+5,1.42,Won
+FURIA,INTZ, 16, 3,nuke,19,8,+11,1.76,Won
+FURIA,eUnited, 16, 8,nuke,19,12,+7,1.32,Won
+FURIA,eUnited, 16, 13,inf,21,16,+5,1.17,Won
+FURIA,INTZ, 11, 16,mrg,20,17,+3,1.20,Lost
+FURIA,Bad News Bears, 16, 10,inf,19,15,+4,1.30,Won
+FURIA,Bad News Bears, 16, 10,cch,27,12,+15,1.65,Won
+MDL All-Star KSCERATO,MDL All-Star boltz, 11, 16,inf,20,20,0,1.05,Lost
+MDL All-Star KSCERATO,MDL All-Star boltz, 16, 9,mrg,25,11,+14,1.68,Lost
+MDL All-Star KSCERATO,MDL All-Star boltz, 12, 16,cch,16,18,-2,0.90,Lost
+FURIA,Singularity, 16, 5,mrg,23,7,+16,2.07,Won
+FURIA,Singularity, 16, 14,inf,17,15,+2,1.02,Won
+FURIA,TeamOne, 16, 8,inf,17,11,+6,1.34,Won
+FURIA,TeamOne, 16, 6,ovp,14,10,+4,1.22,Won
+FURIA,TeamOne, 8, 16,trn,16,16,0,1.02,Won
+FURIA,eUnited, 16, 3,inf,12,7,+5,1.39,Won
+FURIA,eUnited, 16, 6,nuke,19,13,+6,1.31,Won
+FURIA,eUnited, 16, 5,mrg,20,10,+10,1.56,Won
+FURIA,eUnited, 16, 11,trn,24,15,+9,1.41,Won
+FURIA,Complexity, 16, 8,ovp,19,15,+4,1.21,Won
+FURIA,Complexity, 16, 13,nuke,27,17,+10,1.34,Won
+FURIA,Luminosity, 16, 13,trn,26,17,+9,1.38,Won
+FURIA,Luminosity, 12, 16,ovp,11,18,-7,0.75,Won
+FURIA,Luminosity, 16, 3,inf,10,5,+5,1.22,Won
+FURIA,NRG, 6, 16,trn,20,15,+5,1.39,Lost
+FURIA,NRG, 20, 22,ovp,50,24,+26,1.82,Lost
+FURIA,NRG, 16, 11,inf,18,13,+5,1.14,Lost
+FURIA,Complexity, 16, 11,nuke,26,15,+11,1.50,Won
+FURIA,Complexity, 9, 16,mrg,16,17,-1,0.99,Won
+FURIA,Complexity, 16, 7,inf,14,13,+1,1.33,Won
+FURIA,Luminosity, 16, 12,trn,19,16,+3,1.14,Won
+FURIA,Luminosity, 16, 11,ovp,18,21,-3,0.84,Won
+FURIA,Luminosity, 4, 16,inf,10,13,-3,0.84,Won
+FURIA,Old Guys Club, 16, 9,ovp,26,13,+13,1.60,Won
+FURIA,Bad News Bears, 16, 5,ovp,19,7,+12,1.49,Won
+FURIA,Final Feature, 16, 13,mrg,22,15,+7,1.22,Won
+FURIA,Mythic, 16, 7,ovp,18,11,+7,1.35,Won
+FURIA,Infamous, 16, 7,trn,20,10,+10,1.79,Won
+FURIA,TeamOne, 19, 15,trn,26,19,+7,1.25,Won
+FURIA,MASSIVEimpact, 16, 6,ovp,11,12,-1,0.98,Won
+FURIA,iNTACT, 16, 6,nuke,25,10,+15,1.85,Won
+FURIA,Luminosity, 16, 4,ovp,14,8,+6,1.29,Won
+FURIA,The Quest, 16, 11,mrg,16,13,+3,1.02,Won
+FURIA,The Quest, 16, 6,ovp,25,6,+19,1.72,Won
+FURIA,Singularity, 10, 16,ovp,18,19,-1,0.93,Lost
+FURIA,Singularity, 14, 16,mrg,15,14,+1,0.91,Lost
+FURIA,Singularity, 19, 17,cch,28,21,+7,1.21,Lost
+FURIA,TeamOne, 16, 5,trn,18,11,+7,1.41,Won
+FURIA,TeamOne, 16, 9,mrg,22,10,+12,1.28,Won
+FURIA,The Fundamentals, 16, 10,cch,23,9,+14,1.54,Won
+FURIA,Final Feature, 16, 6,mrg,15,7,+8,1.29,Won
+FURIA,Final Feature, 16, 9,inf,18,13,+5,1.22,Won
+FURIA,Singularity, 19, 15,ovp,25,14,+11,1.19,Won
+FURIA,Spacestation, 16, 2,inf,15,4,+11,1.61,Won
+FURIA,Party Astronauts, 16, 9,mrg,8,14,-6,0.72,Won
+FURIA,Denial, 16, 2,nuke,16,5,+11,1.72,Won
+FURIA,Cloud9, 10, 16,cch,16,16,0,1.05,Lost
+FURIA,Cloud9, 1, 16,inf,5,17,-12,0.33,Lost
+FURIA,Cloud9, 16, 1,mrg,8,3,+5,1.04,Lost
+FURIA,Spirit, 16, 14,nuke,25,16,+9,1.25,Won
+FURIA,Spirit, 16, 9,mrg,18,12,+6,1.21,Won
+FURIA,AVANGAR, 14, 16,mrg,20,14,+6,1.21,Lost
+FURIA,NiP, 6, 16,mrg,15,12,+3,1.12,Lost
+FURIA,HellRaisers, 10, 16,cch,15,19,-4,0.82,Lost
+FURIA,HellRaisers, 12, 16,inf,22,18,+4,1.08,Lost
+FURIA,Winstrike, 16, 13,ovp,36,18,+18,1.84,Won
+FURIA,Winstrike, 6, 16,mrg,16,19,-3,0.81,Won
+FURIA,Winstrike, 16, 4,nuke,25,6,+19,2.11,Won
+FURIA,Heroic, 16, 11,inf,14,20,-6,0.76,Won
+FURIA,Heroic, 3, 16,ovp,12,15,-3,0.95,Won
+FURIA,Heroic, 16, 9,mrg,15,12,+3,1.11,Won
+FURIA,Spirit, 17, 19,ovp,39,23,+16,1.57,Lost
+FURIA,Envy, 16, 11,cch,16,11,+5,1.12,Won
+FURIA,Envy, 16, 2,ovp,12,7,+5,1.28,Won
+FURIA,NRG, 12, 16,cch,12,20,-8,0.72,Lost
+FURIA,NRG, 9, 16,inf,10,17,-7,0.69,Lost
+FURIA,INTZ, 16, 7,inf,18,11,+7,1.34,Won
+FURIA,INTZ, 16, 9,mrg,27,13,+14,1.65,Won
+FURIA,INTZ, 8, 16,trn,19,17,+2,1.10,Won
+FURIA,Envy, 16, 9,mrg,27,7,+20,1.82,Won
+FURIA,Envy, 16, 14,inf,16,15,+1,1.04,Won
+FURIA,eUnited, 16, 11,mrg,20,15,+5,1.06,Won
+FURIA,Drip or Drown, 5, 16,inf,11,10,+1,1.14,Lost
+FURIA,Drip or Drown, 6, 16,mrg,15,17,-2,0.96,Lost
+FURIA,Drip or Drown, 16, 11,trn,25,13,+12,1.50,Lost
+FURIA,Singularity, 16, 6,nuke,23,12,+11,1.58,Won
+FURIA,Singularity, 16, 9,ovp,18,15,+3,1.08,Won
+FURIA,Singularity, 11, 16,cch,20,15,+5,1.17,Won
+FURIA,Fragging for Andy, 16, 14,trn,22,15,+7,1.26,Won
+FURIA,Fragging for Andy, 16, 3,mrg,15,8,+7,1.36,Won
+FURIA,can't believe she took the kids, 16, 3,cch,21,8,+13,1.76,Won
+FURIA,Rogue, 10, 16,ovp,16,14,+2,1.10,Lost
+FURIA,Rogue, 14, 16,nuke,29,15,+14,1.42,Lost
+FURIA,Rogue, 16, 10,trn,29,10,+19,1.74,Lost
+FURIA,Ghost, 16, 4,mrg,13,8,+5,1.28,Won
+FURIA,Ghost, 16, 6,inf,17,7,+10,1.50,Won
+FURIA,Swole Patrol, 16, 9,ovp,24,12,+12,1.56,Won
+FURIA,Swole Patrol, 19, 15,cch,21,21,0,0.93,Won
+FURIA,Luminosity, 16, 11,ovp,21,12,+9,1.18,Won
+FURIA,Luminosity, 16, 9,cch,21,12,+9,1.36,Won
+FURIA,Envy, 16, 11,trn,29,13,+16,1.66,Won
+FURIA,Envy, 21, 25,inf,34,22,+12,1.19,Won
+FURIA,Envy, 16, 6,cch,17,9,+8,1.42,Won
+FURIA,Singularity, 16, 4,trn,14,7,+7,1.34,Won
+FURIA,Singularity, 16, 8,cch,18,9,+9,1.55,Won
+FURIA,Masked, 16, 6,mrg,17,10,+7,1.45,Won
+FURIA,Masked, 16, 7,cch,17,10,+7,1.26,Won
+FURIA,ETHEREAL, 16, 9,trn,29,14,+15,1.81,Won
+FURIA,ETHEREAL, 16, 5,ovp,19,5,+14,1.55,Won
+FURIA,ETHEREAL, 9, 16,mrg,14,18,-4,0.86,Won
+FURIA,iNTACT, 11, 16,inf,13,17,-4,0.86,Lost
+FURIA,iNTACT, 16, 13,mrg,28,13,+15,1.55,Lost
+FURIA,iNTACT, 6, 16,ovp,12,14,-2,0.89,Lost
+FURIA,Final Feature, 16, 5,mrg,10,6,+4,1.15,Won
+FURIA,Final Feature, 16, 10,trn,14,15,-1,0.88,Won
+FURIA,Final Feature, 12, 16,ovp,15,17,-2,0.93,Won
+FURIA,Masked, 16, 14,nuke,17,19,-2,1.00,Won
+FURIA,Masked, 16, 10,inf,20,8,+12,1.52,Won
+FURIA,LiViD, 16, 12,nuke,11,17,-6,0.86,Won
+FURIA,LiViD, 16, 6,cch,13,10,+3,1.17,Won
+FURIA,INTZ, 6, 16,cch,13,17,-4,0.79,Lost
+FURIA,INTZ, 14, 16,ovp,17,19,-2,1.04,Lost
+FURIA,INTZ, 16, 10,mrg,11,11,0,0.89,Lost
+FURIA,KAIJU, 16, 1,nuke,13,6,+7,1.38,Won
+FURIA,KAIJU, 16, 6,inf,18,9,+9,1.49,Won
+FURIA,INTZ, 13, 16,cch,18,18,0,1.04,Lost
+FURIA,blitz, 16, 6,inf,16,11,+5,1.35,Won
+FURIA,blitz, 16, 3,nuke,22,8,+14,1.78,Won
+FURIA,Mythic, 16, 12,trn,27,15,+12,1.51,Won
+FURIA,eUnited, 5, 16,mrg,6,15,-9,0.54,Lost
+FURIA,eUnited, 3, 16,trn,8,18,-10,0.60,Lost
+FURIA,TeamOne, 16, 3,ovp,8,10,-2,0.88,Won
+FURIA,TeamOne, 19, 17,trn,35,20,+15,1.52,Won
+FURIA,TeamOne, 8, 16,inf,11,17,-6,0.75,Won
+FURIA,Bravado, 16, 8,inf,26,13,+13,1.71,Won
+FURIA,ETHEREAL, 16, 3,inf,20,7,+13,1.92,Won
+FURIA,Gorilla Gang, 7, 16,trn,14,19,-5,0.76,Lost
+FURIA,Gorilla Gang, 13, 16,nuke,16,19,-3,0.91,Lost
+FURIA,lmfao, 16, 14,mrg,30,17,+13,1.49,Won
+FURIA,lmfao, 16, 13,cch,26,13,+13,1.49,Won
+FURIA,Bravado, 14, 16,trn,22,20,+2,1.02,Lost
+FURIA,Bravado, 14, 16,nuke,30,20,+10,1.44,Lost
+FURIA,Bravado, 14, 16,cch,17,19,-2,0.89,Lost
+FURIA,Swole Patrol, 13, 16,nuke,15,19,-4,0.81,Lost
+FURIA,Swole Patrol, 9, 16,cch,21,16,+5,1.25,Lost
+FURIA,Swole Patrol, 16, 11,trn,23,16,+7,1.38,Won
+FURIA,Swole Patrol, 5, 16,ovp,14,16,-2,0.96,Won
+FURIA,Swole Patrol, 16, 5,mrg,18,11,+7,1.54,Won
+FURIA,small meats, 19, 17,nuke,30,25,+5,1.26,Won
+FURIA,small meats, 16, 6,inf,28,7,+21,2.07,Won
+FURIA,Hysteria, 16, 7,mrg,16,10,+6,1.28,Won
+FURIA,Fam143, 5, 16,inf,18,14,+4,1.23,Lost
+FURIA,Fam143, 14, 16,nuke,38,20,+18,1.80,Lost
+FURIA,Fam143, 16, 9,cch,20,15,+5,1.53,Lost
+FURIA,Titan, 16, 10,mrg,29,14,+15,1.82,Won
+FURIA,Gorilla Gang, 14, 16,inf,19,19,0,1.11,Lost
+FURIA,Dignitas, 17, 19,mrg,23,19,+4,1.03,Lost
+FURIA,Dignitas, 8, 16,inf,18,19,-1,1.01,Lost
+FURIA,Complexity, 7, 16,cch,7,18,-11,0.57,Lost
+FURIA,Ghost, 4, 16,ovp,12,16,-4,0.74,Lost
+FURIA,Ghost, 14, 16,cch,22,17,+5,1.09,Lost
+FURIA,eUnited, 16, 7,cch,17,14,+3,1.25,Won
+FURIA,eUnited, 16, 9,inf,31,16,+15,1.85,Won
+FURIA,eUnited, 6, 16,ovp,13,17,-4,0.84,Won
+FURIA,Complexity, 16, 6,trn,25,11,+14,1.71,Won
+FURIA,Complexity, 19, 15,nuke,34,23,+11,1.42,Won
+FURIA,Complexity, 5, 16,inf,9,14,-5,0.81,Won
+FURIA,Virtue, 16, 10,inf,21,13,+8,1.42,Won
+FURIA,Virtue, 16, 11,nuke,22,16,+6,1.34,Won
+FURIA,Yeah, 16, 3,ovp,14,8,+6,1.41,Won
+FURIA,Yeah, 16, 7,nuke,27,12,+15,1.73,Won
+FURIA,Bulldozer, 16, 6,inf,14,11,+3,1.08,Won
+FURIA,Bulldozer, 15, 15,trn,22,23,-1,Nil,Nil
+FURIA,Yeah, 16, 2,mrg,13,8,+5,1.50,Won
+FURIA,Yeah, 19, 17,cch,22,29,-7,0.85,Won
+FURIA,Virtue, 16, 6,cch,15,15,0,1.15,Won
+FURIA,Virtue, 15, 15,nuke,19,18,+1,Nil,Nil
+FURIA,Yeah, 16, 10,mrg,17,13,+4,1.12,Won
+FURIA,Yeah, 16, 4,inf,18,8,+10,1.63,Won
+FURIA,Yeah, 13, 16,trn,17,21,-4,0.93,Won
+FURIA,Bulldozer, 19, 15,mrg,23,21,+2,1.09,Won
+FURIA,Bulldozer, 16, 5,inf,19,11,+8,1.35,Won
+FURIA,Isurus, 16, 11,mrg,20,17,+3,1.18,Won
+FURIA,TEAMMATE, 16, 7,cch,23,13,+10,1.56,Won
+FURIA,TEAMMATE, 16, 6,mrg,17,9,+8,1.51,Won
+FURIA,Yeah, 10, 16,nuke,22,21,+1,1.07,Lost
+FURIA,Yeah, 16, 13,inf,26,18,+8,1.39,Won
+FURIA,Coscu Army, 16, 2,inf,9,8,+1,1.00,Won
+FURIA,DETONA, 16, 3,trn,8,8,0,1.14,Won
+FURIA,TEAMMATE, 16, 12,inf,22,17,+5,1.23,Won
+FURIA,Não Tem Como, 8, 16,d2,17,19,-2,0.90,Lost
+FURIA,Não Tem Como, 9, 16,nuke,16,17,-1,1.03,Lost
+FURIA,Isurus, 16, 6,ovp,18,12,+6,1.36,Won
+FURIA,Isurus, 16, 11,inf,20,13,+7,1.29,Won
+FURIA,W7M, 16, 9,cch,29,13,+16,1.92,Won
+FURIA,DETONA, 16, 3,inf,16,10,+6,1.48,Won
+FURIA,DETONA, 16, 6,mrg,19,11,+8,1.42,Won
+FURIA,Wild, 16, 5,mrg,22,8,+14,1.63,Won
+FURIA,Wild, 16, 14,trn,17,15,+2,1.00,Won
+FURIA,Furious, 19, 15,cch,28,21,+7,1.23,Won
+FURIA,Furious, 19, 17,trn,24,21,+3,0.99,Won
+FURIA,C4, 19, 15,cch,32,20,+12,1.44,Won
+FURIA,Virtue, 16, 9,nuke,18,14,+4,1.14,Won
+FURIA,Virtue, 16, 4,inf,19,8,+11,1.60,Won
+FURIA,DETONA, 16, 7,cch,20,12,+8,1.54,Won
+FURIA,Não Tem Como, 19, 16,trn,36,22,+14,1.56,Won
+FURIA,Não Tem Como, 16, 13,cch,19,17,+2,1.07,Won
+FURIA,INTZ, 16, 3,ovp,9,7,+2,1.14,Won
+FURIA,INTZ, 4, 16,mrg,14,18,-4,0.95,Won
+FURIA,INTZ, 16, 9,trn,20,14,+6,1.17,Won
+FURIA,C4, 16, 8,mrg,22,13,+9,1.48,Won
+FURIA,C4, 16, 13,cch,28,17,+11,1.44,Won
+FURIA,Não Tem Como, 12, 16,ovp,19,16,+3,1.19,Lost
+FURIA,Não Tem Como, 14, 16,nuke,14,19,-5,0.85,Lost
+FURIA,Não Tem Como, 16, 13,cch,20,18,+2,1.20,Lost
+FURIA,Não Tem Como, 10, 16,trn,22,22,0,1.09,Lost
+FURIA,C4, 16, 14,cch,22,19,+3,1.13,Won
+FURIA,C4, 16, 1,mrg,16,6,+10,1.47,Won
+FURIA,Virtue, 10, 16,d2,19,22,-3,1.05,Lost
+FURIA,Virtue, 16, 8,ovp,22,10,+12,1.47,Lost
+FURIA,Virtue, 10, 16,inf,11,18,-7,0.78,Lost
+FURIA,Bulldozer, 16, 9,mrg,18,15,+3,1.17,Won
+FURIA,Bulldozer, 16, 3,inf,19,8,+11,1.88,Won
+FURIA,Sharks, 12, 16,cch,30,22,+8,1.61,Lost
+FURIA,Sharks, 16, 4,cbl,21,7,+14,1.94,Lost
+FURIA,Sharks, 14, 16,inf,21,17,+4,1.05,Lost
+FURIA,Sharks, 14, 16,mrg,25,18,+7,1.28,Lost
+FURIA,Isurus, 16, 11,trn,23,19,+4,1.40,Won
+FURIA,Isurus, 16, 6,mrg,19,13,+6,1.48,Won
+FURIA,Isurus, 16, 7,inf,22,14,+8,1.34,Won
+FURIA,Isurus, 16, 11,ovp,20,11,+9,1.41,Won
+FURIA,Yeah, 16, 5,inf,12,12,0,1.00,Won
+FURIA,Yeah, 16, 7,mrg,12,12,0,1.02,Won
+FURIA,Isurus, 16, 11,ovp,25,16,+9,1.33,Won
+FURIA,Isurus, 16, 7,inf,13,14,-1,0.87,Won
+FURIA,W7M, 16, 7,ovp,15,12,+3,1.23,Won
+FURIA,W7M, 16, 10,mrg,14,12,+2,1.07,Won
+FURIA,Não Tem Como, 16, 6,inf,20,11,+9,1.61,Won
+FURIA,Não Tem Como, 4, 16,mrg,8,17,-9,0.43,Won
+FURIA,Não Tem Como, 16, 12,cch,34,18,+16,1.84,Won
+FURIA,Não Tem Como, 16, 9,inf,23,14,+9,1.28,Won
+FURIA,Não Tem Como, 16, 11,cch,24,14,+10,1.44,Won
+FURIA,Virtue, 16, 7,trn,32,10,+22,2.10,Won
+FURIA,Virtue, 12, 16,cbl,23,19,+4,1.18,Won
+FURIA,Virtue, 16, 3,mrg,18,6,+12,1.52,Won
+FURIA,Avalanche, 16, 4,trn,16,9,+7,1.28,Won
+FURIA,Avalanche, 16, 10,inf,22,16,+6,1.40,Won
+FURIA,CSBL, 16, 6,inf,15,9,+6,1.25,Won
+FURIA,CSBL, 16, 9,ovp,18,11,+7,1.25,Won
+FURIA,W7M, 16, 10,cch,18,18,0,1.11,Won
+FURIA,W7M, 16, 9,cbl,15,15,0,1.04,Won
+FURIA,C4, 16, 4,trn,14,8,+6,1.24,Won
+FURIA,C4, 16, 3,cbl,17,7,+10,1.56,Won
+FURIA,Isurus, 16, 9,inf,22,12,+10,1.43,Won
+FURIA,Isurus, 13, 16,mrg,22,22,0,0.93,Lost
+FURIA,Furious, 16, 7,cch,19,8,+11,1.52,Won
+FURIA,Furious, 16, 3,cbl,15,7,+8,1.47,Won
+FURIA,Yeah, 10, 16,inf,16,15,+1,1.05,Lost
+FURIA,Yeah, 17, 19,mrg,33,25,+8,1.24,Lost
+FURIA,Sharks, 16, 1,inf,21,7,+14,2.09,Won
+FURIA,Sharks, 16, 6,cbl,17,10,+7,1.44,Won
+FURIA,Wild, 16, 0,inf,21,5,+16,2.09,Won
+FURIA,Wild, 16, 11,mrg,28,14,+14,1.62,Won
+FURIA,ex-Tempo Storm, 16, 7,mrg,10,9,+1,1.01,Won
+FURIA,ex-Tempo Storm, 16, 14,ovp,25,17,+8,1.38,Won
+FURIA,C4, 16, 3,cbl,14,13,+1,1.23,Won
+FURIA,C4, 16, 4,trn,18,9,+9,1.55,Won
+FURIA,Yeah, 7, 16,cch,12,17,-5,0.88,Lost
+FURIA,Yeah, 8, 16,inf,12,18,-6,0.83,Lost
+FURIA,TEAMMATE, 19, 17,cch,21,27,-6,1.00,Won
+FURIA,TEAMMATE, 16, 13,trn,20,19,+1,1.01,Won
+FURIA,Yeah, 22, 18,cch,29,21,+8,1.23,Won
+FURIA,Yeah, 16, 8,ovp,20,15,+5,1.30,Won
+FURIA,gloryUS, 16, 3,cbl,15,8,+7,1.32,Won
+FURIA,gloryUS, 16, 3,mrg,20,9,+11,1.70,Won
+FURIA,Avalanche, 16, 6,cch,22,8,+14,1.79,Won
+FURIA,Avalanche, 16, 9,inf,23,13,+10,1.48,Won
+FURIA,Isurus, 16, 7,inf,17,8,+9,1.34,Won
+FURIA,Isurus, 16, 13,cbl,24,20,+4,1.11,Won
+FURIA,Virtue, 16, 13,cch,25,13,+12,1.45,Won
+FURIA,Virtue, 16, 5,trn,17,8,+9,1.47,Won
+FURIA,BRK, 16, 3,trn,17,9,+8,1.57,Won
+FURIA,BRK, 16, 1,cbl,13,6,+7,1.55,Won
+FURIA,No Limits, 16, 6,cbl,12,8,+4,1.09,Won
+Dai Dai,INTZ, 5, 16,ovp,13,17,-4,0.90,Lost
+Dai Dai,INTZ, 6, 16,cbl,13,18,-5,0.92,Lost
+ProGaming,INTZ, 14, 16,cch,22,22,0,1.10,Lost
+ProGaming,INTZ, 6, 16,inf,12,17,-5,0.79,Lost
+ProGaming,INTZ, 19, 17,nuke,20,20,0,0.92,Lost
+
