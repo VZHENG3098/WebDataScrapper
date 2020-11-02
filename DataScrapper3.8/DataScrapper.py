@@ -8,14 +8,21 @@ from mechanize import Browser
 
 counter = 0
 allPlayer = dict()
+completedBy = time.time()
+
 with open('HLTV_Players.csv') as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for row in csvReader:
         allPlayer[row[0]] = row[0]
-        counter += 1
-        if counter > 10:
-            break
+        #counter += 1
+        #if counter > 2:
+            #break
 with open('CSGODATA.csv', 'w', newline='', encoding="utf-8") as outfile:
+    writer = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(
+        ["Player","Date (d/m/yy)","Player's Team","Player's Opponent", "Rounds Won", "Rounds Lost", "Map", "Kills", "Deaths", "+/-",
+         "Rating",
+         "Outcome"])
     for playerUrl in allPlayer:
         writer = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         headers = requests.utils.default_headers()
@@ -35,11 +42,6 @@ with open('CSGODATA.csv', 'w', newline='', encoding="utf-8") as outfile:
 
         playerName = soup.find("span", {"class": "context-item-name"})
         print(playerName.text)
-        writer.writerow([playerName.text])
-        writer.writerow(
-            ["Player's Team", "Player's Opponent", "Rounds Won", "Rounds Lost", "Map", "Kills", "Deaths", "+/-",
-             "Rating",
-             "Outcome"])
 
         for child in (g_data[0].findChildren("tbody"))[0].find_all("tr"):
             mapPlayed = child.find("td", {"class": "statsMapPlayed"}).text
@@ -52,6 +54,7 @@ with open('CSGODATA.csv', 'w', newline='', encoding="utf-8") as outfile:
             playerRating = "Nil"
             CurrentTeam = "Nil"
             CurrentOpponent = "Nil"
+            currentDate = child.find("div", {"class": "time"}).text
             for a in (child.find_all('td')):
                 if a.has_attr('class'):
                     if a['class'][0] == 'statsMapPlayed':
@@ -78,6 +81,7 @@ with open('CSGODATA.csv', 'w', newline='', encoding="utf-8") as outfile:
                         winOrLost = "Undecided"
                         non_decimal = re.compile(r'[^\d.]+')
                         playerRating = non_decimal.sub('', a.text)
+
                 else:
                     theClass = a.find("img", {"class": "statsLogo"})
                     theRound = a.find_all("span")
@@ -89,6 +93,7 @@ with open('CSGODATA.csv', 'w', newline='', encoding="utf-8") as outfile:
                             CurrentOpponent = theClass["title"]
                             OpponentRound = re.sub('[()]', '', theRound[1].text)
             writer.writerow(
-                [CurrentTeam, CurrentOpponent, playerRound, OpponentRound, mapPlayed, Kills, Deaths, playerPlusMinus,
+                [playerName.text,currentDate ,CurrentTeam, CurrentOpponent, playerRound, OpponentRound, mapPlayed, Kills, Deaths, playerPlusMinus,
                  playerRating, winOrLost])
         writer.writerow([])
+print(time.time()-completedBy)

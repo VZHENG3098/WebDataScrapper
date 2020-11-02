@@ -39,7 +39,7 @@ for playerUrl in allPlayer:
         print(playerName.text)
         writer.writerow([playerName.text])
         writer.writerow(
-            ["Player's Team", "Player's Opponent", "Rounds Won", "Rounds Lost", "Map", "Kills", "Deaths", "+/-", "Rating",
+            ["Player's Team", "Date (d/m/yy),""Player's Opponent", "Rounds Won", "Rounds Lost", "Map", "Kills", "Deaths", "+/-", "Rating",
              "Outcome"])
 
         for child in (g_data[0].findChildren("tbody"))[0].find_all("tr"):
@@ -53,6 +53,7 @@ for playerUrl in allPlayer:
             playerRating = "Nil"
             CurrentTeam = "Nil"
             CurrentOpponent = "Nil"
+            currentDate = child.find("div", {"class": "time"}).text
             for a in (child.find_all('td')):
                 if a.has_attr('class'):
                     if a['class'][0] == 'statsMapPlayed':
@@ -89,7 +90,7 @@ for playerUrl in allPlayer:
                         else:
                             CurrentOpponent = theClass["title"]
                             OpponentRound = re.sub('[()]', '', theRound[1].text)
-            writer.writerow([CurrentTeam, CurrentOpponent, playerRound, OpponentRound, mapPlayed, Kills, Deaths, playerPlusMinus,
+            writer.writerow([currentDate,CurrentTeam, CurrentOpponent, playerRound, OpponentRound, mapPlayed, Kills, Deaths, playerPlusMinus,
                  playerRating, winOrLost])
         writer.writerow([])
 
